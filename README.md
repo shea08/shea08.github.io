@@ -1,6 +1,8 @@
-# This is a blog
+# This is shea08's blog
 
 ## Introduction
+
+# My Projects
 
 ## Raspberry Pi DIY Projects
 
@@ -30,4 +32,4 @@ Programs that DO NOT work: Audacity
 
 ## PC Building and Repair
 
-## About me
+# About me
