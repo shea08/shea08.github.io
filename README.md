@@ -1,6 +1,4 @@
-# This is shea08's blog
-
-## Introduction
+# Introduction
 
 # My Projects
 
