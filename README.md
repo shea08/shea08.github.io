@@ -4,19 +4,19 @@
 
 # My Projects
 
-## Raspberry Pi DIY Projects
+<b> Raspberry Pi DIY Projects </b>
 
-### ccrisan/motioneye
+<b> ccrisan/motioneye </b>
 
-### GPS OpenStreets
+<b> GPS OpenStreets </b>
 
-## Google Pixelbook
+<b> Google Pixelbook </b>
 
 Faults Encountered
 
 - Google Keep acting strangely when drawing (screen goes blank and drawing surface turns into background web browser
 
-### Running Linux within a Google Pixelbook (Initial Experience)
+<b> Running Linux within a Google Pixelbook (Initial Experience) </b>
 
 This is a running log of Linux applications and whether or not they worked while running on a Google Pixelbook
 
@@ -35,18 +35,18 @@ Other Faults Encountered
 - Not allowing keyboard to popup in Linux apps while in tablet mode
 - Not allowing two finger tap for right clicking within Linux apps
 
-## Education and Learning
+<b> Education and Learning </b>
 
-### Biology
+<b> Biology </b>
 
-### Medicine
+<b> Medicine </b>
 
-### Radio
+<b> Radio </b>
+ 
+<b> Safety </b>
 
-### Safety
+<b> LPFM Radio </b>
 
-## LPFM Radio
-
-## PC Building and Repair
+<b> PC Building and Repair </b>
 
 # About me
