@@ -33,6 +33,10 @@ Other Faults Encountered
 - Not allowing keyboard to popup in Linux apps while in tablet mode
 - Not allowing two finger tap for right clicking within Linux apps
 
+How to Install Firefox
+
+sudo apt install firefox-esr
+
 <b> Education and Learning </b>
 
 <b> Biology </b>
