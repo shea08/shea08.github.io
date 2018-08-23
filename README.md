@@ -4,6 +4,8 @@
 
 <b> Etymology </b>
 
+I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how a word I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin and words...More to follow
+
 <b> Raspberry Pi DIY Projects </b>
 
 <b> ccrisan/motioneye </b>
