@@ -2,31 +2,31 @@
 
 # My Projects
 
-<b> Etymology </b>
+## Android Mobile Applications
 
-I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how a word I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin and words...More to follow
+<b> BeyondPod </b>
 
-<b> Raspberry Pi DIY Projects </b>
+<b> Epocrates </b>
 
-<b> ccrisan/motioneye </b>
+<b> Hi-Q MP3 Voice Recorder (Pro) (Beta) </b>
 
-<b> Global Positioning System (GPS) Open Street Map (OSM) with Raspberry Pi 3</b>
+<b> Hurry - Countdown to Birthday/Vacation (Beta) </b>
 
-ModMyPi Pi GPS Case (Matte Black)
+<b> Ingress </b>
 
-<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/DSC_0501-536x408-500x500.jpg">
+<b> KFLK </b>
 
-Raspberry Pi+ GPS Expansion Board (HAB-GPSPI-NAN)
+<b> Nova Launcher (Beta) </b>
 
-<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/IMG_0235-500x500.JPG">
+<b> Our Groceries Shopping List </b>
 
-GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
+<b> Tasker </b>
 
-<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/GA24-500-B01SP--500x500-500x500.jpg">
+<b> UpToDate </b>
 
-HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
+<b> Weather Timeline - Forecast </b>
 
-<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/61D-WtIWSRL._SL1000_.jpg">
+## Raspberry Pi DIY Projects
 
 <b> Google Pixelbook </b>
 
@@ -53,22 +53,63 @@ Other Faults Encountered
 - Not allowing keyboard to popup in Linux apps while in tablet mode
 - Not allowing two finger tap for right clicking within Linux apps
 
+<b> motioneye (ccrisan) </b>
+
+<b> Global Positioning System (GPS) Open Street Map (OSM) with Raspberry Pi 3 </b>
+
+ModMyPi Pi GPS Case (Matte Black)
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/DSC_0501-536x408-500x500.jpg">
+
+Raspberry Pi+ GPS Expansion Board (HAB-GPSPI-NAN)
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/IMG_0235-500x500.JPG">
+
+GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/GA24-500-B01SP--500x500-500x500.jpg">
+
+HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/61D-WtIWSRL._SL1000_.jpg">
+
+# Education and Learning
+
+<b> Biology </b>
+
+<b> Etymology </b>
+
+I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how a word I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin and words...More to follow
+
+<b> Linux </b>
+
 How to Install Firefox
 
 sudo apt install firefox-esr
 
-<b> Education and Learning </b>
+<b> LPFM Radio </b>
 
-<b> Biology </b>
+<b> Radio Software </b>
+
+| Program                           |     Notes      |
+|    :---:                          |     :---:      |     
+| Audacity                          |                | 
+| DJB II Radio Station Software     |                |
+| Dimension4                        |                | 
+| FileZilla                         |                |
+| GoodSync                          |                | 
+| DJB Radio Spider                  |                |      
 
 <b> Medicine </b>
 
-<b> Radio </b>
- 
-<b> Safety </b>
-
-<b> LPFM Radio </b>
-
 <b> PC Building and Repair </b>
 
+<b> Radio </b>
+ 
+<b> Health and Safety </b>
+
 # About me
+
+Ben Shea is a husband, low-power radio enthusiast, DIY technologist, and bass guitar player. He is currently transitioning into a career in healthcare and currently works as a Certified Nurse Assistant. His problem solving skills and expertise have been used to improve the efficiency and continuous improvement of many business processes.
+
+Ben received his B.S in Biology from Southeast Missouri State University. While serving in the United States Air Force as a Nuclear Operations Officer, he earned his M.S. in Occupational Health and Safety from Indiana State University.  
