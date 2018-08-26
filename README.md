@@ -10,7 +10,15 @@ I was first introduced to word etymology in Mr. Brail's High School English AP c
 
 <b> ccrisan/motioneye </b>
 
-<b> GPS OpenStreets </b>
+<b> Global Positioning System (GPS) Open Street Map (OSM) with Raspberry Pi 3</b>
+
+ModMyPi Pi GPS Case (Matte Black)
+
+Raspberry Pi+ GPS Expansion Board (HAB-GPSPI-NAN)
+
+GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
+
+HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
 
 <b> Google Pixelbook </b>
 
