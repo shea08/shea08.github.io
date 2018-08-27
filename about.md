@@ -11,13 +11,9 @@ Ben Shea is a husband, low-power radio enthusiast, DIY technologist, and bass gu
 Ben received his B.S in Biology from Southeast Missouri State University. While serving in the United States Air Force as a Nuclear Operations Officer, he earned his M.S. in Occupational Health and Safety from Indiana State University.
 
 * * *
-
-Follow or contact me:
-
 <a href="https://www.linkedin.com/in/sheabenjamin/">LinkedIn</a>
-
+* * *
 <a href="https://www.facebook.com/shea.benjamin">Facebook</a>
-
 * * *
 
 [back](./)
