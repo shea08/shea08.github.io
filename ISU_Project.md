@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h2 id="C4">Top</h2>
 
 # A STUDY IN WHOLE-BODY VIBRATION IN MILITARY ARMORED VEHICLES AND THE IMPACT IT HAS ON HUMAN RESPONSE TIME AND OTHER HUMAN FACTORS
 
@@ -26,7 +27,9 @@ I want to express my full thanks to all parties that have played a part in this 
 
 Several studies have found that continual exposure to WBV will increase lower back pain and health problems of workers (Zengyong Li et al., 2012; Arslan, 2014). At Minot Air Force Base, (MAFB) there are many remote underground Launch Facilities (LFs) that are defended around the clock by military security forces (SF). The LFs house one of the nation’s most powerful weapon systems; The Minuteman III Intercontinental Ballistic Missile (ICBM). Airman of the U.S. military are tasked with driving heavy armored vehicles on often unruly and uneven gravel roads. The primary goal of this project was to quantify the relationship of WBV, response time, and lower back pain using consumer electronics. 
 
-<a href="#A1"> Jump</a>
+
 * * *
+
+<a href="#C4">Jump to Top</a>
 
 [back](./)
