@@ -89,6 +89,12 @@ sudo apt install firefox-esr
 
 <b> LPFM Radio </b>
 
+<b> Microsoft Office 2013-2016 </b>
+
+<b> Microsoft Access </b>
+
+<b> Microsoft Excel </b>
+
 <b> Radio Software </b>
 
 | Program                           |     Notes      |
