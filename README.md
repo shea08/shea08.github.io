@@ -26,7 +26,7 @@
 
 <b> Weather Timeline - Forecast </b>
 
-## Raspberry Pi DIY Projects
+* * *
 
 <b> Google Pixelbook </b>
 
@@ -53,6 +53,10 @@ Other Faults Encountered
 - Not allowing keyboard to popup in Linux apps while in tablet mode
 - Not allowing two finger tap for right clicking within Linux apps
 
+* * *
+
+## Raspberry Pi DIY Projects
+
 <b> motioneye (ccrisan) </b>
 
 <b> Global Positioning System (GPS) Open Street Map (OSM) with Raspberry Pi 3 </b>
@@ -72,6 +76,8 @@ GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
 HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/61D-WtIWSRL._SL1000_.jpg">
+
+* * *
 
 # Education and Learning
 
@@ -114,8 +120,18 @@ sudo apt install firefox-esr
  
 <b> Health and Safety </b>
 
+* * *
+
 # About me
 
 Ben Shea is a husband, low-power radio enthusiast, DIY technologist, and bass guitar player. He is currently transitioning into a career in healthcare and currently works as a Certified Nurse Assistant. His problem solving skills and expertise have been used to improve the efficiency and continuous improvement of many business processes.
 
 Ben received his B.S in Biology from Southeast Missouri State University. While serving in the United States Air Force as a Nuclear Operations Officer, he earned his M.S. in Occupational Health and Safety from Indiana State University.  
+
+* * *
+
+Follow or contact me:
+
+<a href="https://www.linkedin.com/in/sheabenjamin/">LinkedIn</a>
+
+<a href="https://www.facebook.com/shea.benjamin">Facebook</a>
