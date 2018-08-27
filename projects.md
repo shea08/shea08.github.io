@@ -12,31 +12,31 @@ layout: default
 
 ## Android Mobile Applications
 
-<b> BeyondPod </b>
+<b> <a href="https://play.google.com/store/apps/details?id=mobi.beyondpod"> BeyondPod </a></b>
 
-<b> Epocrates </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.epocrates"> Epocrates </a></b>
 
-<b> Hi-Q MP3 Voice Recorder (Pro) (Beta) </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.hiqrecorder.full"> Hi-Q MP3 Voice Recorder (Pro) (Beta) </a></b>
 
-<b> Hurry - Countdown to Birthday/Vacation (Beta) </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.samruston.hurry"> Hurry - Countdown to Birthday/Vacation (Beta) </a></b>
 
-<b> Ingress </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.nianticproject.ingress"> Ingress </a></b>
 
-<b> KFLK </b>
+<b><a href="https://play.google.com/store/apps/details?id=com.kflkfm"> KFLK </a></b>
 
-<b> Nova Launcher (Beta) </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"> Nova Launcher (Beta) </a></b>
 
-<b> Our Groceries Shopping List </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.headcode.ourgroceries"> Our Groceries Shopping List </a></b>
 
-<b> Tasker </b>
+<b> <a href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm"> Tasker </a></b>
 
-<b> UpToDate </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.uptodate.android"> UpToDate </a></b>
 
-<b> Weather Timeline - Forecast </b>
+<b> <a href="https://play.google.com/store/apps/details?id=com.samruston.weather"> Weather Timeline - Forecast </a></b>
 
 * * *
 
-<b> Google Pixelbook </b>
+<b> <a href="https://store.google.com/us/product/google_pixelbook?hl=en-US"> Google Pixelbook </a></b>
 
 Faults Encountered
 
