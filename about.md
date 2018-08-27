@@ -12,4 +12,12 @@ Ben received his B.S in Biology from Southeast Missouri State University. While 
 
 * * *
 
+Follow or contact me:
+
+<a href="https://www.linkedin.com/in/sheabenjamin/">LinkedIn</a>
+
+<a href="https://www.facebook.com/shea.benjamin">Facebook</a>
+
+* * *
+
 [back](./)
