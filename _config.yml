@@ -4,3 +4,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+title: [Ben Shea]
+description: [sharing a passion for learning tech, science, and how it works]
