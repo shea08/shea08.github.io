@@ -151,6 +151,7 @@ The Transportation Research Board provides the conclusion that the following act
 ### Analysis and Statistics
 The two primary methods of data analysis focus on amplitude composition and frequency composition of a time-history.  Each category of data garners insight into the severity and type of vibration occurring. The amplitude used in vibration research is known as the root mean squared (r.m.s) amplitude and is defined as the square root of the mean of the time-history (n) over the square of the vertical distance of the graph from the rest state.
 
+* * *
 
 <a href="https://shea08.github.io/ISU_Project#abstract">Back to Top</a>
 
