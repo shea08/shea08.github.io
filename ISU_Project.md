@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-<h2 id="C4">Top</h2>
-
 # A STUDY IN WHOLE-BODY VIBRATION IN MILITARY ARMORED VEHICLES AND THE IMPACT IT HAS ON HUMAN RESPONSE TIME AND OTHER HUMAN FACTORS
 
 ### Keywords: whole-body vibration, military, iPod touch, consumer electronics, response time, lower back pain, vehicle rollover
 
 * * * 
 
-### <h2 id="A1"> ABSTRACT </h2>
+### ABSTRACT
 
 The 91st Missile Wing drove approximately 4 million miles last year on U.S. highways and gravel roads in North Dakota (Pape, 2016). This study focused on the UA-HMMWV (Up Armored-High Mobility Multipurpose Wheeled Vehicle). Military security forces (SF) that operate these vehicles suffered from a high rate of lower back pain and vehicle rollover. These rollover accidents are especially common in the HMMWV when driving on gravel roads. This study focused on whole-body vibration (WBV) and its human health and performance effects in relation to driving armored vehicles. Acceleration data was measured using an iPod Touch that was outfitted with an application that measured WBV. An iPad Mini was used to measure reaction time. A survey was conducted to determine discomfort and back pain. The study postulated that as the WBVs in an armored vehicle increase then there will be a significant increase in back discomfort and pain in armored vehicle operators. This study also suggested that there is a positive dose-response correlation between the length and magnitude of exposure to WBV and response-time in an armored vehicle. Nine of the eighteen vibration dose values were within the Health Guidance Caution Zone.
 
@@ -30,6 +28,6 @@ Several studies have found that continual exposure to WBV will increase lower ba
 
 * * *
 
-<a href="#C4">Jump to Top</a>
+<a href="https://shea08.github.io/ISU_Project#ABSTRACT">Jump to Top</a>
 
 [back](./)
