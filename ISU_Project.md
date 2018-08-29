@@ -41,9 +41,9 @@ To a large extent, the purpose of this study was to shed light on the effect of 
 
 <b> Research Questions and Hypotheses </b>
 
-<b><i> Null Hypothesis: </i></b>
-
 * * *
+
+<b><i> Null Hypothesis: </i></b>
 
 <i> I. </i>	       There is no statistically significant correlation between reported lower back pain and whole-body vibration dose in an armored vehicle.
 
