@@ -41,8 +41,6 @@ To a large extent, the purpose of this study was to shed light on the effect of 
 
 <b> Research Questions and Hypotheses </b>
 
-* * *
-
 <b><i> Null Hypothesis: </i></b>
 
 <i> I. </i>	       There is no statistically significant correlation between reported lower back pain and whole-body vibration dose in an armored vehicle.
@@ -99,8 +97,6 @@ It was assumed that the survey data collected from the SF members were accurate,
 ## CHAPTER 2
 
 REVIEW OF LITERATURE
-
-* * *
 
 <b> Lower-back Pain and Discomfort </b>
 
@@ -160,11 +156,13 @@ In a study of AH-1S Cobra helicopters, the author’s smartly instructed the pil
 * * *
 
 <b> Truck Rollovers </b>
+
 The Transportation Research Board provides the conclusion that the following actions most commonly lead to rollover accidents: driving too fast for conditions, illegal maneuvering, inadequate evasive action, and poor directional control (Pape, 2012). They have also determined that the following human factors contributed most to the unsafe acts listed above: info gathering, driver state, physiological condition, obesity and health, alcohol and drug involvement, and vehicle control. It is reasonable to accept that “the main sources of harmful WBV in vehicles are rough roads and surface conditions”, which are a factor in rollover accidents (Arslan, 2015). Because behavior is found to be a large portion of what drives human factors, the authors found that monitoring behavior was a good method to prevent rollovers. 
 
 * * *
 
 <b> Analysis and Statistics </b>
+
 The two primary methods of data analysis focus on amplitude composition and frequency composition of a time-history.  Each category of data garners insight into the severity and type of vibration occurring. The amplitude used in vibration research is known as the root mean squared (r.m.s) amplitude and is defined as the square root of the mean of the time-history (n) over the square of the vertical distance of the graph from the rest state.
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/IMG1_ISU_Proj.JPG" alt="Equation for Root Mean Squared">
@@ -202,6 +200,7 @@ The International Standard for the evaluation of human exposure to whole-body vi
 * * *
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig2.png" alt="ISO illustration of the vibrational vectors seen in the X, Y, and Z axis.">
+
 Figure 2. ISO illustration of the vibrational vectors seen in the X, Y, and Z axis.
 
 * * *
@@ -217,6 +216,7 @@ The questionnaire was designed similarly to Maeda (2003) et al’s study that pr
 After the questionnaire was administered and immediately prior to beginning travel a reaction test was conducted. 
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig3.jpg" alt="An armored vehicle operator conducts the reaction test on an iPad">
+
 An armored vehicle operator conducts the reaction test on an iPad
 
 * * *
@@ -244,31 +244,31 @@ The root mean square (r.m.s) was the cumulative score that was calculated and us
 
 <b> Population and Sample Selection </b>
 
-	The population that was studied consisted of military armored vehicle operators (AVO). There was a random sampling of 22 AVOs. Of these 22 operators there was 22 vibration trials conducted. All but one AVO was a male. AVOs had a median age 23, height 5’10, and weight 185 lbs. On average, AVOs carried 40 additional pounds of weight or body armor. AVOs had performed this job duty an average of 2.5 years prior to this study. The AVOs reported driving a mean of 3.8 times per week and 5.9 hours per day. None of the AVOs had taken a questionnaire of this kind before.
+The population that was studied consisted of military armored vehicle operators (AVO). There was a random sampling of 22 AVOs. Of these 22 operators there was 22 vibration trials conducted. All but one AVO was a male. AVOs had a median age 23, height 5’10, and weight 185 lbs. On average, AVOs carried 40 additional pounds of weight or body armor. AVOs had performed this job duty an average of 2.5 years prior to this study. The AVOs reported driving a mean of 3.8 times per week and 5.9 hours per day. None of the AVOs had taken a questionnaire of this kind before.
  
  * * *
  
 <b> Protection of Human Subjects </b>
 
-	The population tested was briefed to operate in safe and otherwise normal conditions. The testing did not negatively affect the mission of the 91st MW SF. They did not deviate from any safety protocols while collecting data. Personally identifiable information or sensitive information was not collected during the study. The Indiana State IRB approved this study in the expedited review type on April 20, 2017. See Appendix E.
+The population tested was briefed to operate in safe and otherwise normal conditions. The testing did not negatively affect the mission of the 91st MW SF. They did not deviate from any safety protocols while collecting data. Personally identifiable information or sensitive information was not collected during the study. The Indiana State IRB approved this study in the expedited review type on April 20, 2017. See Appendix E.
 
  * * *
  
 <b> Instrumentation </b>
 
-	A 5th generation iPod Touch (Apple, Inc., Cupertino, CA) (123 x 59 x 6 mm, 88g) was utilized to record the vibration data. The device had a factory calibrated LIS331DLH accelerometer (STMicroelectronics, Geneva, Switzerland) that provided three dimensional 16 bit data output configured to a range of +/- 2g. The maximum sampling rate was restricted by the operating system to a nominal 100 Hz (inter-sample interval of 0.01s). A second generation iPad Mini was used to retrieve response data.
+A 5th generation iPod Touch (Apple, Inc., Cupertino, CA) (123 x 59 x 6 mm, 88g) was utilized to record the vibration data. The device had a factory calibrated LIS331DLH accelerometer (STMicroelectronics, Geneva, Switzerland) that provided three dimensional 16 bit data output configured to a range of +/- 2g. The maximum sampling rate was restricted by the operating system to a nominal 100 Hz (inter-sample interval of 0.01s). A second generation iPad Mini was used to retrieve response data.
  
  * * *
 
 <b> Questionnaire Administration </b>
 
-	A questionnaire was used to determine descriptive data such as age, gender, perceived back pain, and weight of equipment on his or her body. It used the Wong-Baker FACES Pain Scale Rating to help participants communicate as accurately as possible their experience of back pain. A post-test questionnaire allowed the participant to express back pain experienced during and immediately after the drive. This questionnaire used objective questions in order to reduce error or bias. See Appendix A.
+A questionnaire was used to determine descriptive data such as age, gender, perceived back pain, and weight of equipment on his or her body. It used the Wong-Baker FACES Pain Scale Rating to help participants communicate as accurately as possible their experience of back pain. A post-test questionnaire allowed the participant to express back pain experienced during and immediately after the drive. This questionnaire used objective questions in order to reduce error or bias. See Appendix A.
 
  * * *
  
 <b> Data Collection </b>
 
-	Data was collected using: a pen, clipboard, battery backup, and paper for all questionnaires. Data was recorded within the internal storage of the iPod. Data was exported via email to a Microsoft computer for further analysis in IBM SPSS Statistics 22. A database was designed using Microsoft Access in order to facilitate organized reporting seen in Appendix B.
+Data was collected using: a pen, clipboard, battery backup, and paper for all questionnaires. Data was recorded within the internal storage of the iPod. Data was exported via email to a Microsoft computer for further analysis in IBM SPSS Statistics 22. A database was designed using Microsoft Access in order to facilitate organized reporting seen in Appendix B.
 
  * * *
  
@@ -323,15 +323,9 @@ Response times found in this study were extremely consistent throughout the tria
 
 <b> Hypothesis and Outcomes </b>
 
-* * *
-
 The relationship between the dose of WBV and the perceived amount of lower-back pain, the mean values for no-pain, mild-pain, and moderate-pain are 8.6 m/s<sup>1.75</sup>,   7.02 m/s<sup>1.75</sup>, and 10.2 m/s<sup>1.75</sup> respectively. Dose-response relationship cannot be strongly supported with the data collected. No relationship or correlation was supported because there was not a wide spectrum of pain perception found in this data. The author therefore fails to reject the null-hypothesis, which, states that there is statistically no significant relationship between reported lower-back pain and whole-body vibration dose in an armored vehicle. 
 
-* * *
-
 In testing response-times, we found no statistical difference between the pre-test and post-test results.  Response-times were unaffected by the activity of driving the armored vehicles. The author also fails to reject the second null-hypothesis, which, states that there is no significant correlation between the dose of whole-body vibration and response-time in an armored vehicle. 
-
-* * *
 
 In order for this style of research to have scientific value, more accurate and precise equipment is required. In measuring response-time, the application would need to be very precise because human response time is not easily measured. Fast action cameras or lasers would likely be required to receive a proper measurement of response time in vehicle operators. Through this study, it is apparent that additional research is necessary on the side of human health and effects of WBV in a long-term study basis. Back injuries and degradation of health do not appear to happen overnight. This study has illustrated the reality that there is a need for some sort of improvements in the management of ergonomic risk for AVOs. There exists the potential for increased risk to the health of these operators, as indicated by the WBV dose readings. Studies are necessary in order to implement new ergonomic technologies for AVOs. Great need exists for an engineered device that can manage the extra weight that AVOs are subject to on a daily basis while driving. In the future, it may be beneficial to create a study focused on researching the possibility of inventing a device that reduces the strain of muscles and fatigue. This strain occurs while sitting for long periods. The study would be useful in order to support the implementation of a force-wide Body Armor Weight Arrest System (BAWAS). This device would determine a safe way to manage the extra weight while driving in addition to providing the defense required for a wearer of body armor.   
 
@@ -339,15 +333,9 @@ In order for this style of research to have scientific value, more accurate and 
 
 <b> Recommendations for Further Research </b>
 
-* * *
-
  In order to improve research design, a very specific and controlled environment with a driver’s course designed for testing response times on gravel roads and paved roads would need to exist. This research study was designed as a relatively small random sampling of very dynamic and different road conditions throughout rural North Dakota, which, created a great amount of random error. The sampling size was not large enough to compensate for this error. This study collected short durations of exposure to WBV. If a larger sample size and a longer duration of exposure could be collected then the author might have found different results.
  
-* * *
- 
 The response-time test and questionnaire could be used at the beginning and end of a work-shift in order to further capture the full range of work required of a missile security forces member. This study only provides a snapshot into the actual workplace stress that occurs over a working week. The response-time methods used in this study are inherently inaccurate and roughly estimated. 
-
-* * *
 
 This study has successfully built a quantitative data set to begin building an understanding of WBV and the human health effects of AVOs. The potential for improving quality of life for these operators and improving the risk management in this job is immense. Any improvements in ergonomics and engineering solutions will lead to a better working environment for AVOs. Further research is necessary to improve our understanding of the risks involved with WBV. 
 
@@ -556,28 +544,32 @@ Wolfgang, R. e. (2014). Can an iPod Touch Be Used to Assess Whole-Body Vibration
 * * *
 
 ## APPENDIX A
+
 <b> ARMORED VEHICLE OPERATOR QUESTIONNAIRE </b>
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApA.png" alt="APPENDIX A">
-<img src="hhttps://raw.githubusercontent.com/shea08/shea08.github.io/master/ApA(2).png" alt="APPENDIX A">
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApA(2).png" alt="APPENDIX A">
 
 * * *
 
-APPENDIX B
+## APPENDIX B
+
 <b> VIBRATION DATA REPORT </b>
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApB.png" alt="APPENDIX B">
 
 * * *
 
-APPENDIX C
+## APPENDIX C
+
 <b> RESPONSE-TIME DATA REPORT </b>
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApC.png" alt="APPENDIX C">
 
 * * *
 
-APPENDIX D
+## APPENDIX D
+
 <b> COMMITMENT LETTER </b>
 
 
@@ -585,7 +577,8 @@ APPENDIX D
 
 * * *
 
-APPENDIX E
+## APPENDIX E
+
 <b> EXPEDITED REVIEW </b>
 
 
@@ -593,7 +586,8 @@ APPENDIX E
 
 * * *
 
-<b> APPENDIX F </b>
+## <b> APPENDIX F </b>
+
 CONSENT TO PARTICIPATE IN RESEARCH
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApF.png" alt="APPENDIX F">
@@ -605,4 +599,4 @@ CONSENT TO PARTICIPATE IN RESEARCH
 
 <a href="https://shea08.github.io/ISU_Project#a-study-in-whole-body-vibration-in-military-armored-vehicles-and-the-impact-it-has-on-human-response-time-and-other-human-factors">Back to Top</a>
 
-[back](./)
+[Home](./)
