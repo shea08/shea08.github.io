@@ -16,4 +16,4 @@ Ben received his B.S in Biology from Southeast Missouri State University. While 
 <a href="https://www.facebook.com/shea.benjamin">Facebook</a>
 * * *
 
-[back](./)
+[Home](./)
