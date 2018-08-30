@@ -109,7 +109,7 @@ In a passenger train WBV study by Nassiri (2011), there was found to be very lit
 
 <b> Consumer Electronics as Measurement Tool </b>
 
-In this study, Wolfgang was able to measure whole-body vibration amplitudes to within 95% confidence of ±0.06 m s−2 root mean square (r.m.s) for the vertical direction for mining equipment. This author was able to provide this strong support through comparing the data collected simultaneously from an iPod Touch and gold standard equipment; SV106 and a Type 4447 Human Vibration Analyzer. There was forty-two trials ranging from 10 to 55-minute recordings. The r.m.s values were used in calculating and arriving at the high confidence interval for the vertical direction. The author concluded that the iPod Touch underestimated true vibrations by 0.073 m/s2, which is likely to be satisfactory for use as a safety-screening tool for WBV exposure (Wolfgang R. , 2014). 
+In this study, Wolfgang was able to measure whole-body vibration amplitudes to within 95% confidence of ±0.06 m s−2 root mean square (r.m.s) for the vertical direction for mining equipment. This author was able to provide this strong support through comparing the data collected simultaneously from an iPod Touch and gold standard equipment; SV106 and a Type 4447 Human Vibration Analyzer. There was forty-two trials ranging from 10 to 55-minute recordings. The r.m.s values were used in calculating and arriving at the high confidence interval for the vertical direction. The author concluded that the iPod Touch underestimated true vibrations by 0.073 m/s<sup>2</sup>, which is likely to be satisfactory for use as a safety-screening tool for WBV exposure (Wolfgang R. , 2014). 
 
 Often mining equipment operators are subject to twelve-hour shifts. The variables and human factors that studies from the University of Queensland considered were: roadway conditions, suspension design and maintenance, seat design, condition and adjustment, tire design and maintenance, and driver behavior (e.g., speed) (Burgess-Limerick R. L., 2015). It was found that ISO 2631.1’s requirement for measurement and evaluation is complicated and expensive; therefore, monitoring this human health hazard occurs very infrequently. In order for control measures to be implemented, sources of hazard must be identified. 
 
@@ -217,7 +217,7 @@ After the questionnaire was administered and immediately prior to beginning trav
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig3.jpg" alt="An armored vehicle operator conducts the reaction test on an iPad">
 
-An armored vehicle operator conducts the reaction test on an iPad
+Figure 3. An armored vehicle operator conducts the reaction test on an iPad
 
 * * *
 
@@ -230,7 +230,7 @@ The vibration statistics were collected in the X, Y, and Z direction while drivi
 * * *
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig4.jpg" alt="The iPod Touch is taped to the operator’s seat">
-The iPod Touch is taped to the operator’s seat
+Figure 4. The iPod Touch is taped to the operator’s seat
 
 * * *
 
@@ -283,7 +283,7 @@ In this study, we collected 22-minute average duration whole-body vibration meas
 * * *
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig5.jpg" alt="The image shows all 22 vibration recordings with the background coloration indicating risk levels.">
-The image shows all 22 vibration recordings with the background coloration indicating risk levels.
+Figure 5. The image shows all 22 vibration recordings with the background coloration indicating risk levels.
 
 * * *
 
@@ -296,7 +296,7 @@ In figure 6, notable difference appeared in WBV dose, dependent on the type of r
 * * *
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig6.png" alt="The stem and leaf plot shows the Z-axis exposure as related to the road conditions.">
-The stem and leaf plot shows the Z-axis exposure as related to the road conditions.
+Figure 6. The stem and leaf plot shows the Z-axis exposure as related to the road conditions.
 
 * * *
 
@@ -307,7 +307,7 @@ This study found that half of the AVOs attributed back discomfort due to vibrati
 * * *
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig7.png" alt="The stem and leaf plot shows the Z-axis exposure as related to Post-Questionnaire perception of pain (see Appendix A).">
-The stem and leaf plot shows the Z-axis exposure as related to Post-Questionnaire perception of pain (see Appendix A).
+Figure 7. The stem and leaf plot shows the Z-axis exposure as related to Post-Questionnaire perception of pain (see Appendix A).
 
 * * *
 
