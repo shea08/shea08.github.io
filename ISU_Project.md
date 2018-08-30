@@ -201,6 +201,408 @@ The International Standard for the evaluation of human exposure to whole-body vi
 
 * * *
 
-<a href="https://shea08.github.io/ISU_Project#abstract">Back to Top</a>
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig2.png" alt="ISO illustration of the vibrational vectors seen in the X, Y, and Z axis.">
+Figure 2. ISO illustration of the vibrational vectors seen in the X, Y, and Z axis.
+
+* * *
+
+## CHAPTER 3
+
+<b> METHODOLOGY </b>
+
+Data collection is crucial in this study and was recorded in the form of a questionnaire, response-time test, and vibration data. The author was present to proctor all of the testing. The author was dressed in casual non-military clothing in order to facilitate data collection and avoid any bias that could be caused by rank or superiority. The questionnaire was the first set of data collected and was given to participants using pen, paper, and clipboard (Appendix A). A post questionnaire occurred at the end of testing. The participants were selected using convenience sampling and the study data was collected nearby the following North Dakota cities: Ryder, Makoti, Berthold, Mohall, and Maxbass. Additionally, control groups were subject to paved road conditions. All road types driven in this test were roads that were safe and commonly traveled. 
+
+The questionnaire was designed similarly to Maeda (2003) et al’s study that provided great insight into the relationship between vibrations and comfort while in a seated wheel-chair environment. Demographic information and history of experience with respect to workplace vibration was collected. The questionnaire takes place prior to operating and driving in an armored vehicle. 
+
+After the questionnaire was administered and immediately prior to beginning travel a reaction test was conducted. 
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig3.jpg" alt="An armored vehicle operator conducts the reaction test on an iPad">
+An armored vehicle operator conducts the reaction test on an iPad
+
+* * *
+
+This test was completed using the 7.9” iPad Mini 2. The iOS Application, “Reaction Test Pro” by Freedom Apps calculated the average response time. The participant taps the “start” button on the touch screen, next the indicator turns orange, and they wait for the indicator to change to red. When the indicator light changes from orange to green, the participant presses the “stop” button. The program calculated an average response time based upon three attempts. After completing the reaction test, the participant entered the driving portion of the study. 
+
+* * * 
+
+The vibration statistics were collected in the X, Y, and Z direction while driving and a timeline of acceleration data was generated. In addition to a driver and at least one team member, the author sat in the back seat and recorded observations for later analysis. The data was measured using a 5th generation iPod Touch. This device was secured to the driver’s seat using adhesive tape with the touch screen facing up, see figure 4. Measurements were made beneath the ischial tuberosity. The device ran the iOS application “WBV” by Byte Works, Inc. that measured whole-body vibration and utilized the onboard accelerometer according to ISO 2631-1 and previous research accomplished by Wolfgang et al. 
+
+* * *
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig4.jpg" alt="The iPod Touch is taped to the operator’s seat">
+The iPod Touch is taped to the operator’s seat
+
+* * *
+
+The minimum duration of measurement required by the ISO is 108s, however, the goal set out for this study was to assemble measurements in operation of HMMWV’s of approximately 15 minutes on average. From the time vibrations were recorded, all significant events were concurrently logged in a notebook using a stopwatch. Data that was collected, was inconsistent with normal travel, and found to be an outlier were logged and later removed from the data set. The author filtered and purged data collected immediately prior to starting and stopping data collection.
+
+* * *
+
+The root mean square (r.m.s) was the cumulative score that was calculated and used in accordance with ISO 2631.1. Upon arrival at the driver’s destination, the reaction test was completed again and answered the post drive questions of the questionnaire. The vibration data, differences in reaction time, and report of lower-back pain were used to make statistical inferences about the impact that whole-body vibration had on armored vehicle operators.
+
+* * *
+
+<b> Population and Sample Selection </b>
+
+	The population that was studied consisted of military armored vehicle operators (AVO). There was a random sampling of 22 AVOs. Of these 22 operators there was 22 vibration trials conducted. All but one AVO was a male. AVOs had a median age 23, height 5’10, and weight 185 lbs. On average, AVOs carried 40 additional pounds of weight or body armor. AVOs had performed this job duty an average of 2.5 years prior to this study. The AVOs reported driving a mean of 3.8 times per week and 5.9 hours per day. None of the AVOs had taken a questionnaire of this kind before.
+ 
+ * * *
+ 
+<b> Protection of Human Subjects </b>
+
+	The population tested was briefed to operate in safe and otherwise normal conditions. The testing did not negatively affect the mission of the 91st MW SF. They did not deviate from any safety protocols while collecting data. Personally identifiable information or sensitive information was not collected during the study. The Indiana State IRB approved this study in the expedited review type on April 20, 2017. See Appendix E.
+
+ * * *
+ 
+<b> Instrumentation </b>
+
+	A 5th generation iPod Touch (Apple, Inc., Cupertino, CA) (123 x 59 x 6 mm, 88g) was utilized to record the vibration data. The device had a factory calibrated LIS331DLH accelerometer (STMicroelectronics, Geneva, Switzerland) that provided three dimensional 16 bit data output configured to a range of +/- 2g. The maximum sampling rate was restricted by the operating system to a nominal 100 Hz (inter-sample interval of 0.01s). A second generation iPad Mini was used to retrieve response data.
+ 
+ * * *
+
+<b> Questionnaire Administration </b>
+
+	A questionnaire was used to determine descriptive data such as age, gender, perceived back pain, and weight of equipment on his or her body. It used the Wong-Baker FACES Pain Scale Rating to help participants communicate as accurately as possible their experience of back pain. A post-test questionnaire allowed the participant to express back pain experienced during and immediately after the drive. This questionnaire used objective questions in order to reduce error or bias. See Appendix A.
+
+ * * *
+ 
+<b> Data Collection </b>
+
+	Data was collected using: a pen, clipboard, battery backup, and paper for all questionnaires. Data was recorded within the internal storage of the iPod. Data was exported via email to a Microsoft computer for further analysis in IBM SPSS Statistics 22. A database was designed using Microsoft Access in order to facilitate organized reporting seen in Appendix B.
+
+ * * *
+ 
+## CHAPTER 4
+
+RESULTS
+
+<b> Vibration Findings </b>
+
+In this study, we collected 22-minute average duration whole-body vibration measurements from 22 Humvees during normal operation in the Minot AFB North Dakota missile complex. Figure 5 illustrates where each trial fell on the risk spectrum for WBV.
+
+* * *
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig5.jpg" alt="The image shows all 22 vibration recordings with the background coloration indicating risk levels.">
+The image shows all 22 vibration recordings with the background coloration indicating risk levels.
+
+* * *
+
+The vertical accelerations measured as r.m.s ranged from 0.26 m/s<sup>2</sup> to 0.52 m/s<sup>2</sup> r.m.s. The VDV(8) measurements ranged from 5.03 m/s<sup>1.75</sup> to 15.09 m/s<sup>1.75</sup>. Two of the 22 r.m.s measurements were within the ISO 2631.1 Health Guidance Caution Zone, which is between 0.47 and 0.93 m/s<sup>2</sup>. Nine of the eighteen VDV(8) measurements were within the Health Guidance Caution Zone. The corresponding values for the VDV measure expressed as an eight-hour equivalent are between 8.5 m/s<sup>1.75</sup> and 17 m/s<sup>1.75</sup>. The measurements of this study are considered short duration measurements, being 10 to 45 minutes and averaging about 22 minutes total. There were approximately eight hours total vibration data recorded in this study. This study discovered that the only vibration acceleration axis of any concern was the z-axis for AVOs. For exposures within the Health Guidance Caution Zone, “Caution with respect to potential health risks is indicated” (International Standard, 1992). 
+
+* * *
+
+In figure 6, notable difference appeared in WBV dose, dependent on the type of road conditions present. The vibration dose vector in the z-axis (VDVZ) is much higher and unpredictable in those trials taking place on gravel than those conducted on pavement. The pavement trials are very well controlled and include exposures at or around 3.0 m/s<sup>2</sup> VDV.
+
+* * *
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig6.png" alt="The stem and leaf plot shows the Z-axis exposure as related to the road conditions.">
+The stem and leaf plot shows the Z-axis exposure as related to the road conditions.
+
+* * *
+
+<b> Questionnaire Findings </b>
+
+This study found that half of the AVOs attributed back discomfort due to vibrations while operating an armored vehicle. Of those admitting to back discomfort, 14% identified paved roads, while all identified gravel roads as the location they experienced back discomfort most. 45.5% of AVOs reported having had some physical problems during and after operating an armored vehicle. The most common reported physical problems were focused on the back, knee, and legs. In this questionnaire, 40% of those experiencing problems noted that the physical problem subsided a short time after exposure. The satisfaction found in operating armored vehicles in the Minot environment was found to be mostly neutral with 41% of AVOs responding neutral. 32% of AVOs responded favorably to being satisfied with operating the Humvee. 27% of AVOs were unsatisfied. On average, AVOs reported mild pain both before and after exposure to WBV and operating the armored vehicles. A slight increase for pain was reported by the AVOs. Statistically, there was no difference in the duration of driver trials and the perception of pain afterwards. No significant relationship occurred between the weight of body armor and the perception of pain afterward.
+
+* * *
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig7.png" alt="The stem and leaf plot shows the Z-axis exposure as related to Post-Questionnaire perception of pain (see Appendix A).">
+The stem and leaf plot shows the Z-axis exposure as related to Post-Questionnaire perception of pain (see Appendix A).
+
+* * *
+
+<b> Response-time Findings </b>
+
+Response times found in this study were extremely consistent throughout the trials. The mean response time for AVOs was .3318 seconds before exposure and .3312 seconds after exposure. In these trials, no difference occurred in reported response time after driving the vehicle. The mean change in response time was .0006 with a standard deviation of .10080. 
+
+* * *
+
+## CHAPTER 5
+
+ DISCUSSION, CONCLUSIONS AND RECCOMENDATIONS
+
+<b> Hypothesis and Outcomes </b>
+
+* * *
+
+The relationship between the dose of WBV and the perceived amount of lower-back pain, the mean values for no-pain, mild-pain, and moderate-pain are 8.6 m/s<sup>1.75</sup>,   7.02 m/s<sup>1.75</sup>, and 10.2 m/s<sup>1.75</sup> respectively. Dose-response relationship cannot be strongly supported with the data collected. No relationship or correlation was supported because there was not a wide spectrum of pain perception found in this data. The author therefore fails to reject the null-hypothesis, which, states that there is statistically no significant relationship between reported lower-back pain and whole-body vibration dose in an armored vehicle. 
+
+* * *
+
+In testing response-times, we found no statistical difference between the pre-test and post-test results.  Response-times were unaffected by the activity of driving the armored vehicles. The author also fails to reject the second null-hypothesis, which, states that there is no significant correlation between the dose of whole-body vibration and response-time in an armored vehicle. 
+
+* * *
+
+In order for this style of research to have scientific value, more accurate and precise equipment is required. In measuring response-time, the application would need to be very precise because human response time is not easily measured. Fast action cameras or lasers would likely be required to receive a proper measurement of response time in vehicle operators. Through this study, it is apparent that additional research is necessary on the side of human health and effects of WBV in a long-term study basis. Back injuries and degradation of health do not appear to happen overnight. This study has illustrated the reality that there is a need for some sort of improvements in the management of ergonomic risk for AVOs. There exists the potential for increased risk to the health of these operators, as indicated by the WBV dose readings. Studies are necessary in order to implement new ergonomic technologies for AVOs. Great need exists for an engineered device that can manage the extra weight that AVOs are subject to on a daily basis while driving. In the future, it may be beneficial to create a study focused on researching the possibility of inventing a device that reduces the strain of muscles and fatigue. This strain occurs while sitting for long periods. The study would be useful in order to support the implementation of a force-wide Body Armor Weight Arrest System (BAWAS). This device would determine a safe way to manage the extra weight while driving in addition to providing the defense required for a wearer of body armor.   
+
+* * *
+
+<b> Recommendations for Further Research </b>
+
+* * *
+
+ In order to improve research design, a very specific and controlled environment with a driver’s course designed for testing response times on gravel roads and paved roads would need to exist. This research study was designed as a relatively small random sampling of very dynamic and different road conditions throughout rural North Dakota, which, created a great amount of random error. The sampling size was not large enough to compensate for this error. This study collected short durations of exposure to WBV. If a larger sample size and a longer duration of exposure could be collected then the author might have found different results.
+ 
+* * *
+ 
+The response-time test and questionnaire could be used at the beginning and end of a work-shift in order to further capture the full range of work required of a missile security forces member. This study only provides a snapshot into the actual workplace stress that occurs over a working week. The response-time methods used in this study are inherently inaccurate and roughly estimated. 
+
+* * *
+
+This study has successfully built a quantitative data set to begin building an understanding of WBV and the human health effects of AVOs. The potential for improving quality of life for these operators and improving the risk management in this job is immense. Any improvements in ergonomics and engineering solutions will lead to a better working environment for AVOs. Further research is necessary to improve our understanding of the risks involved with WBV. 
+
+* * *
+
+## Bibliography
+
+Air Force Global Strike Command Director of Safety. (2016, July 19). The Big 6: Avoiding the Human Factors Wheel of Misfortune.
+
+* * *
+
+AL, B. (1983). Health survey of professional drivers. Scandinavian Journal of Work, Environment & Health, 9:36-41.
+
+* * *
+
+al, Z. L. (2012). Wavelet analysis of lumbar muscle oxygenation signals during whole-body vibration: implications for the developement of localized muscle fatigue. Europian Applied Physiology, 3109-3117.
+
+* * *
+
+Ariizumi, M. e. (1985). Effects of whole body vibration on biogenic amines in rat brain. Brittish Journal of Industrial Medicine, 133-136.
+
+* * *
+
+Arslan, Y. (2015). Experimental Assessment of Lumped-parameter Human Body Models Exposed to Whole Body Vibration. Mechanics in Medicine and Biology, 1-13.
+
+* * *
+
+Bureau of Labor Statistics. (2015, November 19). Economic News Rease. Retrieved from United States Department of Labor: https://www.bls.gov/news.release/archives/osh2_11192015.htm
+
+* * *
+
+Burgess-Limerick, R. (2012). How on earth moving equipment can ISO 2631.1 be used to evaluate whole body vibration. Health & Safety Research & Practice, 4(2), 14-21.
+
+* * *
+
+Burgess-Limerick, R. L. (2015). An iOS application for evaluating whole-body vibration within a workplace risk management process. Journal of Occupational and Envrionmental Hygiene, 12(7), 137-142.
+
+* * *
+
+Cann, A. e. (2003). An exporatory study of whole-body vibration exposure and dose while operating heavy equipment in the construction industry. Applied Occupational and Environmental Hygiene, 999-1005.
+
+* * *
+
+E, C. (1972). Iron and steel industry as well as mining. Kommiss Europ Gem Generaldir Soz, 72.
+
+* * *
+
+El Falou, W. e. (2003). Evaluation of driver discomfort during long-duration car driving . Applied Ergonomics, 249-255.
+
+* * *
+
+Froom, P. (1987). Low Back Pain in the AH-1 Cobra Helicopter. Aviation, Space, and Environmental Medicine, 315-318.
+
+* * *
+
+General, A. (2016). HMMWV. Retrieved from Features & Design: http://www.amgeneral.com/vehicles/hmmwv/features.php
+
+* * *
+
+Goetsch, D. L. (2011). Occupational Safety and Health for Technologists, Engineers, and Managers. Upper Saddle River, New Jersey: Prentice Hall.
+
+* * *
+
+Griffin, M. (1996). Methods for Measuring and Evaluating Whole-body Vibration Exposures. In Handbook of Human Vibration (pp. 453-483). New York: Acedemic Press.
+
+* * *
+
+Hansson T, M. M. (1991, August). Back muscle fatigue and seated whole-body vibrations: an experimental study in man. Clinical Biomechanics, 6(3), 173-178.
+
+* * *
+
+Harrer, K. e. (2006). A Field Study: Measurement And Evaluation Of Whole Body Vibration For MH-60S Pilots . Retrieved from Introduction; Proceedings Of The First American Conference On Human Vibration: https://stacks.cdc.gov/view/cdc/8453
+
+* * *
+
+Hostens, I. e. (2005). Assessment of muscle fatigue in low level monotonous task performance during car driving. Electromyography and Kinesiology, 266-274.
+
+* * *
+
+International Standard. (1992). Mechanical vibration - Laboratory method for evaluating vehicle seat vibration - Part 1: Basic requirements (Vols. 10326-1).
+
+* * *
+
+International Standard. (2004). Mechanical vibration and shock - Evaluation of human exposure to whole-body vibration (Vols. 2631-1). 1997.
+
+* * *
+
+Jastrow, J. (1890). The time relations of mental phenomena. New York: Hodges.
+
+* * *
+
+Li, X. (2010). RTbox: A device for highly accurate response time measurements. Behavior Research Methods, 212-225.
+
+* * *
+
+Li, Z. (2012). Wavelet analysis of lumbar muscle oxygenation during whole-body vibration: implications for the development of localized muscle fatigue. Europian Journal of Applied Physiology, 3109-3117.
+
+* * *
+
+Luce, R. D. (1991). Response times: Their role in inferring elementary. New York: Oxford University Press.
+
+* * *
+
+Lynas, D. e. (2015). Whole-Body Vibration Exposures in Underground Coal Mining Operations. Retrieved from http://www.ergonomics.uq.edu.au/wbv/WBVpod/Resources_files/HFES%202016%20preprint.pdf
+
+* * *
+
+Maeda, S. (2003, July). Relationship between Questionnaire Survey Results of Vibration Complaints of Wheelchair Users and Vibration Transmissibility of Manual Wheelchair. Environmental Health and Preventive Medicine, 82-89.
+
+* * *
+
+Mansfield, N. e. (2014). Combined Effects of Long-Term Sitting and Whole-Body Vibration on Discomfort Onset for Vehicle Occupants. Automotive Engineering, 1-8.
+
+* * *
+
+Martin. (1980). Effects of whole-body vibrations on standing posture in man. Aviation, Space, and Enironmental Medicine, 778-787.
+
+* * *
+
+Morrison, K. W. (2009, October 1). Whole-Body Vibration. Retrieved from Safety and Health Magazine: http://www.safetyandhealthmagazine.com/articles/whole-body-vibration-2
+
+* * *
+
+Nassiri, P. e. (2011). Train Passengers Comfort with regard to Whole-Body Vibration. Low Frequency Noise, Vibration and Active Control, 125-136.
+
+* * *
+
+Ng, J. e. (2003). Effect of fatigue on torque output and electromyographic measures of trunk muscles and during isometric axial rotation. Archives of Physical Medicine and Rehabilitation, 374-381.
+
+* * *
+
+Paddan, G. &. (2002). Effect of seating on exposures to whole-body vibration in vehicles. Sound and Vibration, 215-241.
+
+* * *
+
+Pape, D. e. (2012). Role of Human Factors in Preventing Cargo Tank Truck Rollovers. Washington, D.C.: Transportation Research Board.
+
+* * *
+
+Peli. (2003). Motion perception during involuntary eye vibration. Experimental Brain Research, 431-438.
+
+* * *
+
+Pope, M. (1998). Low back pain and whole body vibration. Clinical orthopaedics and related research, 241-248.
+
+* * *
+
+Pope, M. H., Magnusson, M., & Wilder, D. G. (1998). Low Back Pain and Whole Body Vibration. Clinical Orthopaedics and Related Research, 241-248.
+
+* * *
+
+Roll. (1980). Effects of whole-body vibration on spinal reflexes in man. Aviation, Space, and Enironmental Medicine, 1227-1233.
+
+* * *
+
+Santos, B. e. (2008). A laboratory study to quantify the biomechanical responses to whole-body vibration: The influence on balance, reflex response, muscular activity and fatigue. International Journal of Industrial Ergonomics, 626-639.
+
+* * *
+
+Seidel, H. e. (1980). On human response to prolonged repeated whole-body vibration. Ergonomics, 191-211.
+
+* * *
+
+Shaman, A. e. (2005). Postural Stability of Commercial Truck Drivers: Impact of Extended Durations of Whole-Body Vibration. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 49, pp. 1810-1814.
+
+* * *
+
+Smith, D. L. (2005). Whole-Body Vibration: Health effects, measurement and minimization. Professional Safety, 35-40.
+
+* * *
+
+Troxel, W. e. (2015). Evaluating the Impact of Whole-Body Vibration on Fatigue and the Implications for Driver Safety. Retrieved from Research Reports: http://www.rand.org/pubs/research_reports/RR1057.html
+
+* * *
+
+U, S. (1969). Comparative studies on heavy duty truck drivers and office workers on the question of occupational injury to the vertebral column and the joints of the upper extremities.
+
+* * *
+
+Wasserman, D. (1986). Human Aspects of Occupational Vibration (Advances in Human Factors/Ergonomics). Elsevier Science.
+
+* * *
+
+Wasserman, D. (n.d.). Galson Labs. Retrieved from OCCUPATIONAL VIBRATION: WHO IS AT RISK?: http://www.galsonlabs.com/resourcecenter/bulletin.php?c=25
+
+* * *
+
+Wells, M. (1987). Flight Trial of a Helmet-Mounted Display Image Stabilization System. Aerospace Medical Association, 319-318.
+
+* * *
+
+Wikstrom, B. K. (1994). Health effects of long-term occupational exposure to whole-body vibration: a review. International Journal of Industrial Ergonomics, 273-292.
+
+* * *
+
+Wisconsin, U. o. (2017, January 23). RMS Amplitude. Retrieved from https://csd.wisc.edu/vcd202/rms.html
+
+* * *
+
+Wolfgang, R. (2014). Using Consumer Electronic Devices to Estimate Whole-Body Vibration Exposure. Journal of Occupational and Environmental Hygiene, D77-D81.
+
+* * *
+
+Wolfgang, R. e. (2014). Can an iPod Touch Be Used to Assess Whole-Body Vibration Associated with Mining Equipment? The Annals of Occupational Hygiene, 1-5.
+
+* * *
+
+## APPENDIX A
+<b> ARMORED VEHICLE OPERATOR QUESTIONNAIRE </b>
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApA.png" alt="APPENDIX A">
+<img src="hhttps://raw.githubusercontent.com/shea08/shea08.github.io/master/ApA(2).png" alt="APPENDIX A">
+
+* * *
+
+APPENDIX B
+<b> VIBRATION DATA REPORT </b>
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApB.png" alt="APPENDIX B">
+
+* * *
+
+APPENDIX C
+<b> RESPONSE-TIME DATA REPORT </b>
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApC.png" alt="APPENDIX C">
+
+* * *
+
+APPENDIX D
+<b> COMMITMENT LETTER </b>
+
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApD.png" alt="APPENDIX D">
+
+* * *
+
+APPENDIX E
+<b> EXPEDITED REVIEW </b>
+
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApE.png" alt="APPENDIX E">
+
+* * *
+
+<b> APPENDIX F </b>
+CONSENT TO PARTICIPATE IN RESEARCH
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApF.png" alt="APPENDIX F">
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApF(2).png" alt="APPENDIX F">
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApF(3).png" alt="APPENDIX F">
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/ApF(4).png" alt="APPENDIX F">
+
+* * *
+
+<a href="https://shea08.github.io/ISU_Project#a-study-in-whole-body-vibration-in-military-armored-vehicles-and-the-impact-it-has-on-human-response-time-and-other-human-factors">Back to Top</a>
 
 [back](./)
