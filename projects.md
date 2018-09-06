@@ -95,6 +95,28 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <b> Biology </b>
 
+<b> Books </b>
+
+A listing of books I have read and reccomend by the year that I read them :
+
+<b> 2018 </b>
+|  Title                                                                        |     Author        |       Comments   |
+|    :---:                                                                      |     :---:         |       :---:      |
+|  When: The Scientific Secrets of Perfect Timing                               |  	Daniel Pink     |        .          |
+|  The Immortal Life of Henrietta Lacks                                         | Rebecca Skloot    |       .           |
+|  Human Errors: Pointless Bones, Runaway Nerves, and Other Human Defects       | Nathan Lents      |      .            |
+|  Another Person's Poison: A History of Food Allergy                           | Matthew Smith     |     .             | 
+|  Ordering Your Private World                                                  |  Gordon MacDonald |    .              | 
+|  Make Your Bed: Little Things That Can Change Your Life...And Maybe the World | William McRaven   |   .               |
+|  Through the Eyes of a Young Physician Assistant                              | Sean Conroy       |  .                |
+
+<b> 2012 </b>
+| Title                                                                  |     Author         | Comments        |
+|    :---:                                                               |     :---:          |      :---:      |
+|  Unbroken: A World War II Story of Survival, Resilience and Redemption | Laura Hillenbrand  |  .               |
+
+
+
 <b> Etymology </b>
 
 I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how a word I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin and words...More to follow
