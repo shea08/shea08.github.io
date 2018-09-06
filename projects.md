@@ -12,7 +12,11 @@ layout: default
 
 ## Android Mobile Applications
 
+This is a list of the mobile applications that I use on a regular basis. I enjoy using each of these apps and highly reccomend them. I am currently operating these apps on a Samsung Galaxy S7.
+
 <b> <a href="https://play.google.com/store/apps/details?id=mobi.beyondpod"> BeyondPod </a></b>
+
+This application is great for managing a collection of podcasts. I regularly listen to several different podcasts in the car and at the gym. This application is awesome because it can automatically download new episodes on a schedule. I download my newest episodes about an hour prior to leaving for work in the morning.
 
 <b> <a href="https://play.google.com/store/apps/details?id=com.epocrates"> Epocrates </a></b>
 
