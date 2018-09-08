@@ -95,6 +95,13 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <b> Biology </b>
 
+<a href="https://www.amentanatomy.com/biol-220.html" Biol-220 Anatomy & Physiology I </a>
+
+<b><u> Things I have learned that I think is cool </b></u>
+
+- The anatomical name for the human thumb is <b> Pollux </b>.
+  - The name pollux is originated from the root -poll, which is the same root that the word politician comes from. The root also has similar origins as the common saying "I have you under my thumb". The thumb is thought to be an originator of power and strength. Therefore, for this reason, politicians have great power in their governmental role. 
+
 <b> Books </b>
 
 A listing of books I have read and reccomend by the year that I read them :
