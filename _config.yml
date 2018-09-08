@@ -5,5 +5,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-title: <a ref= "https://shea08.github.io/"> Ben Shea </a>
-description: A shared spot for a passion in technology - science - and how it works
+title: Ben Shea
+description: <a ref= "shea08.github.io"> A shared spot for a passion in technology - science - and how it works </a>
+
+favicon: icons8-robot-64.png
