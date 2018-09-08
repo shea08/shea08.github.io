@@ -6,6 +6,4 @@ plugins:
   - jekyll-paginate
 
 title: Ben Shea
-description: <a ref= "shea08.github.io"> A shared spot for a passion in technology - science - and how it works </a>
-
-favicon: icons8-robot-64.png
+description: A shared spot for a passion in technology - science - and how it works
