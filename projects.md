@@ -95,7 +95,7 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <b> Biology </b>
 
-<a href="https://www.amentanatomy.com/biol-220.html" Biol-220 Anatomy & Physiology I </a>
+<a href="https://www.amentanatomy.com/biol-220.html"> Biol-220 Anatomy & Physiology I </a>
 
 <b><u> Things I have learned that I think is cool </b></u>
 
@@ -106,11 +106,10 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 A listing of books I have read and reccomend by the year that I read them :
 
-<b> 2018 </b>
-|  Title                                                                        |     Author        |       Comments   |
-|    :---:                                                                      |     :---:         |       :---:      |
-|  When: The Scientific Secrets of Perfect Timing                               |  	Daniel Pink     |        .          |
-|  The Immortal Life of Henrietta Lacks                                         | Rebecca Skloot    |       .           |
+<iframe class="airtable-embed" src="https://airtable.com/embed/shre7PtoC7EmBNlxF?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+- I am in the process of Converting this rough list into Airtable.
+
 |  Human Errors: Pointless Bones, Runaway Nerves, and Other Human Defects       | Nathan Lents      |      .            |
 |  Another Person's Poison: A History of Food Allergy                           | Matthew Smith     |     .             | 
 |  Ordering Your Private World                                                  |  Gordon MacDonald |    .              | 
