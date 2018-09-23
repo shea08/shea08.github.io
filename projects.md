@@ -97,7 +97,7 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <a href="https://www.amentanatomy.com/biol-220.html"> Biol-220 Anatomy & Physiology I </a>
 
-<b><u> Things I have learned that I think is cool </b></u>
+<b> Things I have learned that I think is cool </b>
 
 - The anatomical name for the human thumb is <b> Pollux </b>.
   - The name pollux is originated from the root -poll, which is the same root that the word politician comes from. The root also has similar origins as the common saying "I have you under my thumb". The thumb is thought to be an originator of power and strength. Therefore, for this reason, politicians have great power in their governmental role. 
@@ -108,7 +108,7 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
  
 - The root word comes from Greek hyalos "glass, clear alabaster, crystal lens used as a burning glass,". This apparently had origins in a non-Greek word, said to be of Egyptian origin. It is thought that glass was first large-scale produced in Egypt.
 
-<b><u>The Biblical Connection to Glass and "Hyaline" </b></u>
+<b> The Biblical Connection to Glass and "Hyaline" </b>
 
 <i> "and before the throne there was as it were a sea of glass, like crystal. And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind" Revelation 4:6 ESV </i>
 
@@ -125,24 +125,9 @@ A listing of books I have read and reccomend by the year that I read them :
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shre7PtoC7EmBNlxF?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-- I am in the process of Converting this rough list into Airtable.
-
-|  Human Errors: Pointless Bones, Runaway Nerves, and Other Human Defects       | Nathan Lents      |      .            |
-|  Another Person's Poison: A History of Food Allergy                           | Matthew Smith     |     .             | 
-|  Ordering Your Private World                                                  |  Gordon MacDonald |    .              | 
-|  Make Your Bed: Little Things That Can Change Your Life...And Maybe the World | William McRaven   |   .               |
-|  Through the Eyes of a Young Physician Assistant                              | Sean Conroy       |  .                |
-
-<b> 2012 </b>
-| Title                                                                  |     Author         | Comments        |
-|    :---:                                                               |     :---:          |      :---:      |
-|  Unbroken: A World War II Story of Survival, Resilience and Redemption | Laura Hillenbrand  |  .               |
-
-
-
 <b> Etymology </b>
 
-I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how a word I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin and words...More to follow
+I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how words were made. I find the history of words to be captivating and interesting. I studied spanish for three years in high school and this has given me an inept appreciation and joy for latin, words, and the connections you can make to history and root words.
 
 <b> Linux </b>
 
