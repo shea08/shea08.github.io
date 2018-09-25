@@ -149,51 +149,51 @@ Story to connect the pieces of TLC-MD; In the Air Force if someone falls and bre
 
 <b> Stage 3 </b>
 
-______Tissue
-- B
-- O
-- N
-______Loose C.T.
-- A
-- A
-- R
-______Cartilage
-- F
-- E
-- H
-______Muscle
-- S
-- C
-- S
-Dense______C.T.
-- R
-- E
-- I
+- ______Tissue
+-- B
+-- O
+-- N
+- ______Loose C.T.
+-- A
+-- A
+-- R
+- ______Cartilage
+-- F
+-- E
+-- H
+- ______Muscle
+-- S
+-- C
+-- S
+- Dense______C.T.
+-- R
+-- E
+-- I
 
 * * *
 
 <b> Stage 4 </b>
 
-______Tissue
-- Blood* (It is alone and separate)
-- Osseous
-- Nervous
-______Loose C.T.
-- Alveolar
-- Adipose
-- Reticular
-______Cartilage
-- Fibro
-- Elastic
-- Hyaline
-______Muscle
-- Smooth
-- Cardiac
-- Skeletal
-Dense______C.T.
-- Regular
-- Elastic
-- Iregular
+- ______Tissue
+-- Blood* (It is alone and separate)
+-- Osseous
+-- Nervous
+- ______Loose C.T.
+-- Alveolar
+-- Adipose
+-- Reticular
+- ______Cartilage
+-- Fibro
+-- Elastic
+-- Hyaline
+- ______Muscle
+-- Smooth
+-- Cardiac
+-- Skeletal
+- Dense______C.T.
+-- Regular
+-- Elastic
+-- Iregular
 
 <b> Books </b>
 
