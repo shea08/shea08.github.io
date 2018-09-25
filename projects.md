@@ -119,6 +119,82 @@ Mnemonic for learning: High-e-len. We will recall that God is seated on high, on
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/4c1cba826007f9a7a90a954c696bc58ce69e68e3/Screenshot%202018-09-23%20at%2009.20.35.png">
 <b> A microscopic image of Hyaline Cartilage found within the Tracheal Cartilage Rings.
 
+* * *
+
+<b> How To Remember the 15 Human Tissue Types </b>
+
+Mnemonic for learning: TLC-MD (Tender Loving Care-Medical Doctor)
+
+Story to connect the pieces of TLC-MD; In the Air Force if someone falls and breaks a <b> bone </b> (BON) we will write an <b> after-action-report </b> (AAR). This is certain to occur if it happens at <b> F.E. Warren, AFB. </b> (FEH). Before the person can leave we must run a <b> spinal-cord simulation </b> (SCS). If all goes well we will go to <b> Recreational Equipment Inc. </b> (REI) because we want to have better gear to prevent falling and breaking a bone.
+
+<b> Stage 1 </b>
+
+______T
+______L
+______C
+______M
+Dense______C.T.
+
+* * *
+
+<b> Stage 2 </b>
+
+______Tissue
+______Loose C.T.
+______Cartilage
+______Muscle
+Dense______C.T.
+
+* * *
+
+<b> Stage 3 </b>
+
+______Tissue
+-B
+-O
+-N
+______Loose C.T.
+-A
+-A
+-R
+______Cartilage
+-F
+-E
+-H
+______Muscle
+-S
+-C
+-S
+Dense______C.T.
+-R
+-E
+-I
+
+* * *
+
+<b> Stage 4 </b>
+
+______Tissue
+-Blood* (It is alone and separate)
+-Osseous
+-Nervous
+______Loose C.T.
+-Alveolar
+-Adipose
+-Reticular
+______Cartilage
+-Fibro
+-Elastic
+-Hyaline
+______Muscle
+-Smooth
+-Cardiac
+-Skeletal
+Dense______C.T.
+-Regular
+-Elastic
+-Iregular
+
 <b> Books </b>
 
 A listing of books I have read and reccomend by the year that I read them :
