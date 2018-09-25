@@ -127,73 +127,72 @@ Mnemonic for learning: TLC-MD (Tender Loving Care-Medical Doctor)
 
 Story to connect the pieces of TLC-MD; In the Air Force if someone falls and breaks a <b> bone </b> (BON) we will write an <b> after-action-report </b> (AAR). This is certain to occur if it happens at <b> F.E. Warren, AFB. </b> (FEH). Before the person can leave we must run a <b> spinal-cord simulation </b> (SCS). If all goes well we will go to <b> Recreational Equipment Inc. </b> (REI) because we want to have better gear to prevent falling and breaking a bone.
 
-<b> Stage 1 </b>
-
-- ______T
-- ______L
-- ______C
-- ______M
-- Dense______C.T.
+- <b> Stage 1 </b>
+  - ______T
+  - ______L
+  - ______C
+  - ______M
+  - Dense______C.T.
 
 * * *
 
-<b> Stage 2 </b>
+- <b> Stage 2 </b>
 
-- ______Tissue
-- ______Loose C.T.
-- ______Cartilage
-- ______Muscle
-- Dense______C.T.
+  - ______Tissue
+  - ______Loose C.T.
+  - ______Cartilage
+  - ______Muscle
+  - Dense______C.T.
 
 * * *
 
 <b> Stage 3 </b>
 
 - ______Tissue
--- B
--- O
--- N
+  - B
+  - O
+  - N
 - ______Loose C.T.
--- A
--- A
--- R
+  - A
+  - A
+  - R
 - ______Cartilage
--- F
--- E
--- H
+  - F
+  - E
+  - H
 - ______Muscle
--- S
--- C
--- S
+  - S
+  - C
+  - S
 - Dense______C.T.
--- R
--- E
--- I
+  - R
+  - E
+  - I
 
 * * *
 
 <b> Stage 4 </b>
 
 - ______Tissue
--- Blood* (It is alone and separate)
--- Osseous
--- Nervous
+  - Blood* (It is alone and separate)
+  - Osseous
+  - Nervous
 - ______Loose C.T.
--- Alveolar
--- Adipose
--- Reticular
+  - Alveolar
+  - Adipose
+  - Reticular
 - ______Cartilage
--- Fibro
--- Elastic
--- Hyaline
+  - Fibro
+  - Elastic
+  - Hyaline
 - ______Muscle
--- Smooth
--- Cardiac
--- Skeletal
+  - Smooth
+  - Cardiac
+  - Skeletal
 - Dense______C.T.
--- Regular
--- Elastic
--- Iregular
+  - Regular
+  - Elastic
+  - Iregular
 
 <b> Books </b>
 
