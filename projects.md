@@ -122,6 +122,10 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/61D-WtIWSRL._SL1000_.jpg">
 
+<b> LightShow Pi </b>
+
+<a href="https://shea08.github.io/LightShowPi">Link to my LightShow Pi Project</a>
+
 * * *
 
 # Education and Learning
