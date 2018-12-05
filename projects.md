@@ -10,6 +10,12 @@ layout: default
 
 # Introduction
 
+## Blog
+
+<b> <a href="https://shea08.github.io/blog"> Click here ... see my blog posts </a></b>
+
+* * *
+
 ## Android Mobile Applications
 
 This is a list of the mobile applications that I use on a regular basis. I enjoy using each of these apps and highly reccomend them. I am currently operating these apps on a Samsung Galaxy S7.
