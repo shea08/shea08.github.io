@@ -9,6 +9,7 @@ layout: default
 ## Music
 
 <i> Wednesday, December 5th 2018 </i>
+
 <b> Dani California </b>
 
 "North Dakota man was a gunnin' for the quota"
@@ -23,7 +24,13 @@ Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in
 
 * * *
 
-I will add more entries and plan to categorize them by subject.
+## Web Tools
+
+<i> Tuesday, December 11th 2018 </i>
+
+<b> Wachete </b>
+
+<a href="https://www.wachete.com/"> A quick shoutout to Wachete for making a really useful web application. It monitors websites for changes. I have used it to monitor sites that offer software updates for radio equipment. Very useful for staying up to date on the most current details of an important webpage. </a>
 
 * * *
 
