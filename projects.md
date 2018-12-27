@@ -14,6 +14,10 @@ layout: default
 
 <b> <a href="https://shea08.github.io/blog"> Click here ... see my blog posts </a></b>
 
+<b> <a href="https://shea08.github.io/doodles"> Click here ... I also doodle </a></b>
+
+<a href="https://www.etymonline.com/word/doodle#etymonline_v_13941"> ..."scrawl aimlessly," 1935, perhaps from dialectal doodle, dudle "fritter away time, trifle,". It also was a noun meaning "simple fellow" from 1620s </a>
+
 * * *
 
 ## Android Mobile Applications
