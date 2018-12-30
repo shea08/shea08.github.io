@@ -22,6 +22,10 @@ I like doodling to remember and illustrate quotes I like and ideas that are wort
 
 * * *
 
+<object data="https://shea08.github.io/Data%20kills%20denial,%20which%20prevents%20disaster..pdf" type="application/pdf" width="100%" height="100%">
+  <p>Data kills denial, <a href="https://shea08.github.io/Data%20kills%20denial,%20which%20prevents%20disaster..pdf">which prevents disaster </a></p>
+</object>
+
 <a href="https://shea08.github.io/doodles">Back to Top</a>
 
 [Home](./)
