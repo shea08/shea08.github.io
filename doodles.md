@@ -22,9 +22,13 @@ I like doodling to remember and illustrate quotes I like and ideas that are wort
 
 * * *
 
-<object data="https://shea08.github.io/Data%20kills%20denial,%20which%20prevents%20disaster..pdf" type="application/pdf" width="50%" height="50%">
-  <p>Data kills denial, <a href="https://shea08.github.io/Data%20kills%20denial,%20which%20prevents%20disaster..pdf">which prevents disaster </a></p>
-</object>
+<i> Sunday, December 30th 2018 </i>
+
+<b> A quote from the book Finish by Jon Acuff </b>
+
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/Data%20kills%20denial%2C%20which%20prevents%20disaster.%20-%20Page%201.jpg" alt="Data kills denial, which prevents disaster. -Jon Acuff">
+
+* * *
 
 <a href="https://shea08.github.io/doodles">Back to Top</a>
 
