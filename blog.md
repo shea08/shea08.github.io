@@ -106,9 +106,7 @@ I went ahead and decided to pickup a Google Pixelbook Pen. I was originally very
 
 <b> Excel 2016: How to Deconflict Schedules </b>
 
-<object width="420" height="315"
-data="https://www.youtube.com/watch?v=lv9h70frebw&feature=youtu.be">
-</object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lv9h70frebw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * * *
 
