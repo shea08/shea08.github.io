@@ -257,6 +257,8 @@ A listing of books I have read and recommend by the year that I read them:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shre7PtoC7EmBNlxF?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+* * *
+
 <b> Etymology </b>
 
 I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how words were made. I find the history of words to be captivating and interesting. I studied Spanish for three years in high school and this has given me an inept appreciation and joy for Latin, words, and the connections you can make to history and root words.
