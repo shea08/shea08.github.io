@@ -26,6 +26,66 @@ Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in
 
 ## Technology
 
+<i> Tuesday, January 29th 2019 </i>
+
+<b> Switching to the iPhone...Maybe </b>
+
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Edge. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
+
+<b> iPhone Switch Pros </b>
+- Superior performance and smoothness
+- Simple interface with software that just works
+- FaceTime with family members
+
+<b> iPhone Switch Cons </b>
+- Loss of paid Android applications
+- Need to purchase a new apps
+- Have to use iTunes for podcasts
+- Far less customization
+- Loss of the headphone jack
+
+* * *
+
+<b> Pixel 3 Switch Pros </b>
+- Pixelbook instant tethering for mobile hotspots
+- Maintain my paid Android applications
+- Superior camera
+
+<b> Pixel 3 Switch Cons </b>
+- Loss of paid Android applications
+- Glitchy Google software
+-
+
+* * *
+
+<b> Galaxy S10 Switch Pros </b>
+-
+-
+-
+
+<b> Galaxy S10 Switch Cons </b>
+- Loss of paid Android applications
+-
+-
+
+* * *
+
+<b> Note 10 Switch Pros </b>
+- Squid mobile application support
+-
+-
+
+<b> Note 10 Switch Cons </b>
+- Loss of paid Android applications
+- Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone.
+-
+
+<b> Other things to consider </b>
+- One time paid for apps are moving to subscriptions. The apps that I have previosely purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will not longer be as strong of an incentive.
+- I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. I was the only phone I ever returned.
+
+* * *
+
 <i> Monday, December 24th 2018 </i>
 
 <b> Pixelbook Pen First Impressions </b>
