@@ -49,6 +49,8 @@ Lego 2, Posterior: anterior horn of the lateral meniscus
 
 I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
 
+* * *
+
 <b> iPhone Switch Pros </b>
 -Superior performance and smoothness
 -Simple interface with software that just works
@@ -89,6 +91,8 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Note 10 Switch Cons </b>
 -Loss of paid Android applications
 -Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone.
+
+* * *
 
 <b> Other things to consider </b>
 -One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
