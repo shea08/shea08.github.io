@@ -30,7 +30,7 @@ Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in
 
 <b> Switching to the iPhone...Maybe </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Edge. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
 
 <b> iPhone Switch Pros </b>
 - Superior performance and smoothness
