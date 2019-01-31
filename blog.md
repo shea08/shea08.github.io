@@ -116,6 +116,10 @@ I went ahead and decided to pick up a Google Pixelbook Pen. I was originally ver
 
 * * *
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKEjEtTIxFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
 <b> Step 1 </b> Open the mobile application, "Adobe Scan"
   
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/How%20to%20use%20Adobe%20scan%20and%20squid%20on%20pixelbook%20-%20Page%2001.jpg" alt="Step 1">
