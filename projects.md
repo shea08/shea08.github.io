@@ -144,6 +144,20 @@ HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head
 
 <b> Biology </b>
 
+* * *
+
+<b> 3D Inner and Middle Ear </b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hktSgU1bAjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
+<i> Combined Inner Ear 3D Model: </i>
+
+<a href="https://github.com/shea08/shea08.github.io/raw/master/Inner%20Ear%203D%20Model.3mf">Link to Combined Inner Ear 3D Model on Github</a>
+
+* * *
+
 <a href="https://www.amentanatomy.com/biol-220.html"> Biol-220 Anatomy & Physiology I </a>
 
 <b> Things I have learned that I think is cool </b>
