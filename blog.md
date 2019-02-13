@@ -47,21 +47,35 @@ Lego 2, Posterior: anterior horn of the lateral meniscus
 
 <b> Switching to the iPhone...Maybe </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
 
 * * *
 
 <b> iPhone Switch Pros </b>
 -Superior performance and smoothness
 -Simple interface with software that just works
--FaceTime with family members
+-FaceTime with family members (not any better than Google Duo in my experience)
+-Compatibility with Apple Watch
+-Air Power to wirelessly charge: Phone, watch, and AirPods
+-Air pods 
+-Future use and purchase of iPad Pro with pencil for note taking
 
 <b> iPhone Switch Cons </b>
 -Loss of paid Android applications
--Need to purchase a new apps
+-Need to purchase new apps ($16)
 -Have to use iTunes for podcasts
 -Far less customization
 -Loss of the headphone jack
+-Cost overall ($1000 iPhone, $500 Apple Watch, $300 AirPods ~ $2K when all said and done)
+
+<b> Mitigating the iPhone Cons </b>
+
+Apps that will need to be purchased ($16 total)
+- Our Groceries ($5)
+- Voice Recorder & Audio Editor ($5)
+  - It transcribes audio! Very useful.
+- Pocket Casts ($6)
+- Dark Sky Weather App ($3 annually)
 
 * * *
 
@@ -71,7 +85,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -Superior camera
 
 <b> Pixel 3 Switch Cons </b>
--Loss of paid Android applications
 -Glitchy Google software
 
 
@@ -81,7 +94,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 . . .
 
 <b> Galaxy S10 Switch Cons </b>
--Loss of paid Android applications
 
 * * *
 
@@ -89,7 +101,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -Squid mobile application support
 
 <b> Note 10 Switch Cons </b>
--Loss of paid Android applications
 -Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone.
 
 * * *
