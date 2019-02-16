@@ -324,6 +324,8 @@ I have built two PCs with the help of a friend. I checked compatibility and orde
 
 <i><b> <a href="https://shea08.github.io/ISU_Project">A study in whole-body vibration in military armored vehicles and the impact it has on human response time and other human factors</a></b></i>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=O_3N-mD_6eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * * *
 
 [back](./)
