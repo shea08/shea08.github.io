@@ -57,13 +57,13 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -FaceTime with family members (not any better than Google Duo in my experience)
 -Compatibility with Apple Watch
 -Air Power to wirelessly charge: Phone, watch, and AirPods
--Air pods 
+-Air pods, generation two will be that improved over the first generation
 -Future use and purchase of iPad Pro with pencil for note taking
 
 <b> iPhone Switch Cons </b>
 -Loss of paid Android applications
 -Need to purchase new apps ($16)
--Have to use iTunes for podcasts
+-Pocket casts will take the place of iTunes.
 -Far less customization
 -Loss of the headphone jack
 -Cost overall ($1000 iPhone, $500 Apple Watch, $300 AirPods ~ $2K when all said and done)
@@ -83,17 +83,24 @@ Apps that will need to be purchased ($16 total)
 -Pixelbook instant tethering for mobile hotspots
 -Maintain my paid Android applications
 -Superior camera
+-Google call screening (won't get used all that often)
 
 <b> Pixel 3 Switch Cons </b>
 -Glitchy Google software
-
+-The notch
 
 * * *
 
 <b> Galaxy S10 Switch Pros </b>
+-Should have very high specs
+-Its what I know and has been my daily driver for many years
+-Front faced charging for the new Galaxy Buds seems pretty convenient
+-Top notch AMOLED screen
+
 . . .
 
 <b> Galaxy S10 Switch Cons </b>
+-Galaxy S10 will lock me into the Android environment
 
 * * *
 
@@ -107,7 +114,7 @@ Apps that will need to be purchased ($16 total)
 
 <b> Other things to consider </b>
 -One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
--I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. I was the only phone I ever returned.
+-I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned.
 
 * * *
 
