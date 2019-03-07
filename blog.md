@@ -43,11 +43,23 @@ Lego 2, Posterior: anterior horn of the lateral meniscus
 
 ## Technology
 
+<i> Thursday, March 7th 2019 </i>
+
+<b> Making a Quizlet Study Set From PDF </b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82budk276vQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I enjoy finding technical solutions to problems. I have learned over the years that we often don't need more software or programs. Microsoft office can do what we need and more.
+
+* * *
+
 <i> Tuesday, January 29th 2019 </i>
+
+<i> Date last revised: Thursday, March 7th 2019 </i>
 
 <b> Switching to the iPhone...Maybe </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Galaxy S10, Pixel 3, and Note 10 falling just behind.
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Pixel 4 and Note 10 falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. 
 
 * * *
 
@@ -55,10 +67,10 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -Superior performance and smoothness
 -Simple interface with software that just works
 -FaceTime with family members (not any better than Google Duo in my experience)
--Compatibility with Apple Watch
--Air Power to wirelessly charge: Phone, watch, and AirPods
--Air pods, generation two will be that improved over the first generation
--Future use and purchase of iPad Pro with pencil for note taking
+-Compatibility with Apple Watch (big pro for healthcare practice)
+-Air Power to wirelessly charge: Phone, watch, and AirPods (cool, but not needed)
+-Air pods, generation two will be that improved over the first generation (cool, but not needed--although I love podcasts)
+-Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking)
 
 <b> iPhone Switch Cons </b>
 -Loss of paid Android applications
@@ -67,6 +79,7 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -Far less customization
 -Loss of the headphone jack
 -Cost overall ($1000 iPhone, $500 Apple Watch, $300 AirPods ~ $2K when all said and done)
+-Less usefulness of the Pixelbook (Android messaging app)
 
 <b> Mitigating the iPhone Cons </b>
 
@@ -79,23 +92,23 @@ Apps that will need to be purchased ($16 total)
 
 * * *
 
-<b> Pixel 3 Switch Pros </b>
+<b> Pixel 3 or 4 Switch Pros </b>
 -Pixelbook instant tethering for mobile hotspots
 -Maintain my paid Android applications
--Superior camera
--Google call screening (won't get used all that often)
+-Superior camera (A+)
+-Google call screening (won't get used all that often now, but maybe in the future)
 
 <b> Pixel 3 Switch Cons </b>
--Glitchy Google software
--The notch
+-Glitchy Google software (Its a love-hate relationship with my pixelbook. I imagine the Pixel phone will be the same too)
+-The notch (it will get smaller or be gone in the 4)
 
 * * *
 
 <b> Galaxy S10 Switch Pros </b>
--Should have very high specs
+-Great tech specs
+-Best in-class AMOLED display (A+)
 -Its what I know and has been my daily driver for many years
--Front faced charging for the new Galaxy Buds seems pretty convenient
--Top notch AMOLED screen
+-Front faced charging for the new Galaxy Buds seems pretty convenient (not a deal-breaker)
 
 . . .
 
@@ -108,13 +121,13 @@ Apps that will need to be purchased ($16 total)
 -Squid mobile application support
 
 <b> Note 10 Switch Cons </b>
--Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone.
+-Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone. (I stopped doing this because it takes too much time and is glitchy)
 
 * * *
 
 <b> Other things to consider </b>
 -One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
--I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned.
+-I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
 
 * * *
 
