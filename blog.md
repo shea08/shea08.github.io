@@ -55,33 +55,51 @@ I enjoy finding technical solutions to problems. I have learned over the years t
 
 <i> Tuesday, January 29th 2019 </i>
 
-<i> Date last revised: Thursday, March 7th 2019 </i>
+<i> Date last revised: Sunday, March 10th 2019 </i>
 
 <b> Switching to the iPhone...Maybe </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The iPhone is currently my front runner with the Pixel 4 and Note 10 falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. 
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4 and iPhone falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. I am holding out because the next iteration of iPhone and Note 10 might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at Bestbuy and I actually do not care for it. The power butter is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience.  
 
 * * *
 
 <b> iPhone Switch Pros </b>
 -Superior performance and smoothness
--Simple interface with software that just works
+-Simple interface with software that just works (+1)
 -FaceTime with family members (not any better than Google Duo in my experience)
--Compatibility with Apple Watch (big pro for healthcare practice)
+-Compatibility with Apple Watch (big pro for healthcare practice) (+1)
 -Air Power to wirelessly charge: Phone, watch, and AirPods (cool, but not needed)
 -Air pods, generation two will be that improved over the first generation (cool, but not needed--although I love podcasts)
--Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking)
+-Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking) (+1)
 
 <b> iPhone Switch Cons </b>
 -Loss of paid Android applications
 -Need to purchase new apps ($16)
 -Pocket casts will take the place of iTunes.
--Far less customization
+-Far less customization (-1)
 -Loss of the headphone jack
--Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done)
--Less usefulness of the Pixelbook (Android messaging app)
+-Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done) (-1)
+-Less usefulness of the Pixelbook (Android messaging app) (-1)
 -Would probably need to trade/sell Pixelbook for the iPad Pro
 
+<b> Conclusion for the iPhone </b>
+  | Pro                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Software and performance          |   +1                 | 
+  | Apple Watch                       |   +1                 |
+  | iPad Pro & pencil                 |   +1                 |
+  
+ <b> +3 </b>
+  
+  | Con                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Customization                     |   -1                 | 
+  | Cost                              |   -1                 | 
+  | Pixelbook                         |   -1                 |
+  
+  <b> -3 </b>
+  
+  
 <b> Mitigating the iPhone Cons </b>
 
 Apps that will need to be purchased ($16 total)
@@ -91,19 +109,20 @@ Apps that will need to be purchased ($16 total)
 - Pocket Casts ($6)
 - Dark Sky Weather App ($3 annually)
 
-<b> Cost Breakdown (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th </b>
+<b> Cost Breakdown (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th) </b>
 
-| Device                            |     Cost           |
-|    :---:                          |     :---:          |     
-| iPhone XS Max                     |   $1100            | 
-| iPad Pro 11-in (64GB)             |   $800             |
-| Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
-| AirPods                           |   $160             |
-| Apple Pencil 2nd Gen.             |   $130             |      
+  | Device                            |     Cost           |
+  |    :---:                          |     :---:          |     
+  | iPhone XS Max                     |   $1100            | 
+  | iPad Pro 11-in (64GB)             |   $800             |
+  | Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
+  | AirPods                           |   $160             |
+  | Apple Pencil 2nd Gen.             |   $130             |      
 
 <b> Total Cost = $2730 </b>
 
 <b> Total Cost with 10% tax = $3000 </b>
+
 
 * * *
 
@@ -119,6 +138,24 @@ Apps that will need to be purchased ($16 total)
 
 * * *
 
+<b> Conclusion for the Pixel </b>
+  | Pro                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Camera         |                  |   +1                 | 
+  | Pixelbook      |                  |   +1                 |
+  
+  
+ <b> +2 </b>
+  
+  | Con                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Glitchy software                  |   -1                 | 
+  | Watch isn't as good               |   -1                 |
+  
+  <b> -2 </b>
+  
+* * *
+
 <b> Galaxy S10 Switch Pros </b>
 -Great tech specs
 -Best in-class AMOLED display (A+)
@@ -132,6 +169,23 @@ Apps that will need to be purchased ($16 total)
 
 * * *
 
+<b> Conclusion for the S10 </b>
+  | Pro                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Familiar Software                 |   +1                 | 
+  | Diplay                            |   +1                 |
+  | Pixelbook                         |   +1                 |
+  
+ <b> +3 </b>
+  
+  | Con                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Apple Watch                       |   -1                 | 
+  
+  <b> -1 </b>
+  
+* * *
+
 <b> Note 10 Switch Pros </b>
 -Squid mobile application support
 
@@ -140,17 +194,58 @@ Apps that will need to be purchased ($16 total)
 
 * * *
 
+<b> Conclusion for the Note 10 </b>
+  | Pro                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Familiar Software                 |   +1                 | 
+  | Diplay                            |   +1                 |
+  | Pixelbook                         |   +1                 |
+  | Stylus and notetaking             |   +1                 |
+  
+ <b> +4 </b>
+  
+  | Con                               |     Points           |
+  |    :---:                          |     :---:            |     
+  | Apple Watch                       |   -1                 | 
+  
+  <b> -1 </b>
+  
+  * * *
+
+<b> Cost Breakdown (as found on BestBuy.com for switching to the Note 10 as of Sunday, March 10th) </b>
+
+| Device                            |     Cost           |
+|    :---:                          |     :---:          |     
+| Note 10                     |   $1100                  | 
+| Galaxy Watch Active         |   $200                   |
+| Galaxy Buds                 |   $130                   |  
+
+<b> Total Cost = $1430 </b>
+
+<b> Total Cost with 10% tax = $1575 </b>
+
+* * *
+
 <b> Other things to consider </b>
 -One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
 -I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
 
+<b> Final Conclusion for All Phones </b>
+  | Device           |     Total Points           |
+  |    :---:         |     :---:                  |     
+  | Note 10          |   +3                       | 
+  | S10              |   +2                       |
+  | iPhone           |   0                        |
+  | Pixel            |   0                        |
+  
+  
 * * *
 
 <i> Monday, December 24th 2018 </i>
 
 <b> Pixelbook Pen First Impressions </b>
 
-I went ahead and decided to pick up a Google Pixelbook Pen. I was originally very tentative about the idea of spending $100 for a pen, but when I saw it went on sale on Amazon for $82 it was enough for me to take a chance on it. I went to Best-Buy and they were able to price-match me for the difference in price, which was a huge plus. All in all, I have been very pleased with the value that was added to my Pixelbook. The pen is probably not worth $82, but the combo of both the pen and the Pixelbook is definitely worth about $800. I am using the application Squid in order to take notes and edit PDFs. It is perfect for the Pixelbook and the pen. I have noticed a short lab between writing at times, but it is very periodic and only lasts for about 1-3 seconds. If you keep writing it catches up to itself with no problem. The pen is very fluent and easy to use. I have edited PDFs and forms and even signed them. The work flow has been a huge plus. The ability to edit PDFs with the pen has made Adobe Acrobat DC pro mostly unnecessary. I also noticed some discussions on cases and places to put the pen. I have had great sucess with using the small white box that the pen came in. I keep the pen in the box until I need it and I often use the box as a method of propping the PB up while I write on it in tablet mode. I also like the small slot in the box for an extra 'AAAA' battery for the pen. The pen and box, charger, and flash drive comfortably fit in my tomtoc carry bag. So far, I am loving the way PDFs can be organized within Squid. I am looking forward to using Squid and my PB pen in this semester's classes that I am taking. One more thing, I've tried the magnetic mounting areas on the PB with the pen and they work, but not as well as I would like. The pen slides off and isn't very secure. Besides, I wouldn't want the pen to be rubbing up against the PB while it was in the case. The magnet is only a temporary solution that is too risky for me. I like for the pen to sit safely in its box next to me while I work.
+I went ahead and decided to pick up a Google Pixelbook Pen. I was originally very tentative about the idea of spending $100 for a pen, but when I saw it went on sale on Amazon for $82 it was enough for me to take a chance on it. I went to Best-Buy and they were able to price-match me for the difference in price, which was a huge plus. All in all, I have been very pleased with the value that was added to my Pixelbook. The pen is probably not worth $82, but the combo of both the pen and the Pixelbook is definitely worth about $800. I am using the application Squid in order to take notes and edit PDFs. It is close to perfect for the Pixelbook and the pen. I have noticed a short lag between writing at times, but it is very periodic and only lasts for about 1-3 seconds. If you keep writing it catches up to itself with no problem. The pen is very fluent and easy to use. I have edited PDFs and forms and even signed them. The work flow has been a huge plus. The ability to edit PDFs with the pen has made Adobe Acrobat DC pro mostly unnecessary. I also noticed some discussions on cases and places to put the pen. I have had great sucess with using the small white box that the pen came in. I keep the pen in the box until I need it. I also like the small slot in the box for an extra 'AAAA' battery for the pen. The pen and box, charger, and flash drive comfortably fit in my tomtoc carry bag. So far, I am loving the way PDFs can be organized within Squid. There is some software limitations, but I am hopeful they will be fixed eventually. For instance, exporting a PDF doesn't always work. I am looking forward to using Squid and my PB pen in this semester's classes that I am taking. One more thing, I've tried the magnetic mounting areas on the PB with the pen and they work, but not as well as I would like. The pen slides off and isn't very secure. Besides, I wouldn't want the pen to be rubbing up against the PB while it was in the case. The magnet is only a temporary solution that is too risky for me. I like for the pen to sit safely in its box next to me while I work.
 
 * * *
 
