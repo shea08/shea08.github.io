@@ -85,17 +85,17 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Conclusion for the iPhone </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Software and performance          |   +1                 | 
-  | Apple Watch                       |   +1                 |
-  | iPad Pro & pencil                 |   +1                 |
+  | `Software and performance`         |   +1                 | 
+  | `Apple Watch`                       |   +1                 |
+  | `iPad Pro & pencil`                 |   +1                 |
   
  <b> +3 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Customization                     |   -1                 | 
-  | Cost                              |   -1                 | 
-  | Pixelbook                         |   -1                 |
+  | `Customization`                     |   -1                 | 
+  | `Cost`                              |   -1                 | 
+  | `Pixelbook`                         |   -1                 |
   
   <b> -3 </b>
   
@@ -113,11 +113,11 @@ Apps that will need to be purchased ($16 total)
 
   | Device                            |     Cost           |
   |    :---:                          |     :---:          |     
-  | iPhone XS Max                     |   $1100            | 
-  | iPad Pro 11-in (64GB)             |   $800             |
-  | Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
-  | AirPods                           |   $160             |
-  | Apple Pencil 2nd Gen.             |   $130             |      
+  | `iPhone XS Max`                     |   $1100            | 
+  | `iPad Pro 11-in (64GB)`             |   $800             |
+  | `Apple Watch Series 4 + cell`       |   $530 (+$10 cell) |
+  | `AirPods`                           |   $160             |
+  | `Apple Pencil 2nd Gen.`             |   $130             |      
 
 <b> Total Cost = $2730 </b>
 
@@ -141,16 +141,16 @@ Apps that will need to be purchased ($16 total)
 <b> Conclusion for the Pixel </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Camera         |                  |   +1                 | 
-  | Pixelbook      |                  |   +1                 |
+  | `Camera`         |                  |   +1                 | 
+  | `Pixelbook`      |                  |   +1                 |
   
   
  <b> +2 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Glitchy software                  |   -1                 | 
-  | Watch isn't as good               |   -1                 |
+  | `Glitchy software`                  |   -1                 | 
+  | `Watch isn't as good`               |   -1                 |
   
   <b> -2 </b>
   
@@ -172,15 +172,15 @@ Apps that will need to be purchased ($16 total)
 <b> Conclusion for the S10 </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Familiar Software                 |   +1                 | 
-  | Diplay                            |   +1                 |
-  | Pixelbook                         |   +1                 |
+  | `Familiar Software`                 |   +1                 | 
+  | `Diplay`                            |   +1                 |
+  | `Pixelbook`                         |   +1                 |
   
  <b> +3 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Apple Watch                       |   -1                 | 
+  | `Apple Watch`                       |   -1                 | 
   
   <b> -1 </b>
   
@@ -197,16 +197,16 @@ Apps that will need to be purchased ($16 total)
 <b> Conclusion for the Note 10 </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Familiar Software                 |   +1                 | 
-  | Diplay                            |   +1                 |
-  | Pixelbook                         |   +1                 |
-  | Stylus and notetaking             |   +1                 |
+  | `Familiar Software`                 |   +1                 | 
+  | `Diplay`                            |   +1                 |
+  | `Pixelbook`                         |   +1                 |
+  | `Stylus and notetaking`             |   +1                 |
   
  <b> +4 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Apple Watch                       |   -1                 | 
+  | `Apple Watch`                       |   -1                 | 
   
   <b> -1 </b>
   
@@ -216,9 +216,9 @@ Apps that will need to be purchased ($16 total)
 
 | Device                            |     Cost           |
 |    :---:                          |     :---:          |     
-| Note 10                     |   $1100                  | 
-| Galaxy Watch Active         |   $200                   |
-| Galaxy Buds                 |   $130                   |  
+| `Note 10`                     |   $1100                  | 
+| `Galaxy Watch Active`         |   $200                   |
+| `Galaxy Buds`                 |   $130                   |  
 
 <b> Total Cost = $1430 </b>
 
@@ -233,10 +233,10 @@ Apps that will need to be purchased ($16 total)
 <b> Final Conclusion for All Phones </b>
   | Device           |     Total Points           |
   |    :---:         |     :---:                  |     
-  | Note 10          |   +3                       | 
-  | S10              |   +2                       |
-  | iPhone           |   0                        |
-  | Pixel            |   0                        |
+  | `Note 10`          |   +3                       | 
+  | `S10`              |   +2                       |
+  | `iPhone`           |   0                        |
+  | `Pixel`            |   0                        |
   
   
 * * *
