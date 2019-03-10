@@ -78,8 +78,9 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 -Pocket casts will take the place of iTunes.
 -Far less customization
 -Loss of the headphone jack
--Cost overall ($1000 iPhone, $500 Apple Watch, $300 AirPods ~ $2K when all said and done)
+-Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done)
 -Less usefulness of the Pixelbook (Android messaging app)
+-Would probably need to trade/sell Pixelbook for the iPad Pro
 
 <b> Mitigating the iPhone Cons </b>
 
@@ -89,6 +90,20 @@ Apps that will need to be purchased ($16 total)
   - It transcribes audio! Very useful.
 - Pocket Casts ($6)
 - Dark Sky Weather App ($3 annually)
+
+<b> Cost Breakdown (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th </b>
+
+| Device                            |     Cost           |
+|    :---:                          |     :---:          |     
+| iPhone XS Max                     |   $1100            | 
+| iPad Pro 11-in (64GB)             |   $800             |
+| Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
+| AirPods                           |   $160             |
+| Apple Pencil 2nd Gen.             |   $130             |      
+
+<b> Total Cost = $2730 </b>
+
+<b> Total Cost with 10% tax = $3000 </b>
 
 * * *
 
