@@ -104,9 +104,9 @@ I really enjoy using the android Spotify app on my Pixelbook because it streams 
 
 Other critiques:
 
-I wish the bezels weren't so large. There is lots of wasted screen space on the Pixelbook.
+  * I wish the bezels weren't so large. There is lots of wasted screen space on the Pixelbook.
 
-The front facing web camera is really low quality. For how good the camera is on the pixel phone -- I would have expected something better on the Pixelbook.
+  * The front facing web camera is really low quality. For how good the camera is on the pixel phone -- I would have expected something better on the Pixelbook. I also wish there was a decent camera on the outside of the front cover so that it could resemble an actual tablet.
 
 The power switch is placed in a position where I find myself turning my device off my accident a lot. It is too far forward and is exactly where you hold the laptop to pick it up and move it around or show someone the screen. "here let me show you something"...powering off...well, at least the startup time is like 15 seconds.
 
@@ -118,19 +118,19 @@ The power switch is placed in a position where I find myself turning my device o
 
 <b> Global Positioning System (GPS) Open Street Map (OSM) with Raspberry Pi 3 </b>
 
-ModMyPi Pi GPS Case (Matte Black)
+  * ModMyPi Pi GPS Case (Matte Black)
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/DSC_0501-536x408-500x500.jpg">
 
-Raspberry Pi+ GPS Expansion Board (HAB-GPSPI-NAN)
+  * Raspberry Pi+ GPS Expansion Board (HAB-GPSPI-NAN)
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/IMG_0235-500x500.JPG">
 
-GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
+  * GPS Timing Antenna + 10 Meter Cable SMA (HAB-TAGPS-10)
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/GA24-500-B01SP--500x500-500x500.jpg">
 
-HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
+  * HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug)
 
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/61D-WtIWSRL._SL1000_.jpg">
 
@@ -277,7 +277,7 @@ A listing of books I have read and recommend by the year that I read them:
 
 I was first introduced to word etymology in Mr. Brail's High School English AP class. He would tell us about a new word every week and I was always interested in learning the next story of how words were made. I find the history of words to be captivating and interesting. I studied Spanish for three years in high school and this has given me an inept appreciation and joy for Latin, words, and the connections you can make to history and root words.
 
-I spend a lot of time looking up words on https://www.etymonline.com/
+I spend a lot of time looking up words on [etymonline.com](https://www.etymonline.com/)
 
 <b> Linux </b>
 
@@ -305,12 +305,12 @@ I started using excel as a method for calculating my grades in high school and c
 
 | Program                           |     Notes      |
 |    :---:                          |     :---:      |     
-| Audacity                          |                | 
-| DJB II Radio Station Software     |                |
-| Dimension4                        |                | 
-| FileZilla                         |                |
-| GoodSync                          |                | 
-| DJB Radio Spider                  |                |      
+| Audacity                          |   Editing .mp3 files for audio production of audio clips             | 
+| DJB II Radio Station Software     |   Automates day-to-day content             |
+| Dimension4                        |   Keeps timesource accurate             | 
+| FileZilla                         |   Download tool for FTP content             |
+| GoodSync                          |   Syncs back-up computer           | 
+| DJB Radio Spider                  |   Automatically downloads daily radio content             |      
 
 <b> Medicine </b>
 
