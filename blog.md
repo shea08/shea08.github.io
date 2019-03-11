@@ -14,7 +14,7 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/82budk276vQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I enjoy finding technical solutions to problems. I have learned over the years that we often don't need more software or programs. Microsoft office can do what we need and more.
+I enjoy finding technical solutions to problems. I have learned over the years that we often think that we need more software or programs. Microsoft office can do what we need and more.
 
 * * *
 
@@ -97,14 +97,14 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Pixel 3 or 4 Switch Pros </b>
--Pixelbook instant tethering for mobile hotspots
--Maintain my paid Android applications
--Superior camera (A+)
--Google call screening (won't get used all that often now, but maybe in the future)
+  * Pixelbook instant tethering for mobile hotspots
+  * Maintain my paid Android applications
+  * Superior camera (A+)
+  * Google call screening (won't get used all that often now, but maybe in the future)
 
 <b> Pixel 3 Switch Cons </b>
--Glitchy Google software (Its a love-hate relationship with my pixelbook. I imagine the Pixel phone will be the same too)
--The notch (it will get smaller or be gone in the 4)
+  * Glitchy Google software (Its a love-hate relationship with my pixelbook. I imagine the Pixel phone will be the same too)
+  * The notch (it will get smaller or be gone in the 4)
 
 * * *
 
@@ -127,15 +127,15 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Galaxy S10 Switch Pros </b>
--Great tech specs
--Best in-class AMOLED display (A+)
--Its what I know and has been my daily driver for many years
--Front faced charging for the new Galaxy Buds seems pretty convenient (not a deal-breaker)
+  * Great tech specs
+  * Best in-class AMOLED display (A+)
+  * Its what I know and has been my daily driver for many years
+  * Front faced charging for the new Galaxy Buds seems pretty convenient (not a deal-breaker)
 
 . . .
 
 <b> Galaxy S10 Switch Cons </b>
--Galaxy S10 will lock me into the Android environment
+  * Galaxy S10 will lock me into the Android environment
 
 * * *
 
@@ -157,10 +157,10 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Note 10 Switch Pros </b>
--Squid mobile application support
+  * Squid mobile application support
 
 <b> Note 10 Switch Cons </b>
--Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone. (I stopped doing this because it takes too much time and is glitchy)
+  * Squid mobile application currently lacks easy device-to-device movement. I have to manually backup to Dropbox and restore onto my cell-phone. (I stopped doing this because it takes too much time and is glitchy)
 
 * * *
 
@@ -197,8 +197,8 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Other things to consider </b>
--One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
--I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
+  * One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
+  * I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
 
 <b> Final Conclusion for All Phones </b>
   | Device           |     Total Points           |
@@ -207,7 +207,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   | S10            |   +2                     |
   | iPhone         |   0                      |
   | Pixel          |   0                      |
-  
   
 * * *
 
