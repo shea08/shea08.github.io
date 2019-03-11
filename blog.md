@@ -31,60 +31,60 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 |  iPhone Switch Pros |
 |    :---          |
 |Superior performance and smoothness|
-|`Simple interface with software that just works (+1)`|
-|`FaceTime with family members (not any better than Google Duo in my experience)`|
-|`Compatibility with Apple Watch (big pro for healthcare practice) (+1)`|
-|`Air Power to wirelessly charge: Phone, watch, and AirPods (cool, but not needed)`|
-|`Air pods, generation two will be that improved over the first generation (cool, but not needed--although I love podcasts)`|
-|`Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking) (+1)`|
+|Simple interface with software that just works (+1)|
+|FaceTime with family members (not any better than Google Duo in my experience)|
+|Compatibility with Apple Watch (big pro for healthcare practice) (+1)|
+|Air Power to wirelessly charge: Phone, watch, and AirPods (cool, but not needed)|
+|Air pods, generation two will be that improved over the first generation (cool, but not needed--although I love podcasts)|
+|Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking) (+1)|
 
 | iPhone Switch Cons |
 |    :---          |
-|`Loss of paid Android applications`|
-|`Need to purchase new apps ($16)`|
-|`Pocket casts will take the place of iTunes.`|
-|`Far less customization (-1)`|
-|`Loss of the headphone jack`|
-|`Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done) (-1)`|
-|`Less usefulness of the Pixelbook (Android messaging app) (-1)`|
-|`Would probably need to trade/sell Pixelbook for the iPad Pro`|
+|Loss of paid Android applications|
+|Need to purchase new apps ($16)|
+|Pocket casts will take the place of iTunes.|
+|Far less customization (-1)|
+|Loss of the headphone jack`|
+|Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done) (-1)|
+|Less usefulness of the Pixelbook (Android messaging app) (-1)|
+|Would probably need to trade/sell Pixelbook for the iPad Pro|
 
 <b> Conclusion for the iPhone </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Software and performance`        |   `+1`               | 
-  | `Apple Watch`                     |   `+1`               |
-  | `iPad Pro & pencil`               |   `+1`               |
+  | Software and performance        |   +1               | 
+  | Apple Watch                     |   +1               |
+  | iPad Pro & pencil               |   +1               |
   
  <b> +3 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Customization`                   |   `-1`               | 
-  | `Cost`                            |   `-1`               | 
-  | `Pixelbook`                       |   `-1`               |
+  | Customization                   |   -1               | 
+  | Cost                            |   -1               | 
+  | Pixelbook                       |   -1               |
   
   <b> -3 </b>
   
   
 | Mitigating the iPhone Cons |
 |    :---          |
-|`Apps that will need to be purchased ($16 total)`|
-|`Our Groceries ($5)`|
-|`Voice Recorder & Audio Editor ($5)`|
-|`It transcribes audio! Very useful.`|
-|`Pocket Casts ($6)`|
-|`Dark Sky Weather App ($3 annually)`|
+|Apps that will need to be purchased ($16 total)|
+|Our Groceries ($5)|
+|Voice Recorder & Audio Editor ($5)|
+|It transcribes audio! Very useful.|
+|Pocket Casts ($6)|
+|Dark Sky Weather App ($3 annually)|
 
 <b> Cost Breakdown (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th) </b>
 
   | Device                            |     Cost           |
   |    :---:                          |     :---:          |     
-  | `iPhone XS Max`                     |   `$1100`            | 
-  | `iPad Pro 11-in (64GB)`             |   `$800`             |
-  | `Apple Watch Series 4 + cell`       |   `$530 (+$10 cell)` |
-  | `AirPods`                           |   `$160`             |
-  | `Apple Pencil 2nd Gen.`             |   `$130`             |      
+  | iPhone XS Max                     |   $1100            | 
+  | iPad Pro 11-in (64GB)             |   $800             |
+  | Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
+  | AirPods                           |   $160             |
+  | Apple Pencil 2nd Gen.             |   $130             |      
 
 <b> Total Cost = $2730 </b>
 
@@ -108,16 +108,16 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Conclusion for the Pixel </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Camera`         |                  |   `+1`                 | 
-  | `Pixelbook`      |                  |   `+1`                 |
+  | Camera         |                  |   +1                 | 
+  | Pixelbook      |                  |   +1                 |
   
   
  <b> +2 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Glitchy software`                  |   `-1`                 | 
-  | `Watch isn't as good`               |   `-1`                 |
+  | Glitchy software                  |   -1                 | 
+  | Watch isn't as good               |   -1                 |
   
   <b> -2 </b>
   
@@ -139,15 +139,15 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Conclusion for the S10 </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Familiar Software`                 |   `+1`                 | 
-  | `Diplay`                            |   `+1`                 |
-  | `Pixelbook`                         |   `+1`                 |
+  | Familiar Software                 |   +1                 | 
+  | Diplay                            |   +1                 |
+  | Pixelbook                         |   +1                 |
   
  <b> +3 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Apple Watch`                       |   `-1``                 | 
+  | Apple Watch                       |   -1                 | 
   
   <b> -1 </b>
   
@@ -164,16 +164,16 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Conclusion for the Note 10 </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Familiar Software`                 |   `+1`                 | 
-  | `Diplay`                            |   `+1`                 |
-  | `Pixelbook`                         |   `+1`                 |
-  | `Stylus and notetaking`             |   `+1`                 |
+  | Familiar Software                 |   +1                 | 
+  | Diplay                            |   +1                 |
+  | Pixelbook                         |   +1                 |
+  | Stylus and notetaking             |   +1                 |
   
  <b> +4 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Apple Watch`                       |   `-1`                 | 
+  | Apple Watch                       |   -1                 | 
   
   <b> -1 </b>
   
@@ -183,9 +183,9 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 
 | Device                            |     Cost           |
 |    :---:                          |     :---:          |     
-| `Note 10`                         |   `$1100`          | 
-| `Galaxy Watch Active`             |   `$200`           |
-| `Galaxy Buds`                     |   `$130`           |  
+| Note 10                         |   $1100          | 
+| Galaxy Watch Active             |   $200           |
+| Galaxy Buds                     |   $130           |  
 
 <b> Total Cost = $1430 </b>
 
@@ -200,10 +200,10 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Final Conclusion for All Phones </b>
   | Device           |     Total Points           |
   |    :---:         |     :---:                  |     
-  | `Note 10`        |   `+3`                     | 
-  | `S10`            |   `+2`                     |
-  | `iPhone`         |   `0`                      |
-  | `Pixel`          |   `0`                      |
+  | Note 10        |   +3                     | 
+  | S10            |   +2                     |
+  | iPhone         |   0                      |
+  | Pixel          |   0                      |
   
   
 * * *
