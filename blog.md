@@ -50,13 +50,16 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 |Would probably need to trade/sell Pixelbook for the iPad Pro|
 
 <b> Conclusion for the iPhone </b>
+
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | Software and performance        |   +1               | 
-  | Apple Watch                     |   +1               |
-  | iPad Pro & pencil               |   +1               |
+  | Software and performance                   |   +1               | 
+  | Apple Watch                            |   +1               | 
+  | iPad Pro and Pencil                       |   +1               |
   
  <b> +3 </b>
+ 
+ * * *
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
