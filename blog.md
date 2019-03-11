@@ -30,7 +30,7 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 
 |  iPhone Switch Pros |
 |    :---          |
-|`Superior performance and smoothness`|
+|Superior performance and smoothness|
 |`Simple interface with software that just works (+1)`|
 |`FaceTime with family members (not any better than Google Duo in my experience)`|
 |`Compatibility with Apple Watch (big pro for healthcare practice) (+1)`|
