@@ -6,41 +6,6 @@ layout: default
 
 # Blog
 
-## Music
-
-<i> Wednesday, December 5th 2018 </i>
-
-<b> Dani California </b>
-
-"North Dakota man was a gunnin' for the quota"
-
-You might overlook this quote from the popular Red Hot Chili Peppers song, but when you live in the state you can't help wonder -- What were they talking about?
-My best guess is this is a connection to the great adventure settlers embarked on during their travels out west for gold. I've never considered ND a "western" area and in fact Minot was considered the end of the line on the rail road. Minot is a small city in north central ND. 
-
-Another blog described it pretty well and even used the verse from the RHCPs to name the blog (very creative):
-
-<a href="https://gunninforthequota.wordpress.com/about-2/"> "Yes, I am going to North Dakota, a state with fewer people than Cobb County, Georgia.  The natural gas boom in the Bakken Region of western North Dakota has spurred sensational growth in the state, and just like the days of yore with gold mining and oil drilling, people are flocking to cash in on the riches.
-Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in North Dakota has unfortunately come and gone." </a>
-
-* * *
-
-## Science
-
-<i> Wednesday, January 30th 2019 </i>
-
-<b> What do Legos have to do with ligaments? </b>
-
-In my first semester of Human Anatomy we discussed in great detail the inner parts of the body. The one common misconception was the differences between ligaments and tendons. In studying I used a memory aid. Ligaments are like Legos because they are hard and you always connect Legos to other Legos. This leads to the idea that bones are connected to other bones using "Lego"ments. 
-
-As a future teaching tool I would use Legos to connect bones. The anterior side of the Lego would have labels stating the ligament name and the posterior side of the Lego would have the bone location. For the ACL there would be two Legos. Both Legos would match on one side and complement each other on the other.
-
-Example for the ACL:
-
-Lego 1, Posterior: intercondyloid eminence of the tibia
-Lego 2, Posterior: anterior horn of the lateral meniscus
-
-* * *
-
 ## Technology
 
 <i> Thursday, March 7th 2019 </i>
@@ -63,8 +28,8 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 
 * * *
 
-  |  iPhone Switch Pros |
-  |    :---          |
+|  iPhone Switch Pros |
+|    :---          |
 |`Superior performance and smoothness`|
 |`Simple interface with software that just works (+1)`|
 |`FaceTime with family members (not any better than Google Duo in my experience)`|
@@ -87,17 +52,17 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Conclusion for the iPhone </b>
   | Pro                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Software and performance`         |   `+1`                 | 
-  | `Apple Watch`                       |   `+1`                 |
-  | `iPad Pro & pencil`                 |   `+1`                 |
+  | `Software and performance`        |   `+1`               | 
+  | `Apple Watch`                     |   `+1`               |
+  | `iPad Pro & pencil`               |   `+1`               |
   
  <b> +3 </b>
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
-  | `Customization`                     |   `-1`                 | 
-  | `Cost`                              |   `-1`                 | 
-  | `Pixelbook`                         |   `-1`                 |
+  | `Customization`                   |   `-1`               | 
+  | `Cost`                            |   `-1`               | 
+  | `Pixelbook`                       |   `-1`               |
   
   <b> -3 </b>
   
@@ -218,9 +183,9 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 
 | Device                            |     Cost           |
 |    :---:                          |     :---:          |     
-| `Note 10`                     |   `$1100`                  | 
-| `Galaxy Watch Active`         |   `$200`                   |
-| `Galaxy Buds`                 |   `$130`                   |  
+| `Note 10`                         |   `$1100`          | 
+| `Galaxy Watch Active`             |   `$200`           |
+| `Galaxy Buds`                     |   `$130`           |  
 
 <b> Total Cost = $1430 </b>
 
@@ -235,10 +200,10 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 <b> Final Conclusion for All Phones </b>
   | Device           |     Total Points           |
   |    :---:         |     :---:                  |     
-  | `Note 10`          |   `+3`                       | 
-  | `S10`              |   `+2`                       |
-  | `iPhone`           |   `0`                        |
-  | `Pixel`            |   `0`                        |
+  | `Note 10`        |   `+3`                     | 
+  | `S10`            |   `+2`                     |
+  | `iPhone`         |   `0`                      |
+  | `Pixel`          |   `0`                      |
   
   
 * * *
@@ -328,6 +293,39 @@ I went ahead and decided to pick up a Google Pixelbook Pen. I was originally ver
 <b> Excel 2016: How to Deconflict Schedules </b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lv9h70frebw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Music
+
+<i> Wednesday, December 5th 2018 </i>
+
+<b> Dani California </b>
+
+"North Dakota man was a gunnin' for the quota"
+
+You might overlook this quote from the popular Red Hot Chili Peppers song, but when you live in the state you can't help wonder -- What were they talking about?
+My best guess is this is a connection to the great adventure settlers embarked on during their travels out west for gold. I've never considered ND a "western" area and in fact Minot was considered the end of the line on the rail road. Minot is a small city in north central ND. 
+
+Another blog described it pretty well and even used the verse from the RHCPs to name the blog (very creative):
+
+<a href="https://gunninforthequota.wordpress.com/about-2/"> "Yes, I am going to North Dakota, a state with fewer people than Cobb County, Georgia.  The natural gas boom in the Bakken Region of western North Dakota has spurred sensational growth in the state, and just like the days of yore with gold mining and oil drilling, people are flocking to cash in on the riches.
+Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in North Dakota has unfortunately come and gone." </a>
+
+* * *
+
+## Science
+
+<i> Wednesday, January 30th 2019 </i>
+
+<b> What do Legos have to do with ligaments? </b>
+
+In my first semester of Human Anatomy we discussed in great detail the inner parts of the body. The one common misconception was the differences between ligaments and tendons. In studying I used a memory aid. Ligaments are like Legos because they are hard and you always connect Legos to other Legos. This leads to the idea that bones are connected to other bones using "Lego"ments. 
+
+As a future teaching tool I would use Legos to connect bones. The anterior side of the Lego would have labels stating the ligament name and the posterior side of the Lego would have the bone location. For the ACL there would be two Legos. Both Legos would match on one side and complement each other on the other.
+
+Example for the ACL:
+
+Lego 1, Posterior: intercondyloid eminence of the tibia
+Lego 2, Posterior: anterior horn of the lateral meniscus
 
 * * *
 
