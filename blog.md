@@ -58,8 +58,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   | iPad Pro and Pencil                       |   +1               |
   
  <b> +3 </b>
- 
- * * *
   
   | Con                               |     Points           |
   |    :---:                          |     :---:            |     
@@ -69,6 +67,7 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   
   <b> -3 </b>
   
+  * * *
   
 | Mitigating the iPhone Cons |
 |    :---          |
@@ -79,7 +78,8 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 |Pocket Casts ($6)|
 |Dark Sky Weather App ($3 annually)|
 
-<b> Cost Breakdown (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th) </b>
+<b> Cost Breakdown </b>
+  * (as found on BestBuy.com for switching to the iOS environment as of Sunday, March 10th)
 
   | Device                            |     Cost           |
   |    :---:                          |     :---:          |     
@@ -89,9 +89,9 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   | AirPods                           |   $160             |
   | Apple Pencil 2nd Gen.             |   $130             |      
 
-<b> Total Cost = $2730 </b>
+<b> Total Cost = $2,730 </b>
 
-<b> Total Cost with 10% tax = $3000 </b>
+<b> Total Cost with 10% tax = $3,000 </b>
 
 
 * * *
@@ -109,11 +109,11 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Conclusion for the Pixel </b>
-  | Pro                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Camera         |                  |   +1                 | 
-  | Pixelbook      |                  |   +1                 |
-  
+
+<b> Pro </b>
+
+  * Camera (+1)
+  * Pixelbook (+1)
   
  <b> +2 </b>
   
@@ -132,7 +132,7 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   * Its what I know and has been my daily driver for many years
   * Front faced charging for the new Galaxy Buds seems pretty convenient (not a deal-breaker)
 
-. . .
+* * * 
 
 <b> Galaxy S10 Switch Cons </b>
   * Galaxy S10 will lock me into the Android environment
@@ -140,11 +140,12 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Conclusion for the S10 </b>
-  | Pro                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Familiar Software                 |   +1                 | 
-  | Diplay                            |   +1                 |
-  | Pixelbook                         |   +1                 |
+
+<b> Pro </b>
+
+  * Familiar Software (+1)
+  * Display (+1)
+  * Pixelbook (+1)
   
  <b> +3 </b>
   
@@ -165,12 +166,13 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 * * *
 
 <b> Conclusion for the Note 10 </b>
-  | Pro                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Familiar Software                 |   +1                 | 
-  | Diplay                            |   +1                 |
-  | Pixelbook                         |   +1                 |
-  | Stylus and notetaking             |   +1                 |
+
+<b> Pro </b>
+
+  * Familiar Software (+1)
+  * Display (+1)
+  * Pixelbook (+1)
+  * Stylus and notetaking (+1)
   
  <b> +4 </b>
   
@@ -182,7 +184,9 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   
   * * *
 
-<b> Cost Breakdown (as found on BestBuy.com for switching to the Note 10 as of Sunday, March 10th) </b>
+<b> Cost Breakdown </b> 
+
+  * (as found on BestBuy.com for switching to the Note 10 as of Sunday, March 10th)
 
 | Device                            |     Cost           |
 |    :---:                          |     :---:          |     
@@ -201,12 +205,12 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   * I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
 
 <b> Final Conclusion for All Phones </b>
-  | Device           |     Total Points           |
-  |    :---:         |     :---:                  |     
-  | Note 10        |   +3                     | 
-  | S10            |   +2                     |
-  | iPhone         |   0                      |
-  | Pixel          |   0                      |
+
+<b> Device </b>
+  * Note 10 (+3)
+  * S10 (+2)
+  * iPhone (0)
+  * Pixel (0)
   
 * * *
 
