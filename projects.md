@@ -261,12 +261,6 @@ Story to connect the pieces of TLC-MD; In the Air Force if someone falls and bre
 
 * * *
 
-<b> Learning the Cranial Nerves </b>
-
-<iframe src="https://quizlet.com/348624045/match/embed" height="500" width="100%" style="border:0"></iframe>
-
-* * *
-
 <b> Books </b>
 
 A listing of books I have read and recommend by the year that I read them:
