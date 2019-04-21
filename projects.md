@@ -144,6 +144,12 @@ The power switch is placed in a position where I find myself turning my device o
 
 # Education and Learning
 
+<b> Podcasts </b>
+
+- This is a list of podcasts that I am listening to regularly.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr3PIpeUf4SOYP5d?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 <b> Biology </b>
 
 * * *
