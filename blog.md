@@ -24,48 +24,28 @@ I enjoy finding technical solutions to problems. I have learned over the years t
 
 <b> Switching to the iPhone...Maybe </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4 and iPhone falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. I am holding out because the next iteration of iPhone and Note 10 might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at Bestbuy and I actually do not care for it. The power butter is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience.  
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4 and iPhone falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. To maintain performance I must factory reset my phone about once every 6-9 months. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at Bestbuy and I actually do not care for it. The power butter is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience. I think the Note 10 and iPhone will be the two phones I will have to compare and purchase in fall 2019. 
 
 * * *
 
 |  iPhone Switch Pros |
 |    :---          |
-|Superior performance and smoothness|
-|Simple interface with software that just works (+1)|
-|FaceTime with family members (not any better than Google Duo in my experience)|
-|Compatibility with Apple Watch (big pro for healthcare practice) (+1)|
-|Air Power to wirelessly charge: Phone, watch, and AirPods (cool, but not needed)|
-|Air pods, generation two will be that improved over the first generation (cool, but not needed--although I love podcasts)|
-|Future use and purchase of iPad Pro with pencil for note taking (also possible healthcare note taking) (+1)|
+1. |Superior performance and smoothness|
+2. |Simple interface with software that just works|
+3. |FaceTime with family members (not any better than Google Duo in my experience)|
+4. |Compatibility with Apple Watch (big pro for healthcare practice)|
+5. |Air pods|
+6. |Future use and purchase of iPad Pro with pencil or iPad mini for note taking (also possible healthcare note taking)|
 
 | iPhone Switch Cons |
 |    :---          |
-|Loss of paid Android applications|
-|Need to purchase new apps ($16)|
-|Pocket casts will take the place of iTunes.|
-|Far less customization (-1)|
-|Loss of the headphone jack`|
-|Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done) (-1)|
-|Less usefulness of the Pixelbook (Android messaging app) (-1)|
-|Would probably need to trade/sell Pixelbook for the iPad Pro|
-
-<b> Conclusion for the iPhone </b>
-
-  | Pro                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Software and performance                   |   +1               | 
-  | Apple Watch                            |   +1               | 
-  | iPad Pro and Pencil                       |   +1               |
-  
- <b> +3 </b>
-  
-  | Con                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Customization                   |   -1               | 
-  | Cost                            |   -1               | 
-  | Pixelbook                       |   -1               |
-  
-  <b> -3 </b>
+1. |Loss of paid Android applications|
+2. |Need to purchase new apps ($16, Pocket casts will take the place of iTunes)|
+3. |It will match my wife's phone|
+4. |Far less customization than Android|
+5. |Loss of the headphone jack|
+6. |Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done)|
+7. |Less usefulness of the Pixelbook (Android messaging app)|
   
   * * *
   
@@ -73,8 +53,7 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 |    :---          |
 |Apps that will need to be purchased ($16 total)|
 |Our Groceries ($5)|
-|Voice Recorder & Audio Editor ($5)|
-|It transcribes audio! Very useful.|
+|Voice Recorder & Audio Editor ($5)(It transcribes audio! Very useful.)|
 |Pocket Casts ($6)|
 |Dark Sky Weather App ($3 annually)|
 
@@ -84,20 +63,20 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   | Device                            |     Cost           |
   |    :---:                          |     :---:          |     
   | iPhone XS Max                     |   $1100            | 
-  | iPad Pro 11-in (64GB)             |   $800             |
+  | iPad mini, 64GB, wi-Fi + Cellular |   $529             |
   | Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
   | AirPods                           |   $160             |
   | Apple Pencil 2nd Gen.             |   $130             |      
 
-<b> Total Cost = $2,730 </b>
+<b> Total Cost = $2,449 </b>
 
-<b> Total Cost with 10% tax = $3,000 </b>
+<b> Total Cost with 10% tax = $2,694 </b>
 
 
 * * *
 
 <b> Pixel 3 or 4 Switch Pros </b>
-  * Pixelbook instant tethering for mobile hotspots
+  * Pixelbook instant tethering for mobile hotspots (heard it is glitchy and somewhat unreliable)
   * Maintain my paid Android applications
   * Superior camera (A+)
   * Google call screening (won't get used all that often now, but maybe in the future)
@@ -123,37 +102,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
   | Watch isn't as good               |   -1                 |
   
   <b> -2 </b>
-  
-* * *
-
-<b> Galaxy S10 Switch Pros </b>
-  * Great tech specs
-  * Best in-class AMOLED display (A+)
-  * Its what I know and has been my daily driver for many years
-  * Front faced charging for the new Galaxy Buds seems pretty convenient (not a deal-breaker)
-
-* * * 
-
-<b> Galaxy S10 Switch Cons </b>
-  * Galaxy S10 will lock me into the Android environment
-
-* * *
-
-<b> Conclusion for the S10 </b>
-
-<b> Pro </b>
-
-  * Familiar Software (+1)
-  * Display (+1)
-  * Pixelbook (+1)
-  
- <b> +3 </b>
-  
-  | Con                               |     Points           |
-  |    :---:                          |     :---:            |     
-  | Apple Watch                       |   -1                 | 
-  
-  <b> -1 </b>
   
 * * *
 
@@ -208,7 +156,6 @@ I am considering taking a leap into the iPhone environment. I have been a Samsun
 
 <b> Device </b>
   * Note 10 (+3)
-  * S10 (+2)
   * iPhone (0)
   * Pixel (0)
   
