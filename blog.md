@@ -8,6 +8,14 @@ layout: default
 
 ## Technology
 
+<i> Thursday, April 18th 2019 </i>
+
+<b> Schedule send in Gmail 2019 (No add-on!) </b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcIwq_GzE1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
 <i> Thursday, March 7th 2019 </i>
 
 <b> Making a Quizlet Study Set From PDF </b>
