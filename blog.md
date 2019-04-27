@@ -8,6 +8,14 @@ layout: default
 
 ## Technology
 
+<i> Friday, April 26th 2019 </i>
+
+<b> Animated Drawing Overlay with a Pixelbook </b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo7i2Fa3NNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
 <i> Thursday, April 18th 2019 </i>
 
 <b> Schedule send in Gmail 2019 (No add-on!) </b>
