@@ -12,7 +12,7 @@
 
   * I am using the application Squid in order to take notes and edit PDFs. It is close to perfect for the Pixelbook and the pen. I have noticed a short lag between writing at times, but it is very periodic and only lasts for about 1-3 seconds. If you keep writing it catches up to itself with no problem. The pen is very fluent and easy to use. I have edited PDFs and forms and even signed them. The work flow has been a huge plus. The ability to edit PDFs with the pen has made Adobe Acrobat DC pro mostly unnecessary. I also noticed some discussions on cases and places to put the pen. I have had great sucess with using the small white box that the pen came in. I keep the pen in the box until I need it. I also like the small slot in the box for an extra 'AAAA' battery for the pen.
  
- ## <i> Final Thoughts </i>
+## <i> Final Thoughts </i>
  
   * The pen and box, charger, and flash drive comfortably fit in my tomtoc carry bag. So far, I am loving the way PDFs can be organized within Squid. There is some software limitations, but I am hopeful they will be fixed eventually. For instance, exporting a PDF doesn't always work. I am looking forward to using Squid and my PB pen in this semester's classes that I am taking. One more thing, I've tried the magnetic mounting areas on the PB with the pen and they work, but not as well as I would like. The pen slides off and isn't very secure. Besides, I wouldn't want the pen to be rubbing up against the PB while it was in the case. The magnet is only a temporary solution that is too risky for me. I like for the pen to sit safely in its box next to me while I work.
 
