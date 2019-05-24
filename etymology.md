@@ -4,6 +4,8 @@ I was first introduced to word etymology in Mr. Brail's High School English AP c
 
 I spend a lot of time looking up words on [etymonline.com](https://www.etymonline.com/)
 
+<a href="https://www.etymonline.com/word/doodle#etymonline_v_13941"> ..."scrawl aimlessly," 1935, perhaps from dialectal doodle, dudle "fritter away time, trifle,". It also was a noun meaning "simple fellow" from 1620s </a>
+
 <a href="https://shea08.github.io/etymology">Back to Top</a>
 
 [Home](./)
