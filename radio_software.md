@@ -9,6 +9,6 @@
 | GoodSync                          |   Syncs back-up computer           | 
 | DJB Radio Spider                  |   Automatically downloads daily radio content             |      
 
-<a href="https://shea08.github.io/pc">Back to Top</a>
+<a href="https://shea08.github.io/radio_software">Back to Top</a>
 
 [Home](./)
