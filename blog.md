@@ -6,6 +6,8 @@ layout: default
 
 # Blog
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrNNIDOPiwUq9dcl?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Technology
 
 <i> Tuesday, January 29th 2019 </i>
