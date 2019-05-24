@@ -1,6 +1,6 @@
 <i> Tuesday, May 14th 2019 </i>
 
-<b> Switching to the iPhone...Nope...OnePlus 7 Pro! </b>
+# <b> Switching to the iPhone...Nope...OnePlus 7 Pro! </b>
 
 I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4, iPhone, and One Plus 7 Pro falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. To maintain performance I must factory reset my phone about once every 6-9 months. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at Bestbuy and I actually do not care for it. The power button is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience. I think the Note 10 and iPhone will be the two phones I will have to compare and purchase in fall 2019.
 
@@ -8,11 +8,13 @@ I am also now considering the One Plus 7 as it is a phone known for great perfor
 
 * * *
 
-<b> Switching to the OnePlus 7 Pro! </b>
+## <b> Switching to the OnePlus 7 Pro! </b>
 
 I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen, and camera quality I am completely sold. I do not use wireless charging and believe that the warp charge will more than meet my needs. I was concerned about the pop-up camera, but after seeing the “keynote” I am not worried about the moving parts. OnePlus has done the hard work, testing, and research to make me the consumer rest-assured. I am excited about the 90 hz refresh rate and the extra fast 3.0 UFS data transfer. I look forward to connecting this phone directly to my USB 3.0 for transferring photos and loading and offloading content. I am planning to purchase the 8GB memory version of this device as soon as the phone is available for order from OnePlus to be used on Verizon. I have pre-ordered my skin and case from dbrand and also received my Unboxed Therapy 20% promotion coupon. The case will run me $30 and the phone should be just around $700 after the student discount that OnePlus offers. I am planning to get back about $70 on my Samsung Galaxy S7. I am very excited for this super-fast phone that will upgrade my daily driver and really boost my productivity!
 
 * * *
+
+## Discussing the iPhone
 
 |  iPhone Switch Pros |
 |    :---          |
@@ -61,6 +63,8 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
 
 * * *
 
+## Discussing the Pixel 3 & 4
+
 <b> Pixel 3 or 4 Switch Pros </b>
   * Pixelbook instant tethering for mobile hotspots (heard it is glitchy and somewhat unreliable)
   * Maintain my paid Android applications
@@ -90,6 +94,8 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
   <b> -2 </b>
   
 * * *
+
+## Discussing the Note 10
 
 <b> Note 10 Switch Pros </b>
   * Squid mobile application support
@@ -134,7 +140,7 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
 
 * * *
 
-<b> Other things to consider </b>
+## <b> Other things to consider </b>
   * One time paid for apps are moving to subscriptions. The apps that I have previously purchased may lose developer support or move to a subscription. In this case, staying with android for my paid for applications will no longer be as strong of an incentive.
   * I like a good camera, but I am not going to buy a smart phone only because it has the best camera. I remember one of the first HTC devices having a great camera, but was slow. It was the only phone I ever returned after trying for a couple days.
 
@@ -145,8 +151,10 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
   * iPhone (0)
   * Pixel (0)
 
+The Note 10 was the leading device, but I ultimately settled on the OnePlus 7 Pro as the best phone for me.
+
 * * *
 
-<a href="https://shea08.github.io/blog">Back to Top</a>
+<a href="https://shea08.github.io/Switching_to_the_iPhone_Nope_OnePlus_7_Pro">Back to Top</a>
 
 [Home](./)
