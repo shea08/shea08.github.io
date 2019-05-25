@@ -15,10 +15,6 @@ layout: default
 
 * * *
 
-# Blog
-
-<b> <a href="https://shea08.github.io/blog"> Click here ... see my blog posts </a></b>
-
 <b> <a href="https://shea08.github.io/doodles"> Click here ... I also doodle </a></b>
 
 <b> <a href="https://shea08.github.io/quizlet"> Click here ... I make quizlets </a></b>
