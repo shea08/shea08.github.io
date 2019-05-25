@@ -16,4 +16,8 @@ Me?  Well, I’m no prospector, and even if I was, the time to strike it rich in
 
 <a href="https://shea08.github.io/Dan">Back to Top</a>
 
+* * *
+ 
+[back](./)
+
 [Home](./)
