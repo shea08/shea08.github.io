@@ -7,3 +7,9 @@ plugins:
 
 title: <a href="https://shea08.github.io">B</a>en Shea
 description: A shared spot for a passion in technology - science - and how it works
+
+---
+layout: default
+comments: true
+# other options
+---
