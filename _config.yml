@@ -5,5 +5,5 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-title: <a href="https://shea08.github.io">Ben Shea</a>
+title: <span style="color:white"><a href="https://shea08.github.io">Ben Shea</a></span>
 description: A shared spot for a passion in technology - science - and how it works
