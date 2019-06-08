@@ -8,6 +8,8 @@ A listing of books I have read and recommend by the year that I read them:
 
 <a href="https://shea08.github.io/books">Back to Top</a>
 
+[Home](./)
+
 <div id="disqus_thread"></div>
 <script>
 
@@ -29,4 +31,3 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
-[Home](./)
