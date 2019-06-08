@@ -25,7 +25,7 @@
 /*
 var disqus_config = function () {
 this.page.url = "https://shea08.github.io/3D_Inner_and_Middle_Ear";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "/3D_Inner_and_Middle_Ear"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = "/3D_Inner_and_Middle_Ear/"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
