@@ -13,3 +13,5 @@ layout: default
 <a href="https://shea08.github.io/blog">Back to Top</a>
 
 [Home](./)
+
+<meta name="google-site-verification" content="YzxQW1uWDOXrLhdyd4E8neU7wAOv3quWXF1Sl5pZiD0" />
