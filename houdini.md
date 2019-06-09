@@ -8,11 +8,11 @@ Check out this video and a few articles from History and the Smithsonian Magazin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJ9lNRAjTQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://www.history.com/news/what-killed-harry-houdini”> History </a>
+<a href="https://www.history.com/news/what-killed-harry-houdini"> History </a>
 
-<a href=”https://www.smithsonianmag.com/smithsonian-institution/october-31-1926-death-proves-inescapable-for-even-houdini-122032841/”> Smithsonian Magazine </a>
+<a href="https://www.smithsonianmag.com/smithsonian-institution/october-31-1926-death-proves-inescapable-for-even-houdini-122032841/"> Smithsonian Magazine </a>
 
-I found it interesting that <a href="https://www.huntsvillehospital.org/tennessee-valley-pediatric-surgery”> Dr. James C. Gilbert </a> said that Houdini “may have ruptured his intestines” even though some believe that appendicitis caused his death. Dr. Gilbert reiterates that he may have had appendicitis as a serendipitous occasion. However, his official cause of death was peritonitis, which is an “Irritation of your abdominal lining”. In this case if his intestines had ruptured, then the inflammation was only one factor that compounded into his eventual demise. It is only one part of the story.
+I found it interesting that <a href="https://www.huntsvillehospital.org/tennessee-valley-pediatric-surgery"> Dr. James C. Gilbert </a> said that Houdini “may have ruptured his intestines” even though some believe that appendicitis caused his death. Dr. Gilbert reiterates that he may have had appendicitis as a serendipitous occasion. However, his official cause of death was peritonitis, which is an “Irritation of your abdominal lining”. In this case if his intestines had ruptured, then the inflammation was only one factor that compounded into his eventual demise. It is only one part of the story.
 
 # What can be learned from Houdini?
 
@@ -84,7 +84,7 @@ Appendicitis is not usually caused by abdominal trauma. For this reason, Harry H
 * * *
 
 
-<a href="https://shea08.github.io/houdini”>Back to Top</a>
+<a href="https://shea08.github.io/houdini">Back to Top</a>
 
 [Home](./)
 
