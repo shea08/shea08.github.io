@@ -6,7 +6,11 @@ Harry Houdini is very well known for his amazing feats of magic, illusion, and d
 
 Check out this video and a few articles from History and the Smithsonian Magazine to learn more about the life and death of Houdini.
 
+* * *
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJ9lNRAjTQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
 
 <a href="https://www.history.com/news/what-killed-harry-houdini"> History </a>
 
