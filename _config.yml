@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-title: <a href="https://shea08.github.io">B</a>en Shea
+title: Ben Shea <a href="https://shea08.github.io"><font size="-3">[shea08.github.io]</font></a>
 description: A shared spot for a passion in technology - science - and how it works
 ---
 layout: default
