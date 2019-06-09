@@ -8,11 +8,11 @@ Check out this video and a few articles from History and the Smithsonian Magazin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJ9lNRAjTQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-href="https://www.history.com/news/what-killed-harry-houdini”> History </a>
+<href="https://www.history.com/news/what-killed-harry-houdini”> History </a>
 
-href=”https://www.smithsonianmag.com/smithsonian-institution/october-31-1926-death-proves-inescapable-for-even-houdini-122032841/”> Smithsonian Magazine </a>
+<href=”https://www.smithsonianmag.com/smithsonian-institution/october-31-1926-death-proves-inescapable-for-even-houdini-122032841/”> Smithsonian Magazine </a>
 
-I found it interesting that <a href="https://www.huntsvillehospital.org/tennessee-valley-pediatric-surgery”>Dr. James C. Gilbert</a> said that Houdini “may have ruptured his intestines” even though some believe that appendicitis caused his death. Dr. Gilbert reiterates that he may have had appendicitis as a serendipitous occasion. However, his official cause of death was peritonitis, which is an “Irritation of your abdominal lining”. In this case if his intestines had ruptured, then the inflammation was only one factor that compounded into his eventual demise. It is only one part of the story.
+I found it interesting that <a href="https://www.huntsvillehospital.org/tennessee-valley-pediatric-surgery”> Dr. James C. Gilbert </a> said that Houdini “may have ruptured his intestines” even though some believe that appendicitis caused his death. Dr. Gilbert reiterates that he may have had appendicitis as a serendipitous occasion. However, his official cause of death was peritonitis, which is an “Irritation of your abdominal lining”. In this case if his intestines had ruptured, then the inflammation was only one factor that compounded into his eventual demise. It is only one part of the story.
 
 # What can be learned from Houdini?
 
@@ -42,16 +42,15 @@ Appendicitis is described in two manners:
 - Pain can change depending on the anatomical position of the appendix. It can be as low as the pelvis and as high as the superior right lower quadrant.
 2. Anorexia (lacking desire to eat)
 3. Nausea and vomiting
+
 ## Other Symptoms
 
 Each symptom increases in severity as the inflammation worsens. For example, a low-grade fever is seen early on, but as time goes by the fever gradually rises.
 
--- Increased WBC count
--- fever
--- emesis
---- dehydration
---- electrolyte abnormalities
--- septic or hemodynamically unstable 
+- Increased WBC count
+- Fever
+- Emesis (dehydration, electrolyte abnormalities)
+- Septic or hemodynamically unstable 
 
 ## Is the appendix perforated or not?
 
@@ -79,7 +78,7 @@ There is a long and variable list of diseases that can add to the differential d
 
 Appendicitis is not usually caused by abdominal trauma. For this reason, Harry Houdini likely suffered from a ruptured intestine. This would have led to sepsis and bacterial infection. There is a chance that he started to have a luminary blockage around the same time he was punched in the gut. The pain he initially felt was explained by the abdominal impact. This could explain his initial denial of care. Did he have a family history of appendicitis? We will never truly know, but this is a good starting place to consider the dynamics of appendicitis and peritonitis.
 
-What do you think was Harry Houdini’s cause of death? Let me know your thoughts in the comments section below. 
+- What do you think was Harry Houdini’s cause of death? Let me know your thoughts in the comments section below. 
 
 
 * * *
