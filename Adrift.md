@@ -6,7 +6,7 @@ The movie Adrift is based on a true story of a couple’s plan to sail across th
 
 <i> “The best-laid plans of mice and men often go awry” – John Steinbeck </i>
 
-The movie Adrift spends the next 99 minutes portraying the internal memories of, Tami, who survived the storm. Tami survived 41 days adrift in the Pacific Ocean. She experienced grief throughout this experience.  The movie demonstrates the KÜbler-Ross model and the five stages of grief. We shall briefly discuss the model and how it is applied in the movie Adrift.
+The movie Adrift spends the next 99 minutes portraying the internal memories of, Tami, who survived the storm. Tami survived 41 days adrift in the Pacific Ocean. She experienced grief throughout this experience.  The movie demonstrates the Kübler-Ross model and the five stages of grief. We shall briefly discuss the model and how it is applied in the movie Adrift.
 
 * * *
 
@@ -26,9 +26,9 @@ The movie Adrift spends the next 99 minutes portraying the internal memories of,
 
 * * *
 
-## <b> Why is it also known as the KÜbler-Ross model? </b>
+## <b> Why is it also known as the Kübler-Ross model? </b>
 
-The five stages of grief (also known as the Kubler-Ross model) was proposed by Elisabeth Kubler-Ross in her book On Death and Dying in 1969.
+The five stages of grief (also known as the Kübler-Ross model) was proposed by Elisabeth Kübler-Ross in her book On Death and Dying in 1969.
 
 * * *
 
@@ -73,12 +73,12 @@ Tami comes to realization and accepts that Richard is gone by saying “I don’
 According to UpToDate, the symptoms of separation distress that a person can exhibit when facing difficult loss include:
 
 - [ ] Yearning for and seeking proximity to the deceased
-Loneliness
-- [ ] Crying, sadness, and other painful emotions (eg, anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
-Somatic symptoms including distressing physical sensations and disrupted sleep or appetite
+
+- [ ] Loneliness, crying, sadness, and other painful emotions (eg, anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
+- [ ] Somatic symptoms including distressing physical sensations and disrupted sleep or appetite
 - [ ] Insistent thoughts and memories of the lost person, sometimes including hallucinations
 - [ ] Feeling drawn to things associated with the deceased
-Social withdrawal and disinterest in other people and activities not associated with the deceased
+- [ ] Social withdrawal and disinterest in other people and activities not associated with the deceased
 - [ ] Confusion about one’s identity and feeling lost or uncertain without the deceased
 
 * * *
