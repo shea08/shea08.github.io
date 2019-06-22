@@ -11,6 +11,23 @@
 
 * * *
 
+<i> Oak Park </i>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561222779640!6m8!1m7!1sCAoSLEFGMVFpcE5CQzdqV2x5YXlGREdfeDRtVHFTdmFFYTRIMFdRQUpMbUZEYkhL!2m2!1d48.2388031!2d-101.3138713!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+* * *
+
+<i> Dakota Square Mall </i>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561222831955!6m8!1m7!1sCAoSLEFGMVFpcFBKZEFwdjJRbXlTdXRtSWx5UThLaWhWcWJBNTBOYTBzSGlaNG5O!2m2!1d48.206452399999996!2d-101.3123215!3f81!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+* * *
+
+<i> North Hill Baptist Church </i>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561222872938!6m8!1m7!1sCAoSLEFGMVFpcE1JbHhjeXQ2alZ1MWRQb1RNNDFpdERNYlBxNTZXMXBfOXdjUndR!2m2!1d48.2586719!2d-101.3031116!3f55!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+* * *
 
 <a href="https://shea08.github.io/street">Back to Top</a>
 
