@@ -4,6 +4,8 @@
 
 This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to Google Maps, an application that I have used extensively in traveling and exploring. My goal is to accumulate fifty 360 degree photos of the Minot area. I am currently using my OnePlus 7 Pro and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
 
+I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>.
+
 * * *
 
 <i> Barnes & Noble </i>
