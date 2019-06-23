@@ -18,6 +18,18 @@ I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1561222779640!6m8!1m7!1sCAoSLEFGMVFpcE5CQzdqV2x5YXlGREdfeDRtVHFTdmFFYTRIMFdRQUpMbUZEYkhL!2m2!1d48.2388031!2d-101.3138713!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250763586!6m8!1m7!1sCAoSLEFGMVFpcFBzT0VFZ0RCRm00OVN5RUdKRnZNc2hqVkVFTG5leVg2MUc2M0hn!2m2!1d48.238105499999996!2d-101.3169922!3f141!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250823258!6m8!1m7!1sCAoSLEFGMVFpcE9Qek9qaGtuYWRFWnhFOERlSjlCY3BZNEpLUElPd3I0UFJ1WERS!2m2!1d48.237427399999994!2d-101.3136969!3f21!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250839953!6m8!1m7!1sCAoSLEFGMVFpcFBMUkdPbUtUWndrb3lKREYzckppbG1GcU1PcUNxSDdIUUZ6QzBw!2m2!1d48.237657!2d-101.3122611!3f3!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250853860!6m8!1m7!1sCAoSLEFGMVFpcFBfWVFnRzJBUWI2QVpXWmpVRlZkc1gyZ2laSWlvSUNxbmpvazcx!2m2!1d48.2378892!2d-101.30983289999999!3f74!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250878383!6m8!1m7!1sCAoSLEFGMVFpcFBMTU41cDd4ZWhNNVh4TWU0NzBvVndnNzRlb05rQXMwWnpWbWZR!2m2!1d48.2376631!2d-101.31117259999999!3f165!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561250895803!6m8!1m7!1sCAoSLEFGMVFpcE45UzU1eDNPc244YXlGckZ5djBqSHhXUG9uT1pjdG9NS0FyREY1!2m2!1d48.2393297!2d-101.3137524!3f310!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 * * *
 
 <i> Dakota Square Mall </i>
