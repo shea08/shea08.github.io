@@ -10,11 +10,12 @@ I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">
 
 <i> Optimist Soccer Park </i>
 
-https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100
+<iframe height="300px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
 
-https://momento360.com/e/u/73a6c166aac34d42ae804fb314ac4537?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-624.8990613344073&pitch=-32.7919165620121&field-of-view=97.04999999999995
+<iframe height="300px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/73a6c166aac34d42ae804fb314ac4537?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-624.8990613344073&pitch=-32.7919165620121&field-of-view=97.04999999999995"></iframe>
 
 * * *
+
 <i> Barnes & Noble </i>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1561221842970!6m8!1m7!1sCAoSLEFGMVFpcFB0SnEzNDRDLW54d0ZIR2ZNNnpvWWpOc0FSVjNjWDdJdDhMS0Uw!2m2!1d48.20688752473635!2d-101.3120336631279!3f146.78920520870867!4f-9.811760561187896!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
