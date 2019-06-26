@@ -8,6 +8,8 @@ I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">
 
 * * *
 
+Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
+
 <i> Optimist Soccer Park </i>
 
 <iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
