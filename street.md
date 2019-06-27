@@ -12,7 +12,7 @@ Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I 
 
 * * *
 
-<i> Scaninavian Heritage Park </i>
+<i> Scandinavian Heritage Park </i>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1561633747009!6m8!1m7!1sCAoSLEFGMVFpcE1HdFdCZUdHZ1JjWWhjTGI2NGhpY2JublA2czFySzYyaXdwLU8y!2m2!1d48.2262955!2d-101.2979965!3f139.75802552135704!4f15.389024059432671!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
