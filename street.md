@@ -10,6 +10,24 @@ I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">
 
 Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
 
+* * *
+
+<i> Scaninavian Heritage Park </i>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633747009!6m8!1m7!1sCAoSLEFGMVFpcE1HdFdCZUdHZ1JjWWhjTGI2NGhpY2JublA2czFySzYyaXdwLU8y!2m2!1d48.2262955!2d-101.2979965!3f139.75802552135704!4f15.389024059432671!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633790739!6m8!1m7!1sCAoSLEFGMVFpcE11UWJEZkdkQjRvcXFheS1rbXVnVnRsV0VuNjUwSm1RcGtaZnRn!2m2!1d48.2258759!2d-101.2968292!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633811120!6m8!1m7!1sCAoSLEFGMVFpcE1CNUZ1d1ZtbXhZZ1hTZFdiaVdhRmRFb1dmTDk2aEYyVXg2X3gz!2m2!1d48.2259483!2d-101.2982941!3f259.1895341592138!4f18.21187400696367!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633828339!6m8!1m7!1sCAoSLEFGMVFpcE5hTzFZN3NQVHBXVDFkazdBdVhQYVZ0YUNZd1BhTnk0d2JJSHA5!2m2!1d48.2257957!2d-101.2980423!3f134.77660575881146!4f-6.018146948346711!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633849532!6m8!1m7!1sCAoSLEFGMVFpcE9DX0RuYmFNZzJoYTYwbjNNU1JCdlhfbHlKOGl1VjJTT1JuRnpW!2m2!1d48.2254906!2d-101.2967148!3f219.397206519215!4f-13.604518050754393!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1561633867257!6m8!1m7!1sCAoSLEFGMVFpcE45SllWdVFlaWI0ZFpTLVlGb1pDQzlhZTZMNWY3QTZwNk1lRTFJ!2m2!1d48.2265282!2d-101.2973785!3f285.83227520894854!4f3.95729050021626!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+* * *
+
 <i> Optimist Soccer Park </i>
 
 <iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
