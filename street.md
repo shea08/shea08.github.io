@@ -2,71 +2,17 @@
 
 <b> Google Street View Project </b>
 
-This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to Google Maps, an application that I have used extensively in traveling and exploring. My goal is to accumulate fifty 360 degree photos of the Minot area. I am currently using my OnePlus 7 Pro and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
+This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to Google Maps and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a Google Street View Trusted Photographer. I am currently available to be hired for outdoor 360 photos only.     
 
-I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>.
+I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
+
+I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>, which would require a  <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> $19.99 monthly subscription to Photoshop Lightroom</a> for photo stitching and editing. As an alternative I could consider another software called <a ref=https://www.ptgui.com/order.html">PTGui</a> , which currently runs $146 for the one-time personal license. 
 
 * * *
 
 Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
 
-<i> Roosevelt Park </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561838100764!6m8!1m7!1sCAoSLEFGMVFpcFB1a2tjWEg0QkN5SmFLUlZJN1p3OWhOc0NnXzNDV1NTTWs0XzNt!2m2!1d48.2346802!2d-101.2773438!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> Roosevelt Park Zoo </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561837904187!6m8!1m7!1sCAoSLEFGMVFpcE5ZVkJ2TmhzSXV2THFEOE1vS2tjXzNMYzIxUno2Y1IyVFBEVkhS!2m2!1d48.2334404!2d-101.2767105!3f144.07552380551934!4f-4.687781356209669!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561837925108!6m8!1m7!1sCAoSLEFGMVFpcE1veFJXRzUxM1poTE95bXNnZXN1ZGVSa0dOdzdJYU1rVjBfczVF!2m2!1d48.2352486!2d-101.2715988!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561837942192!6m8!1m7!1sCAoSLEFGMVFpcE8taVIzM3BCUzBQek1rbEZ5UUlEOUNySDVuTl9HTFIxMXdmZDMw!2m2!1d48.2348557!2d-101.2726135!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561837961830!6m8!1m7!1sCAoSLEFGMVFpcE1UQ1p4TjFRZjB1N25jWDhVWll1UXp6dElReUV0UGdFWmhWZnZW!2m2!1d48.2334518!2d-101.2764511!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561837979743!6m8!1m7!1sCAoSLEFGMVFpcE5oSHEteDBIWUYtQWo2Y2pOVkxkZ2Vnby1pYjRwNi1Sb09QeFlX!2m2!1d48.2345657!2d-101.2720261!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561838002352!6m8!1m7!1sCAoSLEFGMVFpcFBhZ1BVUHdTTGwzZjJlU3VCRzJQVk0wckJwQktiUWRBWWNOb3Vu!2m2!1d48.2333794!2d-101.276474!3f197.57600841544337!4f1.4122116441377273!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561838024869!6m8!1m7!1sCAoSLEFGMVFpcE5HNlVNa0lZQnFWX0lIejk3X2dYTmlmak5jQnE0YlNBYUtCRVJE!2m2!1d48.2334213!2d-101.2744827!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561838037606!6m8!1m7!1sCAoSLEFGMVFpcE5wWVI3MW9ESnNkWEV4Rk9ZRzYzOVdwNXJBMWhiUGxvS3JhMVdN!2m2!1d48.2336006!2d-101.2736359!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> Woodland Trail </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692311337!6m8!1m7!1sCAoSLEFGMVFpcE9JR2FvT3Jpam54djN4cUZfc2xxbGFQcWFsWVcxaFJJWk9VcWtw!2m2!1d48.2269211!2d-101.3402252!3f259.57199088371794!4f7.830100829715633!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692357803!6m8!1m7!1sCAoSLEFGMVFpcFBMMXNrdEt5b3lQcFg0RnhNLUhmZ2h2RVFVRUJIOUM3TFQzUlds!2m2!1d48.2302971!2d-101.3369827!3f14.942570402871464!4f-1.426039598196411!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692398926!6m8!1m7!1sCAoSLEFGMVFpcE1tOEVzOThtbnpHZEhiZGwxdktaeHJQMmZmeDlnM1RUWUZ4OFRi!2m2!1d48.2269211!2d-101.3402328!3f121.77187818613774!4f7.373502260842955!5f0.45667306741466507" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692438022!6m8!1m7!1sCAoSLEFGMVFpcE1XMG9RNzBSenl2S2Q1Rmd2bnYtSnFYSUUwTERGNW9uVUZCVGhN!2m2!1d48.2266617!2d-101.3360519!3f40.79500066817231!4f-13.082236535507647!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692491277!6m8!1m7!1sCAoSLEFGMVFpcE9DOE5MVkloSFE0a3Bjb1k3bTd2T1pxcEQ2RXVlaFRTTlRtelN2!2m2!1d48.2269211!2d-101.3402252!3f340.86830409731976!4f-0.5222212571034675!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561692520805!6m8!1m7!1sCAoSLEFGMVFpcFA1Q1p1WXdYYnU2d2tRWVg2ZUw2cGFsYThfMmI2TVMxYk9OQVVL!2m2!1d48.2302971!2d-101.3369827!3f150.32507345702356!4f-9.770463091744176!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> Scandinavian Heritage Park </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633747009!6m8!1m7!1sCAoSLEFGMVFpcE1HdFdCZUdHZ1JjWWhjTGI2NGhpY2JublA2czFySzYyaXdwLU8y!2m2!1d48.2262955!2d-101.2979965!3f139.75802552135704!4f15.389024059432671!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633790739!6m8!1m7!1sCAoSLEFGMVFpcE11UWJEZkdkQjRvcXFheS1rbXVnVnRsV0VuNjUwSm1RcGtaZnRn!2m2!1d48.2258759!2d-101.2968292!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633811120!6m8!1m7!1sCAoSLEFGMVFpcE1CNUZ1d1ZtbXhZZ1hTZFdiaVdhRmRFb1dmTDk2aEYyVXg2X3gz!2m2!1d48.2259483!2d-101.2982941!3f259.1895341592138!4f18.21187400696367!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633828339!6m8!1m7!1sCAoSLEFGMVFpcE5hTzFZN3NQVHBXVDFkazdBdVhQYVZ0YUNZd1BhTnk0d2JJSHA5!2m2!1d48.2257957!2d-101.2980423!3f134.77660575881146!4f-6.018146948346711!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633849532!6m8!1m7!1sCAoSLEFGMVFpcE9DX0RuYmFNZzJoYTYwbjNNU1JCdlhfbHlKOGl1VjJTT1JuRnpW!2m2!1d48.2254906!2d-101.2967148!3f219.397206519215!4f-13.604518050754393!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561633867257!6m8!1m7!1sCAoSLEFGMVFpcE45SllWdVFlaWI0ZFpTLVlGb1pDQzlhZTZMNWY3QTZwNk1lRTFJ!2m2!1d48.2265282!2d-101.2973785!3f285.83227520894854!4f3.95729050021626!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
+Here is a few examples of my work:
 
 <i> Optimist Soccer Park </i>
 
@@ -76,41 +22,12 @@ Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I 
 
 * * *
 
-<i> Barnes & Noble </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561221842970!6m8!1m7!1sCAoSLEFGMVFpcFB0SnEzNDRDLW54d0ZIR2ZNNnpvWWpOc0FSVjNjWDdJdDhMS0Uw!2m2!1d48.20688752473635!2d-101.3120336631279!3f146.78920520870867!4f-9.811760561187896!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> Oak Park </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561222779640!6m8!1m7!1sCAoSLEFGMVFpcE5CQzdqV2x5YXlGREdfeDRtVHFTdmFFYTRIMFdRQUpMbUZEYkhL!2m2!1d48.2388031!2d-101.3138713!3f0!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250763586!6m8!1m7!1sCAoSLEFGMVFpcFBzT0VFZ0RCRm00OVN5RUdKRnZNc2hqVkVFTG5leVg2MUc2M0hn!2m2!1d48.238105499999996!2d-101.3169922!3f141!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250823258!6m8!1m7!1sCAoSLEFGMVFpcE9Qek9qaGtuYWRFWnhFOERlSjlCY3BZNEpLUElPd3I0UFJ1WERS!2m2!1d48.237427399999994!2d-101.3136969!3f21!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250839953!6m8!1m7!1sCAoSLEFGMVFpcFBMUkdPbUtUWndrb3lKREYzckppbG1GcU1PcUNxSDdIUUZ6QzBw!2m2!1d48.237657!2d-101.3122611!3f3!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250853860!6m8!1m7!1sCAoSLEFGMVFpcFBfWVFnRzJBUWI2QVpXWmpVRlZkc1gyZ2laSWlvSUNxbmpvazcx!2m2!1d48.2378892!2d-101.30983289999999!3f74!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250878383!6m8!1m7!1sCAoSLEFGMVFpcFBMTU41cDd4ZWhNNVh4TWU0NzBvVndnNzRlb05rQXMwWnpWbWZR!2m2!1d48.2376631!2d-101.31117259999999!3f165!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561250895803!6m8!1m7!1sCAoSLEFGMVFpcE45UzU1eDNPc244YXlGckZ5djBqSHhXUG9uT1pjdG9NS0FyREY1!2m2!1d48.2393297!2d-101.3137524!3f310!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> Dakota Square Mall </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561222831955!6m8!1m7!1sCAoSLEFGMVFpcFBKZEFwdjJRbXlTdXRtSWx5UThLaWhWcWJBNTBOYTBzSGlaNG5O!2m2!1d48.206452399999996!2d-101.3123215!3f81!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
-
-<i> North Hill Baptist Church </i>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1561222872938!6m8!1m7!1sCAoSLEFGMVFpcE1JbHhjeXQ2alZ1MWRQb1RNNDFpdERNYlBxNTZXMXBfOXdjUndR!2m2!1d48.2586719!2d-101.3031116!3f55!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-* * *
+<a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
+<a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
+<a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
+<a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
+<a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
+<a href="https://goo.gl/maps/bM3xqm2xzUdrBJBFA"> Roosevelt Park</a>
 
 <a href="https://shea08.github.io/street">Back to Top</a>
 
