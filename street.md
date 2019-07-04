@@ -2,7 +2,7 @@
 
 <b> Google Street View Project </b>
 
-This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the <a href="https://www.google.com/streetview/" street view</a>, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools/Google"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos only.     
+This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools/Google"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos only.     
 
 I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
 
