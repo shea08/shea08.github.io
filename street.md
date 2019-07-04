@@ -22,12 +22,12 @@ Here is a few examples of my work:
 
 * * *
 
-<a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
-<a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
-<a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
-<a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
-<a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
-<a href="https://goo.gl/maps/bM3xqm2xzUdrBJBFA"> Roosevelt Park</a>
+- <a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
+- <a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
+- <a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
+- <a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
+- <a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
+- <a href="https://goo.gl/maps/bM3xqm2xzUdrBJBFA"> Roosevelt Park</a>
 
 <a href="https://shea08.github.io/street">Back to Top</a>
 
