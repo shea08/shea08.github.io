@@ -4,9 +4,21 @@
 
 This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools/Google"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos only.     
 
-I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
+I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I also use the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
 
-I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>, which would require a  <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> $19.99 monthly subscription to Photoshop Lightroom</a> for photo stitching and editing. As an alternative I could consider another software called <a ref="https://www.ptgui.com/order.html">PTGui</a> , which currently runs $146 for the one-time personal license. 
+I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>, which would require a  <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> $9.99 monthly subscription to Photoshop Lightroom</a> for photo stitching and editing. As an alternative I could consider another software called <a ref="https://www.ptgui.com/order.html"> PTGui </a> , which currently runs $146 for the one-time personal license. 
+
+<b> My current potential purchase list is as follows: </b>
+
+- <a href="https://www.bhphotovideo.com/c/product/1462792-REG/ricoh_910778_theta_z1_360_camera.html?ap=y&gclid=CjwKCAjw6vvoBRBtEiwAZq-T1Q_ozWswBooAdLmMCCpg6cs6K0YQ85_gEfrdqCRkDl_C4qFLZkUOHRoCVOoQAvD_BwE&lsft=BI%3A514&smp=y"> Ricoh THETA Z1 360 Camera ($999.95)</a>
+
+- <a href="https://www.bhphotovideo.com/c/product/1462807-REG/ricoh_910762_ts_2_semi_hard_case_for.html"> Ricoh TS-2 Semi-Hard Case for THETA Z1 Camera ($29.95)</a>
+
+- <a href="https://www.bhphotovideo.com/c/product/687343-REG/Oben_TT_300_TT_300_Table_Top_Tripod.html"> Oben TT-300 Tabletop Tripod ($69.95)</a>
+
+- <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> Photoshop Lightroom ($10)</a>
+
+This equals an up front cost of around $1200.
 
 * * *
 
