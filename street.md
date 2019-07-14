@@ -44,6 +44,34 @@ Here is a few examples of my work using the philopod technique:
 
 * * *
 
+My current work flow is as follows:
+
+1. Survey the area requiring 360 photography
+2. Setup Tripod and adapters
+2a. Ensure all bubble levels are calibrated correctly
+2b. Open Google Camera application on OnePlus 7 Pro
+2c. Click more
+2d. Click Photo Sphere
+3. Shoot the horizontal plane
+4. Shoot the downward horizontal plane
+5. Flip my phone over and shoot the upward horizontal plane
+6. Flip the phone completely 90 degrees to shoot the uppermost angles
+7. Flip the phone back to the horizontal plane.
+8. Remove the phone from the mount
+9. Take one large step backwards
+10. Shoot the lowermost angled photographs
+11. Repeat steps 2-10 as required for each hotspot
+12. Edit the photos in Snapseed, apply HDR effects and selective brightness
+13. Edit the photos in Retouch to remove unwanted stitching errors and other problems
+14. Load into Street View app
+14a. Select location and edit GPS coordinates for accuracy
+14b. Connect points after publishing
+15. Load photos to PC for publishing to veer.tv
+16. Create interactive experience, if required
+17. Share links
+
+* * *
+
 - <a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
 - <a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
 - <a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
