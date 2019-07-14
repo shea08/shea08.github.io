@@ -4,7 +4,11 @@
 
 This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools/Google"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos only.     
 
-I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I also use the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
+I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I started by use the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I have recently advanced to a <a href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=sr_1_3?keywords=tripod&qid=1563144306&s=gateway&sr=8-3"> tripod,</a> <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder, </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> and a 360 Degree Panoramic Base.</a>
+
+This tripod setup cost about $60. 
+
+I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future. 
 
 I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">camera</a>, which would require a  <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> $9.99 monthly subscription to Photoshop Lightroom</a> for photo stitching and editing. As an alternative I could consider another software called <a ref="https://www.ptgui.com/order.html"> PTGui </a> , which currently runs $146 for the one-time personal license. 
 
@@ -24,7 +28,13 @@ This equals an up front cost of around $1200.
 
 Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
 
-Here is a few examples of my work:
+Here is an example of my work using the tripod technique:
+
+<iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
+
+* * *
+
+Here is a few examples of my work using the philopod technique:
 
 <i> Optimist Soccer Park </i>
 
