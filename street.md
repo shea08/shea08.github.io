@@ -2,7 +2,31 @@
 
 <b> Google Street View Project </b>
 
-This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools/Google"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos only.     
+This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to <a href="maps.google.com">Google Maps</a> and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos.    
+
+* * *
+
+Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
+
+Here is an example of a virtual tour that I made:
+
+<iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
+
+Here is a recent outdoor example of my work using a tripod:
+
+<a href="https://goo.gl/maps/hZGn5DrHCoN7YQQ68"> Broadway Bridge over Highway-83 </a>
+
+* * *
+
+Here is a few examples of my work using the philopod technique:
+
+<i> Optimist Soccer Park </i>
+
+<iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
+
+<iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/73a6c166aac34d42ae804fb314ac4537?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-624.8990613344073&pitch=-32.7919165620121&field-of-view=97.04999999999995"></iframe>
+
+* * *
 
 I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I started by using the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I have recently advanced to a <a href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=sr_1_3?keywords=tripod&qid=1563144306&s=gateway&sr=8-3"> tripod,</a> <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder, </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> and a 360 Degree Panoramic Base.</a>
 
@@ -26,24 +50,6 @@ This equals an up front cost of around $1200.
 
 * * *
 
-Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
-
-Here is an example of my work using the tripod technique:
-
-<iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
-
-* * *
-
-Here is a few examples of my work using the philopod technique:
-
-<i> Optimist Soccer Park </i>
-
-<iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
-
-<iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/73a6c166aac34d42ae804fb314ac4537?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-624.8990613344073&pitch=-32.7919165620121&field-of-view=97.04999999999995"></iframe>
-
-* * *
-
 My current work flow is as follows:
 
 1. Survey the area requiring 360 photography
@@ -57,15 +63,14 @@ My current work flow is as follows:
 5. Flip my phone over and shoot the upward horizontal plane
 6. Flip the phone completely 90 degrees to shoot the uppermost angles
 7. Flip the phone back to the horizontal plane.
-8. Remove the phone from the mount
-9. Take one large step backwards
-10. Shoot the lowermost angled photographs
-11. Repeat steps 2-10 as required for each hotspot
-12. Edit the photos in Snapseed, apply HDR effects and selective brightness
-13. Edit the photos in Retouch to remove unwanted stitching errors and other problems
-14. Load into Street View app
-14a. Select location and edit GPS coordinates for accuracy
-14b. Connect points after publishing
+8. Shoot the lowermost angled photographs
+8a.Flip the phone completely 90 degrees to shoot the lowermost angles
+9. Repeat steps 2-8 as required for each hotspot
+10. Edit the photos in Snapseed, apply HDR effects and selective brightness
+11. Edit the photos in Retouch to remove unwanted stitching errors and tripod legs
+12. Load into Street View app
+13. Select location and edit GPS coordinates for accuracy
+14. Connect points after publishing
 15. Load photos to PC for publishing to veer.tv
 16. Create interactive experience, if required
 17. Share links
