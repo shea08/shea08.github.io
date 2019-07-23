@@ -1,18 +1,14 @@
-<i> This project initially began on Saturday, June 22nd 2019 </i>
+<b> Ben's 360 Photography (Google Street View Project) </b>
 
-<b> Google Street View Project </b>
-
-This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to Google Maps and the street view, an application that I have used extensively in traveling and exploring. I have met my goal of accumulating fifty 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos.    
+This is a new hobby of mine. I enjoy photography and this is a way that I can contribute to Google Maps and the street view, an application that I have used extensively in traveling and exploring. I have published 120+ 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos. I can publish to Google Street View and link to your Google Business listing.    
 
 * * *
-
-Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
 
 Here is an example of a virtual tour that I made:
 
 <iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
 
-Here is a recent outdoor example of my work using a tripod:
+Here is a recent outdoor example of my work on North Hill:
 
 <a href="https://goo.gl/maps/hZGn5DrHCoN7YQQ68"> Broadway Bridge over Highway-83 </a>
 
@@ -29,6 +25,12 @@ Here is a few examples of my work using the philopod technique:
 * * *
 
 I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I started by using the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I have recently advanced to a <a href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=sr_1_3?keywords=tripod&qid=1563144306&s=gateway&sr=8-3"> tripod,</a> <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder, </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> and a 360 Degree Panoramic Base.</a>
+
+* * *
+
+Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I take some of the more artistic 360 panoramas and turn them into a tiny planet.
+
+* * *
 
 This tripod setup cost about $60. 
 
@@ -83,6 +85,8 @@ My current work flow is as follows:
 - <a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
 - <a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
 - <a href="https://goo.gl/maps/bM3xqm2xzUdrBJBFA"> Roosevelt Park</a>
+
+<i> This project initially began on Saturday, June 22nd 2019 </i>
 
 <a href="https://shea08.github.io/street">Back to Top</a>
 
