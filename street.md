@@ -45,7 +45,7 @@ Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I 
 
 ## Pricing (TBD)
 
-Please contact me to discuss pricing.
+Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss scheduling and price options.
 
 * * *
 
