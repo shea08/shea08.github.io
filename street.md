@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I enjoy photography and this is a way that I can contribute to Google Maps and the street view, an application that I have used extensively in traveling and exploring. I have published 120+ 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos. I can publish to Google Street View and link to your Google Business listing. My services include the phot shoot, editing, and iframe embed code.    
+I enjoy photography and this is a way that I can contribute to Google Maps and the street view, an application that I have used extensively in traveling and exploring. I have published 120+ 360 degree photos of the Minot area. I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for outdoor 360 photos. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, and iframe embed code.    
 
 * * *
 
