@@ -16,26 +16,26 @@ This tripod setup cost about $60.
  
 1. Survey the area requiring 360 photography
 2. Setup Tripod and adapters
-2a. Ensure all bubble levels are calibrated correctly
-2b. Open Google Camera application on OnePlus 7 Pro
-2c. Click more
-2d. Click Photo Sphere
-3. Shoot the horizontal plane
-4. Shoot the downward horizontal plane
-5. Flip my phone over and shoot the upward horizontal plane
-6. Flip the phone completely 90 degrees to shoot the uppermost angles
-7. Flip the phone back to the horizontal plane.
-8. Shoot the lowermost angled photographs
-8a.Flip the phone completely 90 degrees to shoot the lowermost angles
-9. Repeat steps 2-8 as required for each hotspot
-10. Edit the photos in <a href=”https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US”>Snapseed</a>, apply HDR effects and selective brightness
-11. Edit the photos in <a href=”https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&hl=en_US”>Retouch</a> to remove unwanted stitching errors and tripod legs
-12. Load into Street View app
-13. Select location and edit GPS coordinates for accuracy
-14. Connect points after publishing
-15. Load photos to PC for publishing to veer.tv
-16. Create interactive experience, if required
-17. Share links and iframe embed code
+3. Ensure all bubble levels are calibrated correctly
+4. Open Google Camera application on OnePlus 7 Pro
+5. Click more
+6. Click Photo Sphere
+7. Shoot the horizontal plane
+8. Shoot the downward horizontal plane
+9. Flip my phone over and shoot the upward horizontal plane
+10. Flip the phone completely 90 degrees to shoot the uppermost angles
+11. Flip the phone back to the horizontal plane.
+12. Shoot the lowermost angled photographs
+13.Flip the phone completely 90 degrees to shoot the lowermost angles
+14. Repeat steps 2-13 as required for each hotspot
+15. Edit the photos in <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US">Snapseed</a>, apply HDR effects and selective brightness
+16. Edit the photos in <a href="https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&hl=en_US">Retouch</a> to remove unwanted stitching errors and tripod legs
+17. Load into Street View app
+18. Select location and edit GPS coordinates for accuracy
+19. Connect points after publishing
+20. Load photos to PC for publishing to veer.tv (if required)
+21. Create interactive experience (if required)
+22. Share links and iframe embed code
  
 * * *
 
@@ -59,7 +59,7 @@ This equals an up front cost of around $1200.
  
 * * *
 
-<a href="https://shea08.github.io/street”>Link to my Street View Trusted Page</a>
+<a href="https://shea08.github.io/street">Link to my Street View Trusted Page</a>
 
 * * *
 
