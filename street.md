@@ -6,7 +6,11 @@ I enjoy photography and this is a way that I can contribute to Google Maps and t
 
 ## Virtual Tours
 
-Here is an example of a virtual tour that I made for the Hammond Tennis Complex:
+Here is a virtual tour of Living Word Lutheran Church:
+
+<iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=qKCl9pKmvscc77uvIW49OI2wlQc&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
+
+Here is another example of a virtual tour that I made for the Hammond Tennis Complex:
 
 <iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
 
@@ -18,11 +22,11 @@ Here is a recent outdoor example of my work on North Hill:
 
 <a href="https://goo.gl/maps/hZGn5DrHCoN7YQQ68"> Broadway Bridge over Highway-83 </a>
 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1564240498440!6m8!1m7!1sCAoSLEFGMVFpcFAzSzBkZlJHbVpocnFGMFMwZmpSTml6enJ6X1U4cUhjN1pvVXdS!2m2!1d48.25314194985844!2d-101.2954691424966!3f285.9817119949565!4f-7.867175454283796!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 * * *
 
 <i> Optimist Soccer Park </i>
-
-<iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/c323c8d2f63841a5bba6026dadad014b?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-377.1392668645829&pitch=9.60437561849635&field-of-view=100"></iframe>
 
 <iframe height="600px" width="75%" allowfullscreen="true" src="https://momento360.com/e/u/73a6c166aac34d42ae804fb314ac4537?utm_campaign=embed&utm_source=other&utm_medium=other&heading=-624.8990613344073&pitch=-32.7919165620121&field-of-view=97.04999999999995"></iframe>
 
@@ -35,7 +39,6 @@ Here is a recent outdoor example of my work on North Hill:
 - <a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
 - <a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
 - <a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
-- <a href="https://goo.gl/maps/bM3xqm2xzUdrBJBFA"> Roosevelt Park</a>
 
 * * *
 
