@@ -52,7 +52,7 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss sc
 
 * * *
 
-## Facebook
+## <a href="https://www.facebook.com/360ben">Follow Ben's 360 Photography on Facebook</a>
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F360ben&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
