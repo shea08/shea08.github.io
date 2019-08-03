@@ -39,7 +39,17 @@ This tripod setup cost about $60.
  
 * * *
 
-## Future Equipment
+## Future DSLR Panohead Equipment
+
+I currently own a Nikon D70s with several standard lenses. I may consider purchasing a <a href="https://www.amazon.com/Neewer-Professional-Panoramic-Indexing-kilograms/dp/B07DQ71GNV/ref=sr_1_3?keywords=Neewer+pano+head&qid=1564838489&s=gateway&sr=8-3">Neewer Pano Gimbal Mount</a> in order to begin using this camera for 360 photography. The upfront cost for this workflow will be $60 for the new pano head and $146 for the<a ref="https://www.ptgui.com/order.html"> PTGui </a> stitching software.  
+
+## Testing GoPro Hero 3
+
+I am testing my GoPro Hero 3 with my <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder and </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> 360 Degree Panoramic Base.</a> We will see how it stitches in PtGui, but I think it will have some stitching errors due to parallax. 
+
+<a href="https://www.thingiverse.com/thing:1459595">Thingiverse</a> also has some very cool 3D printed mounts for projects like this one.
+
+## Future 360 Camera Equipment
  
 I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future.
  
