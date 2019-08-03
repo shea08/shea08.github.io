@@ -23,10 +23,10 @@ This tripod setup cost about $60.
 7. Shoot the horizontal plane
 8. Shoot the downward horizontal plane
 9. Flip my phone over and shoot the upward horizontal plane
-10. Flip the phone completely 90 degrees to shoot the uppermost angles
+10. Flip the phone completely 90 degrees to shoot the uppermost angles of the zenith
 11. Flip the phone back to the horizontal plane.
 12. Shoot the lowermost angled photographs
-13.Flip the phone completely 90 degrees to shoot the lowermost angles
+13. Flip the phone completely 90 degrees to shoot the lowermost angles of the nadir
 14. Repeat steps 2-13 as required for each hotspot
 15. Edit the photos in <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US">Snapseed</a>, apply HDR effects and selective brightness
 16. Edit the photos in <a href="https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&hl=en_US">Retouch</a> to remove unwanted stitching errors and tripod legs
