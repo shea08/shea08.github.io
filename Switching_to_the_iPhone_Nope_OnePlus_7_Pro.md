@@ -2,7 +2,7 @@
 
 # <b> Switching to the iPhone...Nope...OnePlus 7 Pro! </b>
 
-I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4, iPhone, and One Plus 7 Pro falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slow downs, but all-in-all I am content with my current device. To maintain performance I must factory reset my phone about once every 6-9 months. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at Bestbuy and I actually do not care for it. The power button is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience. I think the Note 10 and iPhone will be the two phones I will have to compare and purchase in fall 2019.
+I am considering taking a leap into the iPhone environment. I have been a Samsung user since I put down my Blackberry Curve in 2010. I started with the Samsung Galaxy S1, S4, and have been owning the S7 for the past couple years. I will be tracking over the next year what the pros and cons of switching will be. The Note 10 is currently my front runner with the Pixel 4, iPhone, and One Plus 7 Pro falling just behind. With the release of the Galaxy S10, I have been tempted to purchase a new phone. I have not done it because the Galaxy S7 has continued to perform. I have noticed some slowdowns, but all-in-all I am content with my current device. To maintain performance, I must factory reset my phone about once every 6-9 months. I am holding out because the next iteration of iPhone might be good enough to switch me over. I have removed the Galaxy S10 for now just because I don't see myself switching to it anytime soon. I had some time with the S10 at BestBuy and I actually do not care for it. The power button is way too high on the S10+ and the user interface is odd to me. I'm sure I would get used to it, but it just doesn't have a good feel. I am likely to install and use the Nova Launcher. It has become a huge asset in my Samsung Galaxy S7 experience. I think the Note 10 and iPhone will be the two phones I will have to compare and purchase in fall 2019.
 
 I am also now considering the One Plus 7 as it is a phone known for great performance. The main concerns I am facing with the new series of phones is the curved displays on Samsung devices. I strongly dislike the curved screen because it gets in the way and distracts from the basic utility of the smart phone. This is a dilemma because I really look forward to the Note 10 and the One Plus 7 pro, which both have curved displays. I think the stylus will be a huge plus for my use-case, but I am not sure if I can get past the curved display. The Apple environment offers a lot in the case of longevity and simplicity. The One Plus 7 could be a perfect phone for me if I can accept the loss of the headphone jack and wireless charging. I really do not use wireless charging as much anymore. It used to be convenient, but since moving my chargers outside of my bedroom it isn't as useful as it used to be. I struggle with moving to the One Plus brand because I feel a strong brand connection with Samsung and Google. I really want to like the Pixel series of phones, but have experienced first-hand the struggles of the Google Pixelbook and can't imagine the frustrations that would come from a device I would be required to use every day.   
 
@@ -32,7 +32,7 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
 3. |It will match my wife's phone|
 4. |Far less customization than Android|
 5. |Loss of the headphone jack|
-6. |Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 AirPods ~ $3K when all said and done)|
+6. |Cost overall (~$1000 iPhone, ~$500 Apple Watch, ~$200 Air Pods ~ $3K when all said and done)|
 7. |Less usefulness of the Pixelbook (Android messaging app)|
   
   * * *
@@ -53,7 +53,7 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
   | iPhone XS Max                     |   $1100            | 
   | iPad mini, 64GB, wi-Fi + Cellular |   $529             |
   | Apple Watch Series 4 + cell       |   $530 (+$10 cell) |
-  | AirPods                           |   $160             |
+  | Air Pods                           |   $160             |
   | Apple Pencil 2nd Gen.             |   $130             |      
 
 <b> Total Cost = $2,449 </b>
@@ -72,7 +72,7 @@ I have decided to go with the OnePlus 7 Pro. After looking at the specs, screen,
   * Google call screening (won't get used all that often now, but maybe in the future)
 
 <b> Pixel 3 Switch Cons </b>
-  * Glitchy Google software (Its a love-hate relationship with my pixelbook. I imagine the Pixel phone will be the same too)
+  * Glitchy Google software (It’s a love-hate relationship with my Pixelbook. I imagine the Pixel phone will be the same too)
   * The notch (it will get smaller or be gone in the 4)
 
 * * *
@@ -179,4 +179,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+                             
