@@ -73,14 +73,14 @@ Tami comes to realization and accepts that Richard is gone by saying “I don’
 
 According to UpToDate, the symptoms of separation distress that a person can exhibit when facing difficult loss include:
 
-- [ ] Yearning for and seeking proximity to the deceased
+- Yearning for and seeking proximity to the deceased
 
-- [ ] Loneliness, crying, sadness, and other painful emotions (e.g., anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
-- [ ] Somatic symptoms including distressing physical sensations and disrupted sleep or appetite
-- [ ] Insistent thoughts and memories of the lost person, sometimes including hallucinations
-- [ ] Feeling drawn to things associated with the deceased
-- [ ] Social withdrawal and disinterest in other people and activities not associated with the deceased
-- [ ] Confusion about one’s identity and feeling lost or uncertain without the deceased
+- Loneliness, crying, sadness, and other painful emotions (e.g., anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
+- Somatic symptoms including distressing physical sensations and disrupted sleep or appetite
+- Insistent thoughts and memories of the lost person, sometimes including hallucinations
+- Feeling drawn to things associated with the deceased
+- Social withdrawal and disinterest in other people and activities not associated with the deceased
+- Confusion about one’s identity and feeling lost or uncertain without the deceased
 
 * * *
 
