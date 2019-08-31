@@ -2,12 +2,25 @@
 
 <b> Fitbit </b>
 
-This is a place where I will talk about my experience with the Fitbit. More to follow at a later date.
+This is a place where I will talk about my experience with the Fitbit.
 
 ## Inspire HR
 
+My have two main dislikes of my first Fitbit (Inspire HR).
+
+<b> #1 </b>
+- The alarm, chrono, and timekeeping functions are weak.
+-- It takes three swipes up to even get to the timer function (four swipes for alarms). I can set a timer or alarm on my Timex in under 3-5 seconds.
+
+<b> #2 </b>
+- Notifications and smart-phone interactions are weak.
+-- Notification pop-ups often disappear and are not able to be pulled back again. They are also hard to read and you can't respond.
+
+* * *
+
 ## Android App
 
+The android application for Fitbit has been a mostly good experience. There is plenty of graphics and charts to see in relation to my heart rate, weight, and steps taken.
 
 * * *
 
@@ -38,4 +51,4 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
 
-
+ 
