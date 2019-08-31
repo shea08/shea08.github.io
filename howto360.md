@@ -120,8 +120,6 @@ Prosumer 360 Camera (Insta360 One X) = $455
 
 - Photo quality
 
---------------
-
 * * *
 
 <a href="https://shea08.github.io/street">Link to my Street View Trusted Page</a>
