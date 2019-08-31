@@ -23,7 +23,7 @@ I learned that the four areas to watch for blood loss are:
 ## The Statistics of Road Injury
 "All trauma patients require a systematic approach to management to maximize outcomes and reduce the risk of undiscovered injuries."
 
-To give this discussion context The <a href="https://www.who.int/healthinfo/global_burden_disease/estimates/en/”>World Health Organization</a>'s global health estimates in 2016 found that the #1 cause of adult death was Ischaemic heart disease (16.6% of all deaths). Road injury was the #10 cause of adult death with 2.5% of all deaths.
+To give this discussion context The <a href="https://www.who.int/healthinfo/global_burden_disease/estimates/en/">World Health Organization</a>'s global health estimates in 2016 found that the #1 cause of adult death was Ischaemic heart disease (16.6% of all deaths). Road injury was the #10 cause of adult death with 2.5% of all deaths.
 ## Collect this info
 This is a list of Important information that can be collected right away. Each item would be considered useful to the emergency response team. 
 - Age and sex
@@ -41,7 +41,7 @@ This is a list of Important information that can be collected right away. Each i
 * * *
 
 Interesting facts:
-- <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=18248707”>Hypotension generally does not manifest until at least 30 percent of the patient's blood volume has been lost </a>
+- <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=18248707">Hypotension generally does not manifest until at least 30 percent of the patient's blood volume has been lost </a>
 - Hemorrhage is the most common preventable cause of mortality in trauma.
 - Up to 39 percent of trauma patients have injuries that are initially missed, and up to 22 percent of these are clinically significant. 
 
