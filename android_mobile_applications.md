@@ -12,7 +12,7 @@ I use this application to research and learn about pharmaceuticals that I see in
 
 ## <b> <a href="https://play.google.com/store/apps/details?id=com.hiqrecorder.full"> Hi-Q MP3 Voice Recorder (Pro) (Beta) </a></b>
 
-This application has been great for recording audio from my Galaxy S7. It can record in MP3 and .wav without any problems. It even has the ability to auto-amplify the audio, which helps for recording something fairly quiet. It also can backup to Dropbox, which has been helpful. It is really great for gettig files off my phone because it can open the files up to the local network. I use this periodically when I don't have a USB cable. It simply works!
+This application has been great for recording audio from my Galaxy S7. It can record in MP3 and .wav without any problems. It even has the ability to auto-amplify the audio, which helps for recording something fairly quiet. It also can backup to Dropbox, which has been helpful. It is really great for getting files off my phone because it can open the files up to the local network. I use this periodically when I don't have a USB cable. It simply works!
 
 ## <b> <a href="https://play.google.com/store/apps/details?id=com.samruston.hurry"> Hurry - Countdown to Birthday/Vacation (Beta) </a></b>
 
@@ -74,4 +74,4 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
-
+ 
