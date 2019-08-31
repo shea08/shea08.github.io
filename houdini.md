@@ -2,7 +2,7 @@
 
 <b> Harry Houdini - Death by Peritonitis </b>
 
-Harry Houdini is very well known for his amazing feats of magic, illusion, and death defying tricks. Both his life and death were intriguing in their own ways. Houdini died at the age of 52, October 31st, 1926. 
+Harry Houdini is very well known for his amazing feats of magic, illusion, and death-defying tricks. Both his life and death were intriguing in their own ways. Houdini died at the age of 52, October 31st, 1926. 
 
 Check out this video and a few articles from History and the Smithsonian Magazine to learn more about the life and death of Houdini.
 
@@ -67,7 +67,7 @@ Each symptom increases in severity as the inflammation worsens. For example, a l
 
 - Emergency appendectomy
 
-## Treatment for stable and non perforated
+## Treatment for stable and non-perforated
 
 - Timely appendectomy
 - Antibiotics to augment treatment (not replace)
@@ -111,4 +111,4 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
