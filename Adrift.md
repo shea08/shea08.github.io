@@ -6,7 +6,8 @@ The movie Adrift is based on a true story of a couple’s plan to sail across th
 
 <i> “The best-laid plans of mice and men often go awry” – John Steinbeck </i>
 
-The movie Adrift spends the next 99 minutes portraying the internal memories of, Tami, who survived the storm. Tami survived 41 days adrift in the Pacific Ocean. She experienced grief throughout this experience.  The movie demonstrates the Kübler-Ross model and the five stages of grief. We shall briefly discuss the model and how it is applied in the movie Adrift.
+The movie Adrift spends the next 99 minutes portraying the internal memories of, Tami, who survived the storm. Tami survived 41 days adrift in the Pacific Ocean. She experienced grief throughout this experience.  The movie demonstrates the Kübler-Ross model and the five stages of grief. We shall briefly discuss the model and how it is applied in the movie Adrift. 
+<i> Note: </i> The Kübler-Ross model is normally utilized to explain the psychology of the dying process for the person that is nearing death and realizing their mortality. In this scenario we are using the five stages to describe the psychology of a grieving person.  
 
 * * *
 
@@ -74,7 +75,7 @@ According to UpToDate, the symptoms of separation distress that a person can exh
 
 - [ ] Yearning for and seeking proximity to the deceased
 
-- [ ] Loneliness, crying, sadness, and other painful emotions (eg, anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
+- [ ] Loneliness, crying, sadness, and other painful emotions (e.g., anger, guilt, and anxiety) that occur upon confrontation with reminders of the loss
 - [ ] Somatic symptoms including distressing physical sensations and disrupted sleep or appetite
 - [ ] Insistent thoughts and memories of the lost person, sometimes including hallucinations
 - [ ] Feeling drawn to things associated with the deceased
@@ -106,4 +107,4 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
