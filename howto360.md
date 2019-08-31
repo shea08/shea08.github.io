@@ -1,4 +1,4 @@
-<i> Wednesday, July 24th 2019 </i>
+<i> Saturday, August 31st 2019 </i>
 
 <b> 360 Photography Workflow </b>
 
@@ -45,7 +45,7 @@ I currently own a Nikon D70s with several standard lenses. I may consider purcha
 
 ## Testing GoPro Hero 3
 
-I am testing my GoPro Hero 3 with my <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder and </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> 360 Degree Panoramic Base.</a> We will see how it stitches in PtGui, but I think it will have some stitching errors due to parallax. 
+I have tested my GoPro Hero 3 with my <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder and </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> 360 Degree Panoramic Base.</a> I used PTGui to stitch and there were minor stitching errors due to parallax. 
 
 <a href="https://www.thingiverse.com/thing:1459595">Thingiverse</a> also has some very cool 3D printed mounts for projects like this one.
 
@@ -65,8 +65,63 @@ I am considering this new <a href="https://theta360.com/en/about/theta/z1.html">
  
 - <a href="https://www.adobe.com/products/photoshop-lightroom.html#photography-mini-plans"> Photoshop Lightroom ($10)</a>
  
-This equals an up front cost of around $1200.
+This equals an upfront cost of around $1200.
  
+* * *
+
+## DSLR 360 Camera Equipment
+
+I am also considering equipment to supplement my Nikon D70s. This DSLR option would require purchasing a panohead ($60), fisheye lens ($280), and PTGui software ($146). That is starting cost of $486.
+
+I have been testing my camera with the philopod technique and the trial version of PTGui. The results have been very good with mostly minor stitching errors. There are significant errors in the entire picture with very small stitching errors around corners and lines. I think this would be corrected with a decent panohead. 
+
+* * *
+
+## Comparing the costs for DSLR, Prosumer 360 Camera, and Consumer 360 Camera
+
+Pro 360 Camera (Theta Z1) = $1200
+
+<i> Pro: </i>
+
+- Excellent photo quality
+- Quick workflow
+- Size
+
+<i> Con: </i>
+
+- Price
+
+--------------
+
+DSLR (D70S) = $486
+
+<i> Pro: </i>
+
+- Excellent photo quality
+- Price
+- Easy to upgrade parts if needed
+- Useful for regular photos as well
+
+<i> Con: </i>
+
+- Size
+- Workflow
+
+--------------
+
+Prosumer 360 Camera (Insta360 One X) = $455
+
+<i> Pro: </i>
+
+- Size
+- Price
+
+<i> Con: </i>
+
+- Photo quality
+
+--------------
+
 * * *
 
 <a href="https://shea08.github.io/street">Link to my Street View Trusted Page</a>
