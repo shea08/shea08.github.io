@@ -71,7 +71,9 @@ This equals an upfront cost of around $1200.
 
 ## DSLR 360 Camera Equipment
 
-I am also considering equipment to supplement my Nikon D70s. This DSLR option would require purchasing a panohead ($60), fisheye lens ($280), and PTGui software ($146). That is starting cost of $486.
+I am also considering equipment to supplement my Nikon D70s. This DSLR option would require purchasing a panohead ($60), fisheye lens ($280), and PTGui software ($146). That is starting cost of $486. I may also consider 3D printing my own panohead.
+
+3D Print on <a href="https://www.thingiverse.com/thing:2788053">Thingiverse </a>
 
 I have been testing my camera with the philopod technique and the trial version of PTGui. The results have been very good with mostly minor stitching errors. There are significant errors in the entire picture with very small stitching errors around corners and lines. I think this would be corrected with a decent panohead. 
 
