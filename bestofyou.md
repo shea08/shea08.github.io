@@ -2,7 +2,7 @@
 
 <b> Best of You </b>
 
-This song is found on the Foo Fighters’ album ‘In Your Honor’. It was released way back in 2005. But, I have to say it is one of my favorite songs that I come back to time and time again. It has that great indie rock sound and has meaningful lyrics, which is always a big plus for me. My absolute favorite lyrics comes in at the one minute point. Dave Grohl says…
+This song is found on the Foo Fighters’ album ‘In Your Honor’. It was released way back in 2005. But I have to say it is one of my favorite songs that I come back to time and time again. It has that great indie rock sound and has meaningful lyrics, which is always a big plus for me. My absolute favorite lyrics comes in at the one-minute point. Dave Grohl says…
 
 “I was too weak to give in”
 “Too strong to lose”
@@ -42,4 +42,4 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
 
-
+ 
