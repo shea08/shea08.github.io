@@ -10,7 +10,7 @@
 
 ## <i> Key Applications </i>
 
-  * I am using the application Squid in order to take notes and edit PDFs. It is close to perfect for the Pixelbook and the pen. I have noticed a short lag between writing at times, but it is very periodic and only lasts for about 1-3 seconds. If you keep writing it catches up to itself with no problem. The pen is very fluent and easy to use. I have edited PDFs and forms and even signed them. The work flow has been a huge plus. The ability to edit PDFs with the pen has made Adobe Acrobat DC pro mostly unnecessary. I also noticed some discussions on cases and places to put the pen. I have had great sucess with using the small white box that the pen came in. I keep the pen in the box until I need it. I also like the small slot in the box for an extra 'AAAA' battery for the pen.
+  * I am using the application Squid in order to take notes and edit PDFs. It is close to perfect for the Pixelbook and the pen. I have noticed a short lag between writing at times, but it is very periodic and only lasts for about 1-3 seconds. If you keep writing it catches up to itself with no problem. The pen is very fluent and easy to use. I have edited PDFs and forms and even signed them. The work flow has been a huge plus. The ability to edit PDFs with the pen has made Adobe Acrobat DC pro mostly unnecessary. I also noticed some discussions on cases and places to put the pen. I have had great success with using the small white box that the pen came in. I keep the pen in the box until I need it. I also like the small slot in the box for an extra 'AAAA' battery for the pen.
  
 ## <i> Final Thoughts </i>
  
@@ -42,4 +42,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
+ 
