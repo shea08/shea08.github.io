@@ -12,6 +12,12 @@ This is a 360 photoshoot that was done for Tim Knutson at 1601 26th Ave NW:
 
 * * *
 
+This is a 360 photoshoot of the Dakota Territory Air Museum
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1568176656841!6m8!1m7!1sCAoSLEFGMVFpcE1MVWF2N1lCaTdOWEc4b2RsSElBc3k1aDJsODJ6X3dLWExPN1M1!2m2!1d48.2720261!2d-101.2896704!3f1.3412486322125545!4f-0.5837167154434866!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+* * *
+
 Here is a virtual tour of Living Word Lutheran Church:
 
 <iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=qKCl9pKmvscc77uvIW49OI2wlQc&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
