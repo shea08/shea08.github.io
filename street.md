@@ -6,6 +6,12 @@ I enjoy photography and this is a way that I can contribute to Google Maps and t
 
 ## Virtual Tours
 
+This is an interactive 360 virtual tour for 1317 Main St S, Minot, ND 58701
+
+<iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
+
+* * *
+
 This is a 360 photoshoot that was done for Tim Knutson at 1601 26th Ave NW:
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1567743880952!6m8!1m7!1sCAoSLEFGMVFpcFBGZ1EzSDdLeTVRVGhiTzNySjJYaUlmYmNSVV9KNEt2SnkxSGoy!2m2!1d48.26395279110624!2d-101.3179199025035!3f207.75558594745567!4f10.410969860928489!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
