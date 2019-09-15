@@ -10,6 +10,10 @@ This is an interactive 360 virtual tour for 1317 Main St S, Minot, ND 58701
 
 <iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
 
+"virtual tours catch buyers’ eyes: Over 30% of buyers say virtual tours or video tours are extremely or very important in helping them find their next home." -Zillow
+
+"3D tours helps buyers visualize themselves in a home before they visit in person." -Zillow
+
 * * *
 
 This is a 360 photoshoot that was done for Tim Knutson at 1601 26th Ave NW:
