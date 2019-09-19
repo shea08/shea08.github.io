@@ -21,7 +21,5 @@ Ben received his B.S in Biology from Southeast Missouri State University. While 
 * * * 
 <a href="https://www.youtube.com/channel/UCg7i0wrJpWJWizZFIIyFwvA/featured?view_as=subscriber">YouTube</a>
 * * *
-<a href="www.fitbit.com/user/7H43C8">Fitbit</a>
-* * *
 
 [Home](./)
