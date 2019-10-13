@@ -56,6 +56,7 @@ Here is a recent outdoor example of my work on North Hill:
 
 ## More Samples
 
+- <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
 - <a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
 - <a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
 - <a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
