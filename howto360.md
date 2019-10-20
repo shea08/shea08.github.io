@@ -4,7 +4,11 @@
 
 <i> This project initially began on Saturday, June 22nd 2019 </i>
 
-## Current Equipment
+## Current Equipment from August - October 2019 (ongoing)
+
+I am currently using a Nikon D610 with Sigma 8mm fisheye, Nodal Ninja R1, and EZ Leveler II. I shoot with 3.0 bracketing and RAW HDR. I process HDR in Photomatix and then stitch with PTGui. My post production processing is done in Adobe Photoshop Elements 13 for mostly color correction. I create virtual tours using Panotour Pro. I also have a 3D printed panohead for my GoPro Hero 3 that does great in tight quarters and small spaces. It is also the equipment I travel with regularly. I also have a MacBook Pro that I can use for processing photos while traveling. I prefer to use my custom built PC with video card. I don't plan to use my cell-phone for 360 photos, but do use the TouchRetouch application for editing out the tripod and unwanted shadows. The app is superior to every software have found so far on my PC. I use the Google Street app on my phone for updating Google Streets and Maps.
+
+## Current Equipment from June - August 2019
 
 I am currently using my <a href="https://www.oneplus.com/7pro#/">OnePlus 7 Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en_US">Google Camera application</a>, and the <a href="https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US">Google street view mobile application</a> to take these photos. I started by using the <a href="http://www.philohome.com/tripod/shooting.htm">philopod technique</a> with a durable nylon braided string connected to a heavy carabiner. I have recently advanced to a <a href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=sr_1_3?keywords=tripod&qid=1563144306&s=gateway&sr=8-3"> tripod,</a> <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder, </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> and a 360 Degree Panoramic Base.</a>
  
@@ -12,7 +16,7 @@ This tripod setup cost about $60.
 
 * * *
 
-## Workflow
+## Workflow (June - August 2019)
  
 1. Survey the area requiring 360 photography
 2. Setup Tripod and adapters
@@ -39,17 +43,27 @@ This tripod setup cost about $60.
  
 * * *
 
-## Future DSLR Panohead Equipment
+## DSLR Panohead Equipment (June - August 2019)
 
 I currently own a Nikon D70s with several standard lenses. I may consider purchasing a <a href="https://www.amazon.com/Neewer-Professional-Panoramic-Indexing-kilograms/dp/B07DQ71GNV/ref=sr_1_3?keywords=Neewer+pano+head&qid=1564838489&s=gateway&sr=8-3">Neewer Pano Gimbal Mount</a> in order to begin using this camera for 360 photography. The upfront cost for this workflow will be $60 for the new pano head and $146 for the<a ref="https://www.ptgui.com/order.html"> PTGui </a> stitching software.  
 
-## Testing GoPro Hero 3
+## GoPro Hero 3 & 3D Printed Panohead
 
 I have tested my GoPro Hero 3 with my <a href="https://www.amazon.com/gp/product/B01L3B5PBI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> phone holder and </a> <a href="https://www.amazon.com/gp/product/B071FC47R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> 360 Degree Panoramic Base.</a> I used PTGui to stitch and there were minor stitching errors due to parallax. 
 
 <a href="https://www.thingiverse.com/thing:1459595">Thingiverse</a> also has some very cool 3D printed mounts for projects like this one.
 
-## Future 360 Camera Equipment
+Oct 19th 2019 Update:
+
+I ended up 3D printing the <a href="https://www.thingiverse.com/thing:2515813"> updated version </a> of the above and it stitches with "very good" results in PTGui. The bottom mount doesn't fit perfectly, but the small form factor is nearly perfect for my use-case, which is for light-weight travel. So far I have shot several photos with it and I am very impressed with the results. I would like to design a new 3D printed panohead that would support the GoPro Hero 8, which supports RAW and HDR photography. The results from the newest camera would be incredible! 
+
+Examples of my photos taken from the Hero 3 and 3D printed Panohead:
+
+https://goo.gl/maps/Rn83Yz62MSTqetto7
+https://goo.gl/maps/dDvNf2KbG2fBYdHG7
+
+
+## Future 360 Camera Equipment (June - August 2019)
  
 I may consider an <a href="https://www.google.com/streetview/contacts-tools/products/">external camera</a> in the future.
  
