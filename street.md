@@ -12,13 +12,6 @@ This is an interactive 360 virtual tour for the walking bridge that goes over hi
 
 * * *
 
-This is an interactive 360 virtual tour of KFLK (95.9 FM), a low-power FM radio station in Minot.
-
-<iframe src="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html" width="600" height="450"
-allowfullscreen="allowfullscreen"></iframe>
-
-* * *
-
 This is an interactive 360 virtual tour for 1317 Main St S, Minot, ND 58701
 
 <iframe src="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed" frameborder="0"    allowfullscreen="true" width="560" height="315"></iframe>
@@ -71,6 +64,7 @@ Here is a recent outdoor example of my work on North Hill:
 
 ## More Samples
 
+- <a href="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html"> KFLK (95.9 FM)</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
 - <a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
 - <a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
