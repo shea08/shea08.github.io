@@ -14,7 +14,7 @@ This is an interactive 360 virtual tour for the walking bridge that goes over hi
 
 This is an interactive 360 virtual tour of KFLK (95.9 FM), a low-power FM radio station in Minot.
 
-<iframe src="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html" width="950" height="600"
+<iframe src="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html" width="600" height="450"
 allowfullscreen="allowfullscreen"></iframe>
 
 * * *
