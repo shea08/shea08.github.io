@@ -60,7 +60,7 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss sc
 
 ## More Samples
 
-- <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Luther Church Virtual Tour</a>
+- <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Lutheran Church Virtual Tour</a>
 - <a href="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed"> Virtual Tour of a home in Minot</a>
 - <a href="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html"> KFLK (95.9 FM)</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
