@@ -1,6 +1,17 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am currently available to be hired for 360 photos in Minot. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and iframe embed code for your website.   
+I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired for 360 photos in Minot. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and iframe embed code for your website.
+
+A virtual tour is an innovative technology for clients to view your place of business.
+
+The ideal environments for a virtual tour include:
+
+- Real estate
+- Restaurants
+- Construction
+- Hotel industry
+- Entertainment
+- Educatation
 
 * * *
 
@@ -49,6 +60,7 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss sc
 
 ## More Samples
 
+- <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Luther Church Virtual Tour</a>
 - <a href="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed"> Virtual Tour of a home in Minot</a>
 - <a href="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html"> KFLK (95.9 FM)</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
@@ -59,7 +71,7 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss sc
 - <a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
 - <a href="https://www.google.com/maps/embed?pb=!4v1567743880952!6m8!1m7!1sCAoSLEFGMVFpcFBGZ1EzSDdLeTVRVGhiTzNySjJYaUlmYmNSVV9KNEt2SnkxSGoy!2m2!1d48.26395279110624!2d-101.3179199025035!3f207.75558594745567!4f10.410969860928489!5f0.7820865974627469"> The Dakota Air Museum</a>
 - <a href="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=qKCl9pKmvscc77uvIW49OI2wlQc&lang=en&utm_medium=embed"> Original Living Word Lutheran Church Virtual tour on VEER</a>
-- <a href=https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed"> Hammond Tennis Complex Virtual tour on VEER</a>
+- <a href="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed"> Hammond Tennis Complex Virtual tour on VEER</a>
 
 * * *
 
