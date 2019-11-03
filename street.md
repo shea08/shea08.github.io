@@ -27,7 +27,7 @@ This is a Google maps and street view update achieved for a local Minot realtor:
 Here is a virtual tour of Living Word Lutheran Church:
 
 <iframe src="http://calvarychapelminot.org/1%20Nov%20LWLC.html"
-width="600" height="450"
+width="950" height="600"
 allowfullscreen="allowfullscreen"><http://calvarychapelminot.org/1%20Nov%20LWLC.html/iframe>
 
 * * *
