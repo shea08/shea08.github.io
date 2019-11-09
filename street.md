@@ -19,13 +19,13 @@ The ideal environments for a virtual tour include:
 
 "virtual tours catch buyers’ eyes: Over 30% of buyers say virtual tours or video tours are extremely or very important in helping them find their next home." -Zillow
 
-"3D tours helps buyers visualize themselves in a home before they visit in person." -Zillow
+"3D tours helps buyers visualize themselves in a home [or business] before they visit in person." -Zillow
 
 * * *
 
-Virtual tour of Minot's best authentic mexican restuarant!
+<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant!
 
-- <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Mi Mexico </a>
+<iframe src="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"></iframe>
 
 * * *
 
@@ -84,6 +84,10 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss sc
 ## <a href="https://www.facebook.com/360ben">Follow Ben's 360 Photography on Facebook</a>
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F360ben&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+* * *
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tcyej-t6zrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * * *
 
