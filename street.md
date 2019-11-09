@@ -25,8 +25,6 @@ The ideal environments for a virtual tour include:
 
 <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant!
 
-<iframe src="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"></iframe>
-
 * * *
 
 This is an interactive 360 virtual tour for the walking bridge that goes over highway 83.
