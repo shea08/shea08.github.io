@@ -7,7 +7,7 @@
 <a href="https://www.amazon.com/Fentanyl-Inc-Chemists-Creating-Deadliest/dp/0802127436">Amazon Purchase Link for Fentanyl Inc.
 </a>
 
-<a href=”https://www.amazon.com/Ben-Westhoff/e/B004HHAU4S/ref=dp_byline_cont_book_1"> Author: Ben Westhoff </a>
+<a href="https://www.amazon.com/Ben-Westhoff/e/B004HHAU4S/ref=dp_byline_cont_book_1"> Author: Ben Westhoff </a>
 
 This book provides a historical, scientific, political, and pharmacology overview of the drug Fentanyl and its many analogs. “This book is the result of my interviews with 160 people, visits to drug sites and laboratories all over the world, and research drawn from hundreds of source materials” (p18). 
 
