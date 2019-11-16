@@ -22,7 +22,7 @@ This book provides a historical, scientific, political, and pharmacology overvie
 
 * * *
 
-## Insightful Quotes from the book
+## Insightful Quotes
 
 - “During the 1990s another sea change swept American medicine; the desire to treat patients more humanely. Traditionally, doctors focused on four “vital signs” when caring for patients: their temperature, breathing rate, blood pressure, and pulse rate. But in the mid-1990s the American Pain Society called for pain to be considered a new “fifth vital sign.” Whereas doctors were previously reticent to prescribe opioids because they considered them addictive, the ramifications of the Jick-Porter letter caused their thinking to shift: if opioids were, in fact, safe, patients should not be consigned to agony. “It was not only okay, but it was our holy mission, to cure the world of its pain by waking people up to the fact that opiates were safe,” Boston pain specialist Dr. Nathanial Katz told journalistSam Quinones for his book <i> Dreamland: The True Tale of America’s Opiate Epidemic</i>, describing the new conventional wisdom that took hold. “All those rumors of addiction were misguided ...My fellowship director even told me, ‘If you have pain, you can’t get addicted to opiates because the pain soaks up the euphoria.’”(p26)
 
