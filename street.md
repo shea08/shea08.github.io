@@ -46,7 +46,7 @@ Starter Package ($15 per month)
 - iframe embed code for your website
 - Google Maps and Street View listing update
 
-Basic Package ($100)
+Basic Package ($200)
 - 10 (360) hotspot virtual tour
 - iframe embed code for your website
 - Google Maps and Street View listing update
