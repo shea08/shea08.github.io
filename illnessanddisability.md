@@ -4,7 +4,7 @@
 
 ## Death
 
-J.K. Rowling openly admits that the central theme running throughout each book of the Harry Potter series is death. And with death, there is the inevitable presence of injury, ailments, and disease. In this fictional wizarding world, the author behind the series <a href="https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability"> decided that, broadly speaking, wizards would have the power to correct or override ‘mundane’ nature, but not ‘magical’ nature.”.</a> 
+J.K. Rowling openly admits that the central theme running throughout each book of the Harry Potter series is death. And with death, there is the inevitable presence of injury, ailments, and disease. In this fictional wizarding world, the author behind the series <a href="https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability"> "decided that, broadly speaking, wizards would have the power to correct or override ‘mundane’ nature, but not ‘magical’ nature.”.</a> 
 
 ## Treatable Illness
 
