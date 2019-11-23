@@ -4,7 +4,7 @@
 
 ## Death
 
-J.K. Rowling openly admits that the central theme running throughout each book of the Harry Potter series is death. And with death, there is the inevitable presence of injury, ailments, and disease. In this fictional wizarding world, the author behind the series <a href=”https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability“<a> decided that, broadly speaking, wizards would have the power to correct or override ‘mundane’ nature, but not ‘magical’ nature.”.</a> 
+J.K. Rowling openly admits that the central theme running throughout each book of the Harry Potter series is death. And with death, there is the inevitable presence of injury, ailments, and disease. In this fictional wizarding world, the author behind the series <a href="https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability"<a> decided that, broadly speaking, wizards would have the power to correct or override ‘mundane’ nature, but not ‘magical’ nature.”.</a> 
 
 ## Treatable Illness
 
@@ -14,9 +14,9 @@ According to the World Health Organization (WHO) <a href=”https://www.who.int/
 
 ## Questions to Ponder
 
-What truth is revealed by the fact that people will continue to die from commonly treated illness? 
-Who is responsible for the suffering and bodily malfunction that exist in the world?
-How is our world different than this fictional world of illness and disability? In what ways is it the same? 
+- What truth is revealed by the fact that people will continue to die from commonly treated illness? 
+- Who is responsible for the suffering and bodily malfunction that exist in the world?
+- How is our world different than this fictional world of illness and disability? In what ways is it the same? 
 
 
 * * *
