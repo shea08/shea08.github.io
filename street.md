@@ -1,23 +1,23 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am considered a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired for 360 photos in Minot. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and iframe embed code for your website.
+I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired for 360 photos in Minot. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and web editing.
 
 A virtual tour is an innovative technology for clients to view your place of business.
 
 The ideal environments for a virtual tour include:
 
-- Real estate
 - Restaurants
+- Entertainment
 - Construction
 - Hotel industry
-- Entertainment
 - Educatation
+- Real estate
 
 * * *
 
 ## Virtual Tours
 
-"virtual tours catch buyers’ eyes: Over 30% of buyers say virtual tours or video tours are extremely or very important in helping them find their next home." -Zillow
+"virtual tours catch buyers’ eyes: Over 30% of buyers say virtual tours or video tours are extremely or very important..." -Zillow
 
 "3D tours helps buyers visualize themselves in a home [or business] before they visit in person." -Zillow
 
@@ -25,6 +25,7 @@ The ideal environments for a virtual tour include:
 
 <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant!
 
+<a href="hhttps://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of North Dakota's largest retailer of art glass supplies -- Margie's Art Glass Studio
 * * *
 
 This is an interactive 360 virtual tour for the walking bridge that goes over highway 83.
