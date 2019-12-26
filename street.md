@@ -1,16 +1,15 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired for 360 photos in Minot. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and web editing.
+I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and web editing.
 
-A virtual tour is an innovative technology for clients to view your place of business.
+A virtual tour is an innovative technology for clients to view your place of business. It will encourage your customers to visit in real life! My virtual tours generate more interest than your average photo or video. 360 photos will rank your business higher in Google search listings and generate more views.
 
 The ideal environments for a virtual tour include:
 
 - Restaurants
 - Entertainment
-- Construction
 - Hotel industry
-- Educatation
+- Construction
 - Real estate
 
 * * *
@@ -58,6 +57,11 @@ Premium Package ($200+)
 - iframe embed code for your website
 - Google Maps and Street View listing update
 - Google drive link to JPEG photos
+
+Web Editing ($40 per hour)
+- Create and embed 360 Videos <a href="https://www.youtube.com/watch?v=SE-VEiAYpLw&feature=emb_logo">(EXAMPLE)</a>
+- Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
+- Experience with editing Wix, Weebly, and HTML/CSS.
 
 Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss scheduling and price options.
 
