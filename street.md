@@ -22,7 +22,7 @@ The ideal environments for a virtual tour include:
 
 * * *
 
-<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant!
+<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant! -- Mi Mexico
 
 <a href="hhttps://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of North Dakota's largest retailer of art glass supplies -- Margie's Art Glass Studio
 * * *
