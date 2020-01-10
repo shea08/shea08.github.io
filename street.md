@@ -41,29 +41,20 @@ This is a Google maps and street view update achieved for a local Minot realtor:
 
 ## Pricing
 
-Starter Package ($15 per month)
-- 10 (360) hotspot virtual tour
-- iframe embed code for your website
+Basic Package ($20 per 360 photo)
+- 360 image capture
 - Google Maps and Street View listing update
+- Download link for JPEG photos
 
-Basic Package ($200)
-- 10 (360) hotspot virtual tour
-- iframe embed code for your website
-- Google Maps and Street View listing update
-- Google drive link to JPEG photos
+Virtual Tour Subscription ($10 per month or $60 Annually)
+- Entire virtual tour hosted on a secure Amazon S3 server
 
-Premium Package ($200+)
-- Client determines the number of (360) hotspots for virtual tour
-- iframe embed code for your website
-- Google Maps and Street View listing update
-- Google drive link to JPEG photos
-
-Web Editing ($40 per hour)
+Web Editing (Approximately $10 per page edited and $10 per video) 
 - Create and embed 360 Videos <a href="https://www.youtube.com/watch?v=SE-VEiAYpLw&feature=emb_logo">(EXAMPLE)</a>
 - Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
 - Experience with editing Wix, Weebly, and HTML/CSS.
 
-Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss scheduling and price options.
+Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule.
 
 * * *
 
