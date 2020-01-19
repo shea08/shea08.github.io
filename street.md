@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and web editing.
+I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. As a Street View Trusted photographer, my 360° images have been viewed over 1.3 million times. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing. My services include the photo shoot, editing, interactive VR tour, and web editing.
 
 A virtual tour is an innovative technology for clients to view your place of business. It will encourage your customers to visit in real life! My virtual tours generate more interest than your average photo or video. 360 photos will rank your business higher in Google search listings and generate more views.
 
@@ -20,6 +20,12 @@ The ideal environments for a virtual tour include:
 
 "3D tours helps buyers visualize themselves in a home [or business] before they visit in person." -Zillow
 
+Google's research shows that:
+
+- Consumers use mapping products 44% of the time when searching for businesses
+- 41% of these searches result in a visit to the store
+- Listings with photos and a virtual tour are twice as likely to generate interest.
+
 * * *
 
 <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant! -- Mi Mexico
@@ -34,6 +40,8 @@ This is an interactive 360 virtual tour for the walking bridge that goes over hi
 * * *
 
 This is a Google maps and street view update achieved for a local Minot realtor:
+
+After uploading, we can transfer ownership of photos to you. All that is needed is a Gmail address.
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1567743880952!6m8!1m7!1sCAoSLEFGMVFpcFBGZ1EzSDdLeTVRVGhiTzNySjJYaUlmYmNSVV9KNEt2SnkxSGoy!2m2!1d48.26395279110624!2d-101.3179199025035!3f207.75558594745567!4f10.410969860928489!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
