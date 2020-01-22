@@ -49,18 +49,18 @@ After uploading, we can transfer ownership of photos to you. All that is needed 
 
 ## Pricing
 
-Basic Package ($20 per 360 photo)
+Basic Package ($40 per 360 photo)
 - 360 image capture
 - Google Maps and Street View listing update
-- Download link for JPEG photos
+- Download link for digital copy of JPEG photos
 
 Virtual Tour Subscription ($10 per month or $60 Annually)
 - Entire virtual tour hosted on a secure Amazon S3 server
 
-Web Editing (Approximately $10 per page edited and $10 per video) 
+Web Editing (Approximately $20 per page edited and $20 per video created) 
 - Create and embed 360 Videos <a href="https://www.youtube.com/watch?v=SE-VEiAYpLw&feature=emb_logo">(EXAMPLE)</a>
 - Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
-- Experience with editing Wix, Weebly, and HTML/CSS.
+- Experience with editing Wix, Weebly, WorsPress, and HTML/CSS.
 
 Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule.
 
