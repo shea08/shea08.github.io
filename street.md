@@ -25,6 +25,7 @@ Google's research shows that:
 - Consumers use mapping products 44% of the time when searching for businesses
 - 41% of these searches result in a visit to the store
 - Listings with photos and a virtual tour are twice as likely to generate interest.
+- 90% of customers are more likely to visit a business that has added photos to their Google listing.
 
 * * *
 
