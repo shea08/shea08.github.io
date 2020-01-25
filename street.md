@@ -4,13 +4,7 @@ I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View T
 
 A virtual tour is an innovative technology for clients to view your place of business. It will encourage your customers to visit in real life! My virtual tours generate more interest than your average photo or video. 360 photos will rank your business higher in Google search listings and generate more views.
 
-The ideal environments for a virtual tour include:
-
-- Restaurants
-- Entertainment
-- Hotel industry
-- Construction
-- Real estate
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CLYaukFmMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * * *
 
@@ -28,6 +22,7 @@ Google's research shows that:
 - 90% of customers are more likely to visit a business that has added photos to their Google listing.
 
 * * *
+## Virtual Tour Examples
 
 <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant! -- Mi Mexico
 
@@ -63,7 +58,7 @@ Web Editing (Approximately $20 per page edited and $20 per video created)
 - Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
 - Experience with editing Wix, Weebly, WorsPress, and HTML/CSS.
 
-Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule.
+Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule. 
 
 * * *
 
