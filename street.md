@@ -56,7 +56,7 @@ Virtual Tour Subscription ($10 per month or $60 Annually)
 Web Editing (Approximately $20 per page edited and $20 per video created) 
 - Create and embed 360 Videos <a href="https://www.youtube.com/watch?v=SE-VEiAYpLw&feature=emb_logo">(EXAMPLE)</a>
 - Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
-- Experience with editing Wix, Weebly, WorsPress, and HTML/CSS.
+- Experience with editing Wix, Weebly, WordPress, and HTML/CSS.
 
 Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule. 
 
