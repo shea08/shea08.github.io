@@ -63,19 +63,10 @@ Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a 
 * * *
 
 ## More Samples
-
+- <a href="https://calvarychapelminot.org/DakotaHopeClinic.html">The Dakota Hope Clinic </a>
 - <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Lutheran Church Virtual Tour</a>
-- <a href="https://assets.veervr.tv/@veervr/blink/v0.12.6/embed/index.html?ixId=UWx446KpF2dLWMt7Mw8tpnjGRXE&lang=en&utm_medium=embed"> Virtual Tour of a home in Minot</a>
 - <a href="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html"> KFLK (95.9 FM)</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
-- <a href="https://goo.gl/maps/FhLPTYevB2uxmkR9A"> Diamond #7 at Sertoma Sports Complex</a>
-- <a href="https://goo.gl/maps/s6t9Bc3AHpdzyVcj6"> The Entrance to Sertoma Sports Complex</a>
-- <a href="https://goo.gl/maps/y19ShSftLimFVzC59"> The 1st Frisbee Golf Marker at Polaris Park</a>
-- <a href="https://goo.gl/maps/kx4Tc2ZTuzAiZGqM8"> The bridge at Woodland Trail</a>
-- <a href="https://goo.gl/maps/5nQnVt1p32yAYTYKA"> The Scandinavian Heritage Park</a>
-- <a href="https://www.google.com/maps/embed?pb=!4v1567743880952!6m8!1m7!1sCAoSLEFGMVFpcFBGZ1EzSDdLeTVRVGhiTzNySjJYaUlmYmNSVV9KNEt2SnkxSGoy!2m2!1d48.26395279110624!2d-101.3179199025035!3f207.75558594745567!4f10.410969860928489!5f0.7820865974627469"> The Dakota Air Museum</a>
-- <a href="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=qKCl9pKmvscc77uvIW49OI2wlQc&lang=en&utm_medium=embed"> Original Living Word Lutheran Church Virtual tour on VEER</a>
-- <a href="https://assets.veervr.tv/@veervr/blink/v0.12.2/embed/index.html?ixId=aPZBAAUVOF2lDg1AvyUlTWKSFrE&lang=en&utm_medium=embed"> Hammond Tennis Complex Virtual tour on VEER</a>
 
 * * *
 
