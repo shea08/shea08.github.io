@@ -2,6 +2,10 @@
 
 I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 1.3 million times. My product is for people who believe that their location must be seen. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
 
+Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule. 
+
+* * *
+
 A virtual tour is an innovative technology for clients to view your place of business. It will encourage your customers to visit in real life! My virtual tours generate more interest than your average photo or video. 360 photos will rank your business higher in Google search listings and generate more views. My 360 photos will help your business gain greater online exposure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9CLYaukFmMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,8 +54,8 @@ Basic Package ($40 per 360 photo)
 - Google Maps and Street View listing update
 - Download link for digital copy of JPEG photos
 
-Virtual Tour Subscription ($10 per month or $60 Annually)
-- Entire virtual tour hosted on a secure Amazon S3 server
+Virtual Tour Subscription (Billed monthly by <a href="https://aws.amazon.com/s3/pricing/"> Amazon </a>.
+- Entire virtual tour hosted on a secure Amazon S3 simple storage service
 
 Web Editing (Approximately $20 per page edited and $20 per video created) 
 - Create and embed 360 Videos <a href="https://www.youtube.com/watch?v=SE-VEiAYpLw&feature=emb_logo">(EXAMPLE)</a>
