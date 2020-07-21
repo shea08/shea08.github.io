@@ -2,7 +2,7 @@
 
 I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 1.3 million times. My product is for people who believe that their location must be seen. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
 
-Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule. 
+Please <a href="m.me/360ben">contact me</a> to discuss a quote and schedule. 
 
 * * *
 
@@ -89,32 +89,7 @@ Check out my <a href="shea08.github.io/tinyplanet">Tiny Planet</a> page where I 
 * * *
 
 <a href="https://shea08.github.io/street">Back to Top</a>
-<!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
-      <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            xfbml            : true,
-            version          : 'v7.0'
-          });
-        };
 
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-
-      <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
-        attribution=setup_tool
-        page_id="101195567894968"
-  theme_color="#67b868"
-  logged_in_greeting="Hi! How can I help you?"
-  logged_out_greeting="Hi! How can I help you?">
-      </div>
 [Home](./)
 
 <div id="disqus_thread"></div>
