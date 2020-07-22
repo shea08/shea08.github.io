@@ -62,7 +62,7 @@ Web Editing (Approximately $20 per page edited and $20 per video created)
 - Embed the Virtual tour into your website <a href="https://www.margiesartglass.com/virtual-tour">(EXAMPLE)</a>
 - Experience with editing Wix, Weebly, WordPress, and HTML/CSS.
 
-Please <a href="https://shea08.github.io/contactme">contact me</a> to discuss a quote and schedule. 
+Please <a href="https://m.me/360ben">contact me </a> to discuss a quote and schedule. 
 
 * * *
 
