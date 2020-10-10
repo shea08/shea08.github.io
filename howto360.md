@@ -1,8 +1,17 @@
-<i> Saturday, August 31st 2019 </i>
+<i> Saturday, October 10th 2020 </i>
 
 <b> 360 Photography Workflow </b>
 
 <i> This project initially began on Saturday, June 22nd 2019 </i>
+
+## Software Updates and a look to the future as of October 2020 (ongoing)
+
+I had my computer crash about six months ago and lost my copy of Adobe Photoshop Elements. I adopted the software Affinity photo in its place. The new software has been great for editing 360s and for working with the nadir portion of the image. This software has replaced my need for Touch Retouch on my phone, however, I often am unable to edit the photos as well as I can on the mobile app of Touch Retouch. I have learned a few new techniques from YouTube videos, which should make my PC edits just as good if not better than those done on the Touch Retouch app. 
+Looking to the future of my photography I will be looking into purchasing a wide-angle lens for better real-estate photos. I will also be looking for a fisheye lens (around 12mm) that will maximize my full sensor of my Nikon D610. I am also looking into a getting certified to fly drones and get photos from that avenue. I am not yet prepared to invest $750+ to get into this area, but it is something I am interested in. I think flying a drone would be really fun and enjoyable. 
+
+## 360° Photo in 4 minutes with an Android Phone (June 10th 2020)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mezdJWdv3hI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Current Equipment from August - October 2019 (ongoing)
 
