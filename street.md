@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 1.3 million times. My product is for people who believe that their location must be seen. I am available to be hired in Minot and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
+I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 1.3 million times. My product is for people who believe that their location must be seen. I am available to be hired in Ogden, Utah and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
 
 Please <a href="m.me/360ben">contact me</a> to discuss a quote and schedule. 
 
@@ -28,18 +28,13 @@ Google's research shows that:
 * * *
 ## Virtual Tour Examples
 
-<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of Minot's best authentic mexican restuarant! -- Mi Mexico
+<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of a great authentic mexican restuarant! -- Mi Mexico
 
-<a href="hhttps://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of North Dakota's largest retailer of art glass supplies -- Margie's Art Glass Studio
-* * *
-
-This is an interactive 360 virtual tour for the walking bridge that goes over highway 83.
-
-<iframe src="https://hwy83walkwaybridge.s3.us-east-2.amazonaws.com/Highway+83+Walkway+Bridge.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<a href="hhttps://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of Margie's Art Glass Studio
 
 * * *
 
-This is a Google maps and street view update achieved for a local Minot realtor:
+This is a Google maps and street view update achieved for a local realtor:
 
 After uploading, we can transfer ownership of photos to you. All that is needed is a Gmail address.
 
@@ -54,7 +49,7 @@ Basic Package ($40 per 360 photo)
 - Google Maps and Street View listing update
 - Download link for digital copy of JPEG photos
 
-Virtual Tour Subscription (Billed monthly by <a href="https://aws.amazon.com/s3/pricing/"> Amazon </a>.
+Virtual Tour Subscription (Billed monthly by <a href="https://aws.amazon.com/s3/pricing/"> Amazon </a>).
 - Entire virtual tour hosted on a secure Amazon S3 simple storage service
 
 Web Editing (Approximately $20 per page edited and $20 per video created) 
@@ -69,7 +64,6 @@ Please <a href="https://m.me/360ben">contact me </a> to discuss a quote and sche
 ## More Samples
 - <a href="https://calvarychapelminot.org/DakotaHopeClinic.html">The Dakota Hope Clinic </a>
 - <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Lutheran Church Virtual Tour</a>
-- <a href="http://calvarychapelminot.org/KLFK_Panodata/KFLK.html"> KFLK (95.9 FM)</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
 
 * * *
