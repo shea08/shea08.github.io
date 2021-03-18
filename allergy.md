@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <i> Current as of Wednesday, March 15th 2021 </i>
 
 ## <b> Allergy List </b>
