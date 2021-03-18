@@ -16,7 +16,7 @@ layout: default
 - Meat cooked with a sauce (must be cooked with a  dry rub)
 - Cabbage 🥬 (cooked with corn beef)
 
-## <b> Moderate (itchy throat and tongue, hives, discomfort, upset stomach) </b>
+<b> Moderate (itchy throat and tongue, hives, discomfort, upset stomach) </b>
 - Carrots 🥕
 - Banana 🍌
 - Pineapple 🍍
@@ -32,14 +32,16 @@ layout: default
 - Leafy Greens (spinach) 🥬
 - Fish 🐟 (I take a fish oil 💊 to get omega-3s)
 
-## <b> Mild (upset stomach/gas) </b>
+<b> Mild (upset stomach/gas) </b>
 - 2% Milk (substitute with almond milk)
 
-## <b> Problematic in the past (requires caution) </b>
+<b> Problematic in the past (requires caution) </b>
 - Peanut 🥜
 - Multi-grain wheat 🌾
 - Corn 🌽
 - Almonds
+
+* * *
 
 ~  Nuts: I only eat cashews, sunflower seeds, almonds, and peanuts. 
 
