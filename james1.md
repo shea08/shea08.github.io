@@ -2,9 +2,19 @@
 
 <b>James 1</b>
 
-What issues of the heart is the passage addressing?
+<details>
+<summary>Questions to Ask while reading this text</summary>
+<br>
+- Is there a command to obey?
+- Is there a promise to claim?
+- Is there an admonition to take to heart?
+- Is there a warning to heed?
+- What issues of the heart is the passage addressing?
+- How am I to change as a result of this passage’s teaching?
+  
+</details>
 
-How am I to change as a result of this passage’s teaching?
+* * *
 
 Observation = what is the text saying? What is the main point? 
 Interpretation = What does it mean?
@@ -14,10 +24,7 @@ http://www.eliyah.com/lexicon.html
 
 Questions to ask while you read:
 
-Is there a command to obey?
-Is there a promise to claim?
-Is there an admonition to take to heart?
-Is there a warning to heed?
+
 
 What was the most significant thing I read today? 
 ## Title 1
