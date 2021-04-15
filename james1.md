@@ -5,12 +5,12 @@
 <details>
 <summary>Questions to Ask while reading this text</summary>
 
-+ Is there a command to obey?
-+ Is there a promise to claim?
-+ Is there an admonition to take to heart?
-+ Is there a warning to heed?
-+ What issues of the heart is the passage addressing?
-+ How am I to change as a result of this passage’s teaching?
+<p> Is there a command to obey? </p>
+<p> Is there a promise to claim? </p>
+<p> Is there an admonition to take to heart? </p>
+<p> Is there a warning to heed? </p>
+<p> What issues of the heart is the passage addressing? </p>
+<p> How am I to change as a result of this passage’s teaching? </p>
 
 </details>
 * * *
