@@ -4,16 +4,15 @@
 
 <details>
 <summary>Questions to Ask while reading this text</summary>
-<br>
-- Is there a command to obey?
-- Is there a promise to claim?
-- Is there an admonition to take to heart?
-- Is there a warning to heed?
-- What issues of the heart is the passage addressing?
-- How am I to change as a result of this passage’s teaching?
-  
-</details>
 
++ Is there a command to obey?
++ Is there a promise to claim?
++ Is there an admonition to take to heart?
++ Is there a warning to heed?
++ What issues of the heart is the passage addressing?
++ How am I to change as a result of this passage’s teaching?
+
+</details>
 * * *
 
 Observation = what is the text saying? What is the main point? 
