@@ -3,7 +3,7 @@
 <b>James 1</b>
 
 <details>
-<summary>Questions to Ask while reading this text</summary>
+<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><summary>Questions to Ask while reading this text</summary></button>
 
 <p> Is there a command to obey? </p>
 <p> Is there a promise to claim? </p>
