@@ -1,7 +1,7 @@
 <i> Saturday, April 17th 2021 </i>
 
 <b>James 1 (ESV)</b>
-
+https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <details>
 <summary><b>Questions to Ask while reading this text</b></summary>
 
@@ -14,9 +14,26 @@
 
 </details>
 
-## Greeting
-## Testing of Your Faith
-## Hearing and Doing the Word
+<details>
+<summary>Example</summary>
+<ul><li>This dropdown contains</li>
+<li>a list!</li></ul>
+</details>
+
+# Greeting
+
+Here is a quote:
+
+> and then there was none
+
+# Testing of Your Faith
+
+
+
+# Hearing and Doing the Word
+
+
+
 
 * * *
 
