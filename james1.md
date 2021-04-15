@@ -7,10 +7,10 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <summary>Questions to Ask while reading this text:</summary>
 <ul><li>Is there a command to obey?</li></ul>
 <ul><li>Is there a promise to claim?</li></ul>
-<ul><li>Is there an admonition to take to heart? </li></ul>  
-<ul><li>Is there a warning to heed?</li></ul>  
-<ul><li>What issues of the heart is the passage addressing?</li></ul>  
-<ul><li>How am I to change as a result of this passage’s teaching?</li></ul>  
+<ul><li>Is there a lesson we should take to heart? </li></ul>  
+<ul><li>Is there a warning we should listen to?</li></ul>  
+<ul><li>What issues of the heart is the scripture addressing?</li></ul>  
+<ul><li>How should I to change as a result of this passage’s teaching?</li></ul>  
 </details>
 * * *
 <details>
@@ -30,8 +30,6 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 </details>
 * * *
 # Greeting
-
-
 
 ## 1
 
@@ -71,7 +69,7 @@ James:
 * * *
 ## 10
 > and
-> the rich in his humiliation, because like a flower of the grass[fn] he will pass away.
+> the rich in his humiliation, because like a flower of the grass he will pass away.
 
 * * *
 ## 11
@@ -111,7 +109,7 @@ James:
 ## 20
 > for
 > the anger of man does not produce the righteousness of God.
-#Doer
+# Doer
 * * *
 ## 21
 > Therefore 
@@ -130,22 +128,6 @@ James:
 * * *
 
 http://www.eliyah.com/lexicon.html
-
-Questions to ask while you read:
-
-What was the most significant thing I read today? 
-
-## Title 1
-
-the series <a href=”link“<a> decided that, broadly speaking, we </a> 
-
-## Title 2
-
-Did 
-
-## Title 3
-
-
 
 
 * * *
