@@ -4,14 +4,29 @@
 https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 
 <details>
-<summary>Example</summary>
-<ul><li>Questions to Ask while reading this text:</li>
-<li>Is there a command to obey?</li></ul>
-<li>Is there a promise to claim?</li></ul>
-<li>Is there an admonition to take to heart? </li></ul>  
-<li>Is there a warning to heed?</li></ul>  
-<li>What issues of the heart is the passage addressing?</li></ul>  
-<li>How am I to change as a result of this passage’s teaching?</li></ul>  
+<summary>Questions to Ask while reading this text:</summary>
+<ul><li>Is there a command to obey?</li></ul>
+<ul><li>Is there a promise to claim?</li></ul>
+<ul><li>Is there an admonition to take to heart? </li></ul>  
+<ul><li>Is there a warning to heed?</li></ul>  
+<ul><li>What issues of the heart is the passage addressing?</li></ul>  
+<ul><li>How am I to change as a result of this passage’s teaching?</li></ul>  
+</details>
+
+<details>
+<summary> Observation: </summary>
+<ul><li>what is the text saying? </li></ul>
+<ul><li>What is the main point?</li></ul>
+</details>
+
+<details>
+<summary> Interpretation: </summary>
+<ul><li>what does it mean? </li></ul>
+</details>
+
+<details>
+<summary> Application: </summary>
+<ul><li>What do I do with it? </li></ul>
 </details>
 
 # Greeting
@@ -69,9 +84,6 @@ Here is a quote:
 <p> 2 </p> 
 </details>
 
-Observation = what is the text saying? What is the main point? 
-Interpretation = What does it mean?
-Application = What do I do with it?
 
 http://www.eliyah.com/lexicon.html
 
