@@ -12,23 +12,23 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <ul><li>What issues of the heart is the passage addressing?</li></ul>  
 <ul><li>How am I to change as a result of this passage’s teaching?</li></ul>  
 </details>
-
+* * *
 <details>
 <summary> Observation: </summary>
 <ul><li>what is the text saying? </li></ul>
 <ul><li>What is the main point?</li></ul>
 </details>
-
+* * *
 <details>
 <summary> Interpretation: </summary>
 <ul><li>what does it mean? </li></ul>
 </details>
-
+* * *
 <details>
 <summary> Application: </summary>
 <ul><li>What do I do with it? </li></ul>
 </details>
-
+* * *
 # Greeting
 
 Here is a quote:
@@ -70,28 +70,12 @@ Here is a quote:
 
 * * *
 
-<details>
-<summary><b> 1</b></summary>
-<p> 1 </p>
-<p> 2 </p>
-</details>
-
-* * *
-
-<details>
-<summary><b> 2</b></summary>
-<p> 1 </p>
-<p> 2 </p> 
-</details>
-
-
 http://www.eliyah.com/lexicon.html
 
 Questions to ask while you read:
 
-
-
 What was the most significant thing I read today? 
+
 ## Title 1
 
 the series <a href=”link“<a> decided that, broadly speaking, we </a> 
@@ -102,56 +86,7 @@ Did
 
 ## Title 3
 
-<hr>
-<h1>CCM Children’s Ministry Goals</h1>
 
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-         <b>Goal #1</b>
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
-      <div class="card-body">
-        Provide a safe and secure environment in which children can worship, pray, and learn God’s Word.
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingTwo">
-      <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-         <b>Goal #2</b>
-        </button>
-      </h5>
-    </div>
-    <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion" style="">
-      <div class="card-body">
-       Provide a ministry that people want to participate in that is fun and teaches God's truth!
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingThree">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          <b>Goal #3</b>
-        </button>
-      </h5>
-    </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-      <div class="card-body">
-        Provide clear and concise communications.
-      </div>
-    </div>
-  </div>
-</div>
-
-<hr>
 
 
 * * *
