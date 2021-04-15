@@ -1,19 +1,38 @@
 <i> Saturday, April 17th 2021 </i>
 
-<b>James 1</b>
+<b>James 1 (ESV)</b>
 
 <details>
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><summary>Questions to Ask while reading this text</summary></button>
+<summary><b>Questions to Ask while reading this text</b></summary>
 
-<p> Is there a command to obey? </p>
-<p> Is there a promise to claim? </p>
-<p> Is there an admonition to take to heart? </p>
-<p> Is there a warning to heed? </p>
-<p> What issues of the heart is the passage addressing? </p>
-<p> How am I to change as a result of this passage’s teaching? </p>
+<p> - Is there a command to obey? </p>
+<p> - Is there a promise to claim? </p>
+<p> - Is there an admonition to take to heart? </p>
+<p> - Is there a warning to heed? </p>
+<p> - What issues of the heart is the passage addressing? </p>
+<p> - How am I to change as a result of this passage’s teaching? </p>
 
 </details>
+
+## Greeting
+## Testing of Your Faith
+## Hearing and Doing the Word
+
 * * *
+
+<details>
+<summary><b> 1</b></summary>
+<p> 1 </p>
+<p> 2 </p>
+</details>
+
+* * *
+
+<details>
+<summary><b> 2</b></summary>
+<p> 1 </p>
+<p> 2 </p> 
+</details>
 
 Observation = what is the text saying? What is the main point? 
 Interpretation = What does it mean?
