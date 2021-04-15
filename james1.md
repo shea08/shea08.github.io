@@ -2,22 +2,16 @@
 
 <b>James 1 (ESV)</b>
 https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
-<details>
-<summary><b>Questions to Ask while reading this text</b></summary>
-
-<p> - Is there a command to obey? </p>
-<p> - Is there a promise to claim? </p>
-<p> - Is there an admonition to take to heart? </p>
-<p> - Is there a warning to heed? </p>
-<p> - What issues of the heart is the passage addressing? </p>
-<p> - How am I to change as a result of this passage’s teaching? </p>
-
-</details>
 
 <details>
 <summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
+<ul><li>Questions to Ask while reading this text:</li>
+<li>Is there a command to obey?</li></ul>
+<li>Is there a promise to claim?</li></ul>
+<li>Is there an admonition to take to heart? </li></ul>  
+<li>Is there a warning to heed?</li></ul>  
+<li>What issues of the heart is the passage addressing?</li></ul>  
+<li>How am I to change as a result of this passage’s teaching?</li></ul>  
 </details>
 
 # Greeting
@@ -28,11 +22,35 @@ Here is a quote:
 
 # Testing of Your Faith
 
-
+## 1
+## 2
+## 3
+## 4
+## 5
+## 6
+## 7
+## 8
+## 9
+## 10
+## 11
+## 12
+## 13
+## 14
+## 15
+## 16
+## 17
+## 18
 
 # Hearing and Doing the Word
 
-
+## 19
+## 20
+## 21
+## 22
+## 23
+## 24
+## 25
+## 26
 
 
 * * *
