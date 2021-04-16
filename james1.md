@@ -69,7 +69,7 @@ James:
 * * *
 ## 10
 > and
-> the rich in his humiliation, because like a flower (🌷) of the grass (:herb:) he will pass away.
+> the rich in his humiliation, because like a flower (🌷) of the grass (🌿) he will pass away.
 
 * * *
 ## 11
