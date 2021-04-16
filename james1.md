@@ -10,7 +10,7 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <ul><li>Is there a lesson we should take to heart? </li></ul>  
 <ul><li>Is there a warning we should listen to?</li></ul>  
 <ul><li>What issues of the heart is the scripture addressing?</li></ul>  
-<ul><li>How should I to change as a result of this passage’s teaching?</li></ul>  
+<ul><li>How should I live my life in light of what this passage teaches?</li></ul>  
 </details>
 * * *
 <details>
