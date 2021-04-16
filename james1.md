@@ -10,7 +10,7 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <ul><li>Is there a lesson we should take to heart? </li></ul>  
 <ul><li>Is there a warning we should listen to?</li></ul>  
 <ul><li>What issues of the heart (:heart:) is the scripture addressing?</li></ul>  
-<ul><li>How should I live my life in light (:candle:) of what this passage teaches?</li></ul>  
+<ul><li>How should I live my life in light :candle: of what this passage teaches?</li></ul>  
 </details>
 * * *
 <details>
@@ -35,7 +35,7 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 
 James:
 
-> a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings. :one: :two:
+> a servant of God and of the Lord Jesus Christ, To the twelve (1️⃣2️⃣) tribes in the Dispersion: Greetings. 
 
 * * *
 # Trials
