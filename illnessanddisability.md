@@ -1,3 +1,22 @@
+<!-- Primary Meta Tags -->
+<title>Illness & Disability</title>
+<meta name="title" content="Illness & Disability">
+<meta name="description" content="An article about this in the fictional Harry Potter Universe">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://shea08.github.io/illnessanddisability">
+<meta property="og:title" content="Illness & Disability">
+<meta property="og:description" content="An article about this in the fictional Harry Potter Universe">
+<meta property="og:image" content="https://dl.airtable.com/.attachmentThumbnails/8e33fea8ed2a8e11e47b31404f052327/af426724">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://shea08.github.io/illnessanddisability">
+<meta property="twitter:title" content="Illness & Disability">
+<meta property="twitter:description" content="An article about this in the fictional Harry Potter Universe">
+<meta property="twitter:image" content="https://dl.airtable.com/.attachmentThumbnails/8e33fea8ed2a8e11e47b31404f052327/af426724">
+
 <i> Saturday, November 23rd 2019 </i>
 
 <b>Analysis: Illness and Disability in the Fictional Harry Potter Universe</b>
