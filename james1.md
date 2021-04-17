@@ -154,8 +154,6 @@
 </blockquote>
 <hr />
 
-<hr />
-
 <p><a href="https://shea08.github.io/james1">Back to Top</a></p>
 <p><a href='./'>Home</a></p>
 
