@@ -1,3 +1,10 @@
+---
+layout: default
+title: Animated Drawing Overlay with a Pixelbook
+description: This is how I create an animated drawing overlay with my Google Pixelbook
+Image: https://dl.airtable.com/.attachmentThumbnails/c5fe1976a11f37fae202c685b454f475/ee4056d8
+---
+
 <i> Friday, April 26th 2019 </i>
 
 <b> Animated Drawing Overlay with a Pixelbook </b>
