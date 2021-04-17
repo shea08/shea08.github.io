@@ -130,20 +130,20 @@ James:
 </details>
 * * *
 
-<p> Additional Questions to dig deaper into God's word.
-<details>
-<summary> Observation: </summary>
-<ul><li> What is the text saying? </li></ul>
-<ul><li> What is the main point?</li></ul>
-</details>
+<p> Additional Questions to dig deaper into God's word. </p>
+
+<p> Observation: </p>
+> What is the text saying? 
+> What is the main point?
+
 * * *
-<details>
-<summary> Interpretation: </summary>
-<ul><li> What does it mean? </li></ul>
-</details>
+
+<p> Interpretation: </p>
+> What does it mean?  
+
 * * *
-<details>
-<summary> Application: </summary>
+
+<p> Application: </p>
 <ul><li> What do I do with it? </li></ul>
 </details>
 
