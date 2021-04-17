@@ -1,7 +1,6 @@
 <p><i> Saturday, April 17th 2021 </i></p>
 <p><i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
 </i></p><p><i>Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a></i></p>
-<div>[TOC]</div>
 <p>Who was James?</p>
 <ul>
 <li>He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.</li>
