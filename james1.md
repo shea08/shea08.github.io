@@ -13,6 +13,7 @@
 <ul><li> Good works</li></ul>
 <ul><li> Pure religion</li></ul>
 </details>
+
 * * *
 
 # Greeting
