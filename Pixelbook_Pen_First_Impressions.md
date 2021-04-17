@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pixelbook Pen First Impressions
+description: I was originally very tentative about the idea of spending $100 for a pen, but when I saw it went on sale on Amazon for $82 it was enough for me to take a chance on it.
+Image: https://dl.airtable.com/.attachmentThumbnails/84946151a8949b1a7ec3f62c04c83aee/093a8cca
+---
+
 * * *
 
 <i> Monday, December 24th 2018 </i>
