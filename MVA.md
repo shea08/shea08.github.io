@@ -1,3 +1,10 @@
+---
+layout: default
+title: Discovering a Motor Vehicle Accident. How do you respond?
+description: Road injury was the #10 cause of adult death with 2.5% of all deaths.
+Image: https://dl.airtable.com/.attachmentThumbnails/d88f4ef795911bbefc41501796fb5892/6b9c1eab
+---
+
 <i> Wednesday, August 7th 2019 </i>
 
 <b> Discovering a Motor Vehicle Accident. How do you respond? </b>
