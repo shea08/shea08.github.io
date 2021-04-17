@@ -1,3 +1,10 @@
+---
+layout: default
+title: How I use Adobe Scan, Dropbox, and Squid on a Google Pixelbook
+description: I use these ten steps to quickly digitize paper handouts.
+Image: https://dl.airtable.com/.attachmentThumbnails/da315ca240cb97d5cdced74b0fb0ca1b/254ed94a
+---
+
 <i> Wednesday, December 27th 2018 </i>
 
 <b> How I use Adobe Scan, Dropbox, and Squid on a Google Pixelbook </b>
