@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dani California and North Dakota
+description: You might overlook this quote from the popular Red Hot Chili Peppers song, but when you live in the state you can't help wonder -- What were they talking about?
+Image: https://dl.airtable.com/.attachmentThumbnails/97071273e2a40a733d0d6e47307752a3/5f41ec13
+---
+
 <i> Wednesday, December 5th 2018 </i>
 
 <b> Dani California </b>
