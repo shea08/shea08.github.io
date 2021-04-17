@@ -41,6 +41,7 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <ul><li>⭐ Pure religion/li></ul>
 </details>
 * * *
+
 # Greeting
 
 ## 1
