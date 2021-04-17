@@ -4,6 +4,7 @@
 <p>Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a></p>
 
 
+
 Who was James?
 
 - He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.
@@ -205,6 +206,7 @@ What is the outline and three main points of this book?
 
 <div id="disqus_thread"></div>
 <script>
+
 
 
 /**
