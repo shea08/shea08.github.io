@@ -1,4 +1,13 @@
+---
+layout: default
+title: 3D Inner and Middle Ear
+description: This is a page that I built for learning the inner ear for Human Anatomy in College
+Image: https://dl.airtable.com/.attachmentThumbnails/fd1e24d5cb846f153318bc263e56808e/f6773dba
+---
+
 <i> Thursday, January 31st 2019 </i>
+
+This is a page that I built for learning the inner ear for Human Anatomy in College
 
 <b> 3D Inner and Middle Ear </b>
 
