@@ -1,3 +1,10 @@
+---
+layout: default
+title: Excel 2016: How to Deconflict Schedules
+description: This is how I deconflict schedules using Excel
+Image: https://dl.airtable.com/.attachmentThumbnails/a20b72709616487a2ac40bea9541cd8e/5bb60f7b
+---
+
 <i> Sunday, January 6th 2019 </i>
 
 <b> Excel 2016: How to Deconflict Schedules </b>
