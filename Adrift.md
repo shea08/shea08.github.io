@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Five Stages of Grief and the movie Adrift
+description: The movie Adrift is based on a true story...
+image: https://dl.airtable.com/.attachmentThumbnails/373159e5ef13eb98fd502cacce1561be/4206acbd
+---
+
 <i> Tuesday, June 4th 2019 </i>
 
 ## <b> The Five Stages of Grief and the movie Adrift </b>
