@@ -145,16 +145,14 @@
 <ul><li> What do I do with it? </li></ul>
 <hr />
 
-<hr />
 <p> Other sources referenced: </p>
 <blockquote><ul>
 <li>Halley's Bible Handbook by Henry H. Halley  </li>
-
+<li><a href="https://youtu.be/qn-hLHWwRYY">Overview: James by BibleProject</a></li>
+<li> Getting More from Your Personal Bible Study by David R. Hawkins </li>  
 </ul>
 </blockquote>
 <hr />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn-hLHWwRYY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr />
 
