@@ -1,5 +1,8 @@
 ---
 layout: default
+title: A STUDY IN WHOLE-BODY VIBRATION IN MILITARY ARMORED VEHICLES AND THE IMPACT IT HAS ON HUMAN RESPONSE TIME AND OTHER HUMAN FACTORS
+description: whole-body vibration, military, iPod touch, consumer electronics, response time, lower back pain, vehicle rollover
+Image: https://raw.githubusercontent.com/shea08/shea08.github.io/master/Fig2.png
 ---
 # A STUDY IN WHOLE-BODY VIBRATION IN MILITARY ARMORED VEHICLES AND THE IMPACT IT HAS ON HUMAN RESPONSE TIME AND OTHER HUMAN FACTORS
 
