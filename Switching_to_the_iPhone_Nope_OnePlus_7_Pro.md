@@ -1,3 +1,10 @@
+---
+layout: default
+title: Why I got a OnePlus instead of an iPhone
+description: The pop-up camera is one of the revolutionary features that led me to purchase this phone.
+Image: https://dl.airtable.com/.attachmentThumbnails/60e90fc8b2f0941fd8ac11753bfdc643/f1f44391
+---
+
 <i> Tuesday, May 14th 2019 </i>
 
 # <b> Oct 10th 2020 Update: OnePlus 7 Pro…16 months later!  </b>
