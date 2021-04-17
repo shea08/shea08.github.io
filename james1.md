@@ -144,6 +144,20 @@
 <p> Application: </p>
 <ul><li> What do I do with it? </li></ul>
 <hr />
+
+<hr />
+<p> Other sources referenced: </p>
+<blockquote><ul>
+<li>Halley's Bible Handbook by Henry H. Halley  </li>
+
+</ul>
+</blockquote>
+<hr />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn-hLHWwRYY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr />
+
 <p><a href="https://shea08.github.io/james1">Back to Top</a></p>
 <p><a href='./'>Home</a></p>
 
