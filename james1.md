@@ -1,20 +1,20 @@
 <i> Saturday, April 17th 2021 </i>
 <p><i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
 <p>Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a></p>
-<hr>
-<details>
-<summary> Who was James? </summary>
-<ul><li> He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus. </li></ul>
-</details>
-<hr>
-<details>
-<summary> What is the outline and three main points of this book? </summary>
-<ul><li> Christian wisdom</li></ul>
-<ul><li> Good works</li></ul>
-<ul><li> Pure religion</li></ul>
-</details>
 
-<hr>
+* * *
+
+Who was James?
+> He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus. </li></ul>
+
+* * *
+
+What is the outline and three main points of this book?
+> Christian wisdom
+> Good works
+> Pure religion
+
+* * *
 
 ## Greeting
 
