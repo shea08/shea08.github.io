@@ -1,3 +1,9 @@
+---
+layout: default
+title: Making a Quizlet Study Set From PDF
+description: I enjoy finding technical solutions to problems. I have learned over the years that we often think that we need more software or programs. Microsoft office can do what we need and more.
+---
+
 <i> Thursday, March 7th 2019 </i>
 
 <b> Making a Quizlet Study Set From PDF </b>
