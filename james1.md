@@ -5,7 +5,7 @@
 * * *
 
 Who was James?
-> He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus. </li></ul>
+> He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.
 
 * * *
 
