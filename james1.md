@@ -1,37 +1,10 @@
 <i> Saturday, April 17th 2021 </i>
+<i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
+Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a>
 
-<b>James 1 (ESV)</b>
-https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
-
-<details>
-<summary>Questions to Ask while reading this text:❓ </summary>
-<ul><li>⭐ Is there a command to obey?</li></ul>
-<ul><li>⭐ Is there a promise to claim?</li></ul>
-<ul><li>⭐ Is there a lesson we should take to heart? </li></ul>  
-<ul><li>⭐ Is there a warning we should listen to?</li></ul>  
-<ul><li>⭐ What issues of the heart (❤️) is the scripture addressing?</li></ul>  
-<ul><li>⭐ How should I live my life in light (🕯️) of what this passage teaches?</li></ul>  
-</details>
-* * *
-<details>
-<summary> Observation: </summary>
-<ul><li>⭐ What is the text saying? </li></ul>
-<ul><li>⭐What is the main point?</li></ul>
-</details>
-* * *
-<details>
-<summary> Interpretation: </summary>
-<ul><li>⭐ What does it mean? </li></ul>
-</details>
-* * *
-<details>
-<summary> Application: </summary>
-<ul><li>⭐ What do I do with it? </li></ul>
-</details>
-* * *
 <details>
 <summary> Who was James? </summary>
-<ul><li>⭐ He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. </li></ul>
+<ul><li>⭐ He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus. </li></ul>
 </details>
 
 <summary> What is the outline and three main points of this book? </summary>
@@ -143,8 +116,34 @@ James:
 > that is pure and undefiled before God the Father is this: to visit orphans(👶)(👧)and widows (👩) in their affliction, and to keep oneself unstained from the world (🌎).
 * * *
 
-http://www.eliyah.com/lexicon.html
+<p> Here is a great list of questions to ask your self while studying the Bible </p>
+<details>
+<summary>Questions to Ask while reading this text:❓ </summary>
+<ul><li>⭐ Is there a command to obey?</li></ul>
+<ul><li>⭐ Is there a promise to claim?</li></ul>
+<ul><li>⭐ Is there a lesson we should take to heart? </li></ul>  
+<ul><li>⭐ Is there a warning we should listen to?</li></ul>  
+<ul><li>⭐ What issues of the heart (❤️) is the scripture addressing?</li></ul>  
+<ul><li>⭐ How should I live my life in light (🕯️) of what this passage teaches?</li></ul>  
+</details>
+* * *
 
+<p> Additional Questions to dig deaper into God's word.
+<details>
+<summary> Observation: </summary>
+<ul><li>⭐ What is the text saying? </li></ul>
+<ul><li>⭐What is the main point?</li></ul>
+</details>
+* * *
+<details>
+<summary> Interpretation: </summary>
+<ul><li>⭐ What does it mean? </li></ul>
+</details>
+* * *
+<details>
+<summary> Application: </summary>
+<ul><li>⭐ What do I do with it? </li></ul>
+</details>
 
 * * *
 
