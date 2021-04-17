@@ -34,7 +34,7 @@ https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001
 <ul><li>⭐ He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. </li></ul>
 </details>
 
-What is the outline and three main points of this book? </summary>
+<summary> What is the outline and three main points of this book? </summary>
 <ul><li>⭐ Christian wisdom</li></ul>
 <ul><li>⭐ Good works</li></ul>
 <ul><li>⭐ Pure religion</li></ul>
