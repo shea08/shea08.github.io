@@ -2,13 +2,13 @@
 <p><i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
 <p>Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a></p>
 
-<p> Who was James? </p>
-> He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.
+Who was James?
+- He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.
 
-<p> What is the outline and three main points of this book? </p>
-> Christian wisdom
-> Good works
-> Pure religion
+What is the outline and three main points of this book? </p>
+- Christian wisdom
+- Good works
+- Pure religion
 
 ## Greeting
 
