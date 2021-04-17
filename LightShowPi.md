@@ -1,6 +1,9 @@
 ---
 layout: default
+title: LightShow Pi
+description: I am planning to make a LightShow Pi that will be a front yard light show. It will allow my lights to follow music.
 ---
+
 # LightShow Pi
 
 <i> Keywords: Raspberry Pi 3, Light Display, Christmas, Electricity </i>
