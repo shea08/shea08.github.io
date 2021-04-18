@@ -1,6 +1,13 @@
+---
+layout: default
+title: Ben's 360 Photography
+description: My Google Street View 360° images have been viewed over 6.9 million times. My product is for people who believe that their location must be seen.
+Image: https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg
+---
+
 <img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/360.jpg" alt="Ben's 360 Photography">
 
-I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 1.3 million times. My product is for people who believe that their location must be seen. I am available to be hired in Ogden, Utah and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
+I am a <a href="https://www.google.com/streetview/contacts-tools"> Street View Trusted Photographer</a>. My 360° images have been viewed over 6.9 million times. My product is for people who believe that their location must be seen. I am available to be hired in Ogden, Utah and the surrounding areas. I can publish to Google Street View and link to your Google Business listing.
 
 Please <a href="m.me/360ben">contact me</a> to discuss a quote and schedule. 
 
