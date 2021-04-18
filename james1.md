@@ -2,7 +2,7 @@
 layout: default
 title: Men's Bible Study- James 1
 description: Of his own will he brought us forth by the word of truth, that we should be a kind of first-fruits of his creatures. (🍎)(🍏)(🍓)
-Image: https://coolbackgrounds.io/images/backgrounds/white/white-trianglify-b79c7e1f.jpg
+Image: https://dl.airtable.com/.attachmentThumbnails/a09c97d7a236ec8e5b5224ec7bea45f6/09d8979d
 ---
 
 
