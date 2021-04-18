@@ -1,3 +1,10 @@
+---
+layout: default
+title: Harry Houdini - Death by Peritonitis
+description: However, his official cause of death was peritonitis, which is an “Irritation of your abdominal lining”.
+Image: https://dl.airtable.com/.attachmentThumbnails/a62aa76d94264632b35e230d052f2dd7/4fdd4921
+---
+
 <i> Saturday, June 8th 2019 </i>
 
 <b> Harry Houdini - Death by Peritonitis </b>
