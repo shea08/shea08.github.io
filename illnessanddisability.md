@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Analysis: Illness and Disability
+title: Analysis- Illness and Disability
 description: A closer look at the Fictional Harry Potter Universe
-Image: https://dl.airtable.com/.attachmentThumbnails/8e33fea8ed2a8e11e47b31404f052327/af426724
+Image: https://dl.airtable.com/.attachmentThumbnails/373159e5ef13eb98fd502cacce1561be/4206acbd
 ---
 
 <i> Saturday, November 23rd 2019 </i>
