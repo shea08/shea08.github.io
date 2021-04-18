@@ -1,3 +1,9 @@
+---
+layout: default
+title: My experiences with the Google Pixelbook
+description: The Pixelbook has largely been a perfect laptop for being a college student. I have found that the addition of the Google Play store has been the biggest improvement on the original budget Chromebook that I started using in 2015.
+---
+
 <b> <a href="https://store.google.com/us/product/google_pixelbook?hl=en-US"> Google Pixelbook </a></b>
 
 ## Faults Encountered
