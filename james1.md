@@ -1,3 +1,11 @@
+---
+layout: default
+title: Men's Bible Study: James 1
+description: Of his own will he brought us forth by the word of truth, that we should be a kind of first-fruits of his creatures. (🍎)(🍏)(🍓)
+Image: https://coolbackgrounds.io/images/backgrounds/white/white-trianglify-b79c7e1f.jpg
+---
+
+
 <p><i> Saturday, April 17th 2021 </i></p>
 <p><i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
 </i></p><p><i>Reading: <a href="https://www.blueletterbible.org/esv/jas/1/1/p1/s_1147001">James 1 (ESV)</a></i></p>
