@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book Review: Fentanyl, Inc. How Rogue Chemists Are Creating the Deadliest Wave of the Opioid Epidemic 
+title: Book Review- Fentanyl, Inc. How Rogue Chemists Are Creating the Deadliest Wave of the Opioid Epidemic 
 description: This book provides a historical, scientific, political, and pharmacology overview of the drug Fentanyl and its many analogs.
 Image: https://dl.airtable.com/.attachmentThumbnails/12e189bb32bee9fb6ca1ed93110752be/5675acf1
 ---
