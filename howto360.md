@@ -1,3 +1,10 @@
+---
+layout: default
+title: My 360 Photography Workflow
+description: I use a Nikon D610 and a Nodal Ninja panohead
+Image: https://dl.airtable.com/.attachmentThumbnails/b4d6bbd2f672fac2c68695fe3299c1d5/ab472ddc
+---
+
 <i> Saturday, October 10th 2020 </i>
 
 <b> 360 Photography Workflow </b>
