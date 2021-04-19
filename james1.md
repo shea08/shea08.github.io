@@ -2,9 +2,10 @@
 layout: default
 title: Men's Bible Study- James 1
 description: Of his own will he brought us forth by the word of truth, that we should be a kind of first-fruits of his creatures. (🍎)(🍏)(🍓)
-Image: https://dl.airtable.com/.attachmentThumbnails/a09c97d7a236ec8e5b5224ec7bea45f6/09d8979d
+Image: https://raw.githubusercontent.com/shea08/shea08.github.io/master/James1.jpg
 ---
 
+<img src="https://raw.githubusercontent.com/shea08/shea08.github.io/master/James1.jpg" alt="James 1">
 
 <p><i> Saturday, April 17th 2021 </i></p>
 <p><i> Event: <a href="https://cornerstoneofutah.com/"> Men's Bible Study at Cornerstone Bible Church of Utah</a>
@@ -12,13 +13,6 @@ Image: https://dl.airtable.com/.attachmentThumbnails/a09c97d7a236ec8e5b5224ec7be
 <p>Who was James?</p>
 <ul>
 <li>He was the oldest brother of Jesus and is commonly known as the writer of this Epistle. He became the leading Overseer of the Judean church. His ministry was focused on reaching those in the Jewish faith. This book of the Bible was an Epistle or letter written to all Christians and believers in Jesus.</li>
-
-</ul>
-<p>What is the outline and three main points of this book?</p>
-<ul>
-<li>Christian wisdom</li>
-<li>Good works</li>
-<li>Pure religion</li>
 
 </ul>
 <h1>Greeting</h1>
