@@ -70,7 +70,6 @@ Please <a href="https://m.me/360ben">contact me </a> to discuss a quote and sche
 
 ## More Samples
 - <a href="https://calvarychapelminot.org/DakotaHopeClinic.html">The Dakota Hope Clinic </a>
-- <a href="http://calvarychapelminot.org/1%20Nov%20LWLC.html">Living Word Lutheran Church Virtual Tour</a>
 - <a href="https://goo.gl/maps/5gb27E5oHev1NARo9"> Oak Park; The Colors of Fall 2019</a>
 
 * * *
