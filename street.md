@@ -37,7 +37,7 @@ Google's research shows that:
 
 <a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/mimexico/MiMexico.html"> Virtual tour </a> of a great authentic mexican restuarant! -- Mi Mexico
 
-<a href="hhttps://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of Margie's Art Glass Studio
+<a href="https://bensvirtualtours.s3.ca-central-1.amazonaws.com/Margie's/Margie_s.html"> Virtual tour </a> of Margie's Art Glass Studio
 
 * * *
 
