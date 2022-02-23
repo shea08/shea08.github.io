@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<i> Current as of Wednesday, March 15th 2021 </i>
+<i> Current as of Tuesday, February 22nd 2022 </i>
 
 ## <b> Allergy List </b>
 
@@ -11,35 +11,30 @@ layout: default
 - Soy
 - Soy Bean*
 - Soy Bean Oil
-- Soy lecithin
+- Soy lecithin (needs to be at bottom of ingredients list)
 - Peas*
 - Meat cooked with a sauce (must be cooked with a  dry rub)
 - Cabbage 🥬 (cooked with corn beef)
 
 <b> Moderate (itchy throat and tongue, hives, discomfort, upset stomach) </b>
+- Wheat Pasta 🍝 (I Eat Regular Barilla Pasta)
 - Carrots 🥕
 - Banana 🍌
 - Pineapple 🍍
 - Peach 🍑
+- Vinegar
 - Kiwi 🥝
 - Walnut
 - Green beans
-- Wheat based beer 🍺
 - Honeydew 🍈
 - Melon
 - Watermelon 🍉
-- Cauliflower
 - Leafy Greens (spinach) 🥬
 - Fish 🐟 (I take a fish oil 💊 to get omega-3s)
+- Multi-grain wheat 🌾
 
 <b> Mild (upset stomach/gas) </b>
 - 2% Milk (substitute with almond milk)
-
-<b> Problematic in the past (requires caution) </b>
-- Peanut 🥜
-- Multi-grain wheat 🌾
-- Corn 🌽
-- Almonds
 
 * * *
 
