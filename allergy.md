@@ -13,7 +13,7 @@ layout: default
 - Soy Bean Oil
 - Soy lecithin (needs to be at bottom of ingredients list)
 - Peas*
-- Meat cooked with a sauce (must be cooked with a  dry rub)
+- Meat cooked with a sauce (associated w/ vinnegar)(must be cooked with a dry rub)
 - Cabbage 🥬 (cooked with corn beef)
 
 <b> Moderate (itchy throat and tongue, hives, discomfort, upset stomach) </b>
@@ -22,7 +22,6 @@ layout: default
 - Banana 🍌
 - Pineapple 🍍
 - Peach 🍑
-- Vinegar
 - Kiwi 🥝
 - Walnut
 - Green beans
