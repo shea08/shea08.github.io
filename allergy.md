@@ -7,11 +7,13 @@ layout: default
 ## <b> Allergy List </b>
 
 <b> Severe (anaphylaxis, 🤮, smell) </b>
+- Corn (vinnegar) 
+- Peanut
 - Beans
 - Soy
 - Soy Bean*
 - Soy Bean Oil
-- Soy lecithin (needs to be at bottom of ingredients list)
+- Soy lecithin
 - Peas*
 - Meat cooked with a sauce (associated w/ vinnegar)(must be cooked with a dry rub)
 - Cabbage 🥬 (cooked with corn beef)
@@ -46,6 +48,24 @@ layout: default
 ~ My favorite vegies include: bell peppers, zucchini, squash, broccoli 🥦, potatoe 🥔, sweet potatoe 🍠, asparagus, and cucumber 🥒. 
 
 ~ My favorite fruits include: jazz apple 🍎, strawberry 🍓, blueberry 🔵, raspberry 🟣, Orange 🍊, grapes 🍇, grapefruit. 
+
+* * *
+<b> Clinic Confirmed Allergy List (April 14th 2022)</b>
+
+- Peanut
+- Soy
+- Corn
+- Tree Mix 3
+- Tree Mix 4A
+- Tree Mix 4B
+- Grass Mix
+- AP Cat
+- AP Dog
+- D.P. Mite
+- Mixed Molds
+- Pea
+- Green Bean
+- Mustard
 
 * * *
 
