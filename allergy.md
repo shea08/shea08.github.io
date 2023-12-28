@@ -2,21 +2,23 @@
 layout: default
 ---
 
-<i> Current as of Tuesday, February 22nd 2022 </i>
+<i> Current as of Thursday, December 28th 2023 </i>
 
 ## <b> Allergy List </b>
 
 <b> Severe (anaphylaxis, 🤮, smell) </b>
 - Corn (vinnegar) 
-- Peanut
-- Beans
+- Mustard🌭
+- Peanut🥜
+- Beans🫘
 - Soy
 - Soy Bean*
 - Soy Bean Oil
+- Green beans 
 - Soy lecithin
-- Peas*
+- Peas*🫛
 - Meat cooked with a sauce (associated w/ vinnegar)(must be cooked with a dry rub)
-- Cabbage 🥬 (cooked with corn beef)
+- Cabbage 🥬 (associated with being cooked with corn beef and vinnegar)
 
 <b> Moderate (itchy throat and tongue, hives, discomfort, upset stomach) </b>
 - Wheat Pasta 🍝 (I Eat Regular Barilla Pasta)
@@ -26,28 +28,24 @@ layout: default
 - Peach 🍑
 - Kiwi 🥝
 - Walnut
-- Green beans
 - Honeydew 🍈
 - Melon
 - Watermelon 🍉
-- Leafy Greens (spinach) 🥬
-- Fish 🐟 (I take a fish oil 💊 to get omega-3s)
-- Multi-grain wheat 🌾
-
-<b> Mild (upset stomach/gas) </b>
-- 2% Milk (substitute with almond milk)
+- Fish 🐟 (often because of vegetable cooking oils)
+- Multi-grain wheat 🌾 (often because of soy/legume based ingredients)
+- Sweet potatoe 🍠
 
 * * *
 
-~  Nuts: I only eat cashews, sunflower seeds, almonds, and peanuts. 
+~  Nuts: I only eat cashews, sunflower seeds, and almonds.
 
 ~ I eat iceberg lettuce on my salads 🥬 (dressing must have olive or canola oil)
 
-~ I cook with olive oil
+~ I cook with olive and canolla oil
 
-~ My favorite vegies include: bell peppers, zucchini, squash, broccoli 🥦, potatoe 🥔, sweet potatoe 🍠, asparagus, and cucumber 🥒. 
+~ My favorite vegies include: bell peppers, zucchini, squash, broccoli 🥦, potatoe 🥔, asparagus, and cucumber 🥒. 
 
-~ My favorite fruits include: jazz apple 🍎, strawberry 🍓, blueberry 🔵, raspberry 🟣, Orange 🍊, grapes 🍇, grapefruit. 
+~ My favorite fruits include: jazz apple 🍎, strawberry 🍓, blueberry 🔵, raspberry 🟣, Orange 🍊, grapes 🍇, and grapefruit.. 
 
 * * *
 <b> Clinic Confirmed Allergy List (April 14th 2022)</b>
