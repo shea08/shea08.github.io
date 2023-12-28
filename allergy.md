@@ -7,7 +7,7 @@ layout: default
 ## <b> Allergy List </b>
 
 <b> Severe (anaphylaxis, 🤮, smell) </b>
-- Corn (vinnegar) 
+- Corn (vinegar) 
 - Mustard🌭
 - Peanut🥜
 - Beans🫘
@@ -33,7 +33,7 @@ layout: default
 - Watermelon 🍉
 - Fish 🐟 (often because of vegetable cooking oils)
 - Multi-grain wheat 🌾 (often because of soy/legume based ingredients)
-- Sweet potatoe 🍠
+- Sweet potato 🍠
 
 * * *
 
