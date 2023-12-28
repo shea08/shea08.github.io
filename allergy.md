@@ -43,9 +43,9 @@ layout: default
 
 ~ I cook with olive and canolla oil
 
-~ My favorite vegies include: bell peppers, zucchini, squash, broccoli 🥦, potatoe 🥔, asparagus, and cucumber 🥒. 
+~ My favorite vegies include: bell peppers, zucchini, squash, broccoli 🥦, potatoe 🥔, asparagus, cauliflower, kale, spinach, and cucumber 🥒. 
 
-~ My favorite fruits include: jazz apple 🍎, strawberry 🍓, blueberry 🔵, raspberry 🟣, Orange 🍊, grapes 🍇, and grapefruit.. 
+~ My favorite fruits include: jazz apple 🍎, strawberry 🍓, blueberry 🔵, raspberry 🟣, Orange 🍊, grapes 🍇, and grapefruit.
 
 * * *
 <b> Clinic Confirmed Allergy List (April 14th 2022)</b>
