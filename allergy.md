@@ -34,6 +34,7 @@ layout: default
 - Fish 🐟 (often because of vegetable cooking oils)
 - Multi-grain wheat 🌾 (often because of soy/legume based ingredients)
 - Sweet potato 🍠
+- Sesame seed (burger buns)
 
 * * *
 
